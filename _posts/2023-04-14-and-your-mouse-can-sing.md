@@ -7,7 +7,7 @@ permalink: /2023/04/14/55-and-your-mouse-can-sing/
 spotify: "https://open.spotify.com/embed/episode/3VNtoWHTxHS3ipbdiRhCvV?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/55-and-your-mouse-can-sing/id1556937028?i=1000609038288"
 performers: ["萩", "脇", "藤"]
-topics: ["ゲスト回", "大学院留学", "PhD", "行動", "システム神経科学"]
+topics: ["ゲスト回", "大学院留学", "行動", "システム神経科学"]
 summary: "NYUでResearch associate, 秋から米国PhDコースの藤島悠貴さん(<a href='https://x.com/yfujishima_'>@yfujishima_</a>) がゲスト。RA応募時のこと、現在行っているSinging Mouseの研究、PhDアプリケーション全敗から２年間のRAを経てオファー大量獲得へと至った経緯、思考プロセス、得たノウハウ等を伺いました (4/5収録)"
 ---
 

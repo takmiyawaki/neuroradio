@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/embed/episode/72wctGKNBKxt72Lv14sc00?utm_sour
 apple_podcast: "https://podcasts.apple.com/us/podcast/69-phd-programme-at-the-centre/id1556937028?i=1000636990762"
 guests: ["黒田澄哉", "中野誠大"]
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "PhD", "大学院留学", "システム神経科学"]
+topics: ["ゲスト回", "大学院留学", "システム神経科学"]
 summary: "University College London/Sainsbury Wellcome Centre 博士課程の黒田澄哉さん(<a href='https://x.com/_sumiyakuroda'>@_sumiyakuroda</a>)、中野誠大さん(<a href='https://x.com/_mnakano'>@_mnakano</a>)がゲスト。UCL/SWCでのPhDコース、Tom (& Tim) ラボでの仕事の様子、PhDアプリケーション時の話、ロンドン生活について伺いました (11/10収録)"
 ---
 
