@@ -59,6 +59,12 @@ Show NotesとEditorial Notesは、Google Docsからそのまま貼りやすい�
 [表示テキスト](https://example.com)
 ```
 
+URL に `(` や `)` が入る場合は、リンク先を `<>` で囲ってください。Wikipedia の URL で起こりやすいです。
+
+```markdown
+[Sting](<https://en.wikipedia.org/wiki/Sting_(musician)>)
+```
+
 ### Spotify埋め込みURL
 
 Spotifyのエピソードページから埋め込みURLを取得し、`spotify:` に入れます。形式はこのようにします。
