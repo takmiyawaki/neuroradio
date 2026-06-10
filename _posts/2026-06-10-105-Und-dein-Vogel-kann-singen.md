@@ -2,7 +2,7 @@
 layout: episode
 title: "#105 Und dein Vogel kann singen"
 episode_number: "105"
-date: 2026-06-##
+date: 2026-06-10
 permalink: /2026/06/10/105-Und-dein-Vogel-kann-singen/
 spotify: "https://open.spotify.com/episode/7rHUc9HTbMeUffvj6NR3YT"
 apple_podcast: ""
