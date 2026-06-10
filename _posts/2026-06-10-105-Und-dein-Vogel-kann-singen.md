@@ -4,7 +4,7 @@ title: "#105 Und dein Vogel kann singen"
 episode_number: "105"
 date: 2026-06-10
 permalink: /2026/06/10/105-Und-dein-Vogel-kann-singen/
-spotify: "https://open.spotify.com/episode/7rHUc9HTbMeUffvj6NR3YT"
+spotify: "https://open.spotify.com/embed/episode/7rHUc9HTbMeUffvj6NR3YT?utm_source=generator&si=a65e12590e964955"
 apple_podcast: ""
 guests: ["フォーゲルザング麻凜"]
 performers: ["ゲスト", "藤"]
