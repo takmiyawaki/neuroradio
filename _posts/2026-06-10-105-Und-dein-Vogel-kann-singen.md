@@ -5,7 +5,7 @@ episode_number: "105"
 date: 2026-06-10
 permalink: /2026/06/10/105-Und-dein-Vogel-kann-singen/
 spotify: "https://open.spotify.com/embed/episode/7rHUc9HTbMeUffvj6NR3YT?utm_source=generator&si=a65e12590e964955"
-apple_podcast: ""
+apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/105-und-dein-vogel-kann-singen/id1556937028?i=1000772025915"
 guests: ["フォーゲルザング麻凜"]
 performers: ["ゲスト", "藤"]
 topics: ["ゲスト回", "ヒト", "発達", "疾患", "認知科学", "計算神経科学", "論文解説", "大学院留学", "音楽"]
