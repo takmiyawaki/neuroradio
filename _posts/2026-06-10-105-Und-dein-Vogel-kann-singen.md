@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/embed/episode/7rHUc9HTbMeUffvj6NR3YT?utm_sour
 apple_podcast: ""
 guests: ["フォーゲルザング麻凜"]
 performers: ["ゲスト", "藤"]
-topics: [“ゲスト回”, “ヒト”, “発達”, “疾患”, “認知科学”, “計算神経科学”, “論文解説”, “大学院留学”, “音楽”]
+topics: [ゲスト回, ヒト, 発達, 疾患, 認知科学, 計算神経科学, 論文解説, 大学院留学, 音楽]
 summary: "MIT Sinhaラボ ポスドクのフォーゲルザング麻凛さんゲスト回。ヒト視覚発達x機械学習のScience論文、スイスでの大学院生活、福岡、ミュージカル・音楽、バイブコーディング談義等。 (2026/05/31 収録)"
 ---
 
