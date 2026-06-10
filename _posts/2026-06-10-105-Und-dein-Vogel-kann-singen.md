@@ -57,7 +57,7 @@ Sinha先生は元々西海岸でCSのPhDを始めた: 元々PhDを始めたの�
 [ソンドハイム(Stephen Sondheim)](https://en.wikipedia.org/wiki/Stephen_Sondheim)
 [Into the woods](https://en.wikipedia.org/wiki/Into_the_Woods)
 [Sweeny Todd](https://en.wikipedia.org/wiki/Stephen_Sondheim)
-[エリザベート](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%83%BC%E3%83%88_\(%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB\))
+[エリザベート](<https://ja.wikipedia.org/wiki/エリザベート_(ミュージカル)>)
 [モーツァルト！](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%84%E3%82%A1%E3%83%AB%E3%83%88!)
 [Sting](<https://en.wikipedia.org/wiki/Sting_(musician)>)（[The Police](https://en.wikipedia.org/wiki/The_Police) のベーシスト兼リードシンガー）
 [のミュージカル](https://www.metopera.org/season/2025-26-special-presentation/stings-the-last-ship/)
@@ -65,16 +65,16 @@ Sinha先生は元々西海岸でCSのPhDを始めた: 元々PhDを始めたの�
 [John Williams](https://en.wikipedia.org/wiki/John_Williams)
 [Citizens Opera House](https://www.citizensoperahouse.com/)
 [Rubber Soul](https://en.wikipedia.org/wiki/Rubber_Soul)
-[Revolver](https://en.wikipedia.org/wiki/Revolver_\(Beatles_album\))
+[Revolver](<https://en.wikipedia.org/wiki/Revolver_(Beatles_album)>)
 [ポール・マッカートニー](https://en.wikipedia.org/wiki/Paul_McCartney)
 [リンゴ・スター](https://en.wikipedia.org/wiki/Ringo_Starr)
 [Steven Lukather](https://en.wikipedia.org/wiki/Steve_Lukather)
 [Todd Rundgren](https://en.wikipedia.org/wiki/Todd_Rundgren)
-[Mr. Mister](https://en.wikipedia.org/wiki/Mr._Mister)のヒト([Richard Page](https://en.wikipedia.org/wiki/Richard_Page_(musician)))でした
-[オアシス](https://en.wikipedia.org/wiki/Oasis_\(band\))
+[Mr. Mister](https://en.wikipedia.org/wiki/Mr._Mister)のヒト([Richard Page](<https://en.wikipedia.org/wiki/Richard_Page_(musician)>))でした
+[オアシス](<https://en.wikipedia.org/wiki/Oasis_(band)>)
 [Beedy Eye](https://en.wikipedia.org/wiki/Beady_Eye) (リアムの別バンド）
 訂正: オアシスはリバプールではなくマンチェスター出身でした
-[Mr. Big](https://en.wikipedia.org/wiki/Mr._Big_\(American_band\))
+[Mr. Big](<https://en.wikipedia.org/wiki/Mr._Big_(American_band)>)
 [Jeff Beck](https://en.wikipedia.org/wiki/Jeff_Beck)
 [Brian Wilson](https://en.wikipedia.org/wiki/Brian_Wilson)
 [アル・ジャーディン(Al Jardin)](https://en.wikipedia.org/wiki/Al_Jardine)
