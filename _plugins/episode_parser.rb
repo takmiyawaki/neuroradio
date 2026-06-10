@@ -94,18 +94,44 @@ module NeuroRadio
       end
     end
 
-    def inline_markdown_to_html(value, baseurl = "")
-      escaped = CGI.escapeHTML(value.to_s)
-      escaped.gsub(/(!?)\[([^\]]*)\]\(([^)]+)\)/) do
-        bang = Regexp.last_match(1)
-        label = CGI.escapeHTML(Regexp.last_match(2))
-        href = CGI.escapeHTML(asset_url(Regexp.last_match(3), baseurl))
-        if bang == "!"
-          %(<figure><img src="#{href}" alt="#{label}"></figure>)
-        else
-          %(<a href="#{href}">#{label}</a>)
-        end
+    def markdown_destination_pattern
+      /<[^>]+>|[^)]+/
+    end
+
+    def normalize_markdown_destination(destination)
+      value = destination.to_s.strip
+      if value.start_with?("<") && value.end_with?(">")
+        value = value[1...-1]
       end
+
+      asset_url(value, "")
+    end
+
+    def inline_markdown_to_html(value, baseurl = "")
+      source = value.to_s
+      pattern = /(!?)\[([^\]]*)\]\((#{markdown_destination_pattern})\)/
+      cursor = 0
+      html = +""
+
+      source.to_enum(:scan, pattern).each do
+        match = Regexp.last_match
+        html << CGI.escapeHTML(source[cursor...match.begin(0)])
+
+        bang = match[1]
+        label = CGI.escapeHTML(match[2])
+        href = CGI.escapeHTML(asset_url(normalize_markdown_destination(match[3]), baseurl))
+
+        if bang == "!"
+          html << %(<figure><img src="#{href}" alt="#{label}"></figure>)
+        else
+          html << %(<a href="#{href}">#{label}</a>)
+        end
+
+        cursor = match.end(0)
+      end
+
+      html << CGI.escapeHTML(source[cursor..])
+      html
     end
 
     def notes_to_html(value, baseurl = "")
@@ -147,10 +173,10 @@ module NeuroRadio
           next
         end
 
-        image = line.match(/^!\[([^\]]*)\]\(([^)]+)\)$/)
+        image = line.match(/^!\[([^\]]*)\]\((#{markdown_destination_pattern})\)$/)
         if image
           flush.call
-          src = CGI.escapeHTML(asset_url(image[2], baseurl))
+          src = CGI.escapeHTML(asset_url(normalize_markdown_destination(image[2]), baseurl))
           blocks << %(<figure><img src="#{src}" alt="#{CGI.escapeHTML(image[1])}"></figure>)
         else
           items << line
