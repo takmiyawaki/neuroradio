@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "キャリア", "視覚", "予測", "シ�
 summary: "古館さん(<a href='https://x.com/ShoheiFurutachi'>@ShoheiFurutachi</a>) in-person収録＠Allen Institute。直近の論文リバイズ中の出来事、最近の興味、ネタ被りに関する様々な考え方、ジョブハントの様子、東大での某失敗談の詳細 (10/13 収録)"
 ---
 
-Summary:
-古館さん(@ShoheiFurutachi) in-person収録＠Allen Institute。直近の論文リバイズ中の出来事、最近の興味、ネタ被りに関する様々な考え方、ジョブハントの様子、東大での某失敗談の詳細 (10/13 収録)
-
 Show Notes:
 [古館さん](https://www.sainsburywellcome.org/web/people/shohei-furutachi)
 前回のNeuroRadio古館さん回 [Part 1](/2023/09/09/62-beyond-predictions-part-1/) [Part 2](/2023/09/09/63-beyond-predictions-part-2/)

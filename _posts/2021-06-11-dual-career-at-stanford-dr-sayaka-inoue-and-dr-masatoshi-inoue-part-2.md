@@ -12,9 +12,6 @@ topics: ["ゲスト回", "ツール開発", "社会行動", "イメージング"
 summary: "前回に引き続き、井上夫妻 (<a href='https://x.com/feynman1104'>@feynman1104</a> , <a href='https://x.com/s_k_inoue'>@s_k_inoue</a> ) をゲストに、これまでとこれからのキャリア、ポスドクのお金事情、アメリカでの子育て、生活tips等について伺いました。（5/28収録）"
 ---
 
-Summary:
-前回に引き続き、井上夫妻 (@feynman1104 , @s_k_inoue ) をゲストに、これまでとこれからのキャリア、ポスドクのお金事情、アメリカでの子育て、生活tips等について伺いました。（5/28収録）
-
 Show Notes:
 [Tom Mrsic-Flogel](https://www.sainsburywellcome.org/web/groups/mrsic-flogel-lab)と[Sonja Hofer](https://www.sainsburywellcome.org/web/groups/hofer-lab)：UCLのSainsbury Welcome Centreで共にPIをしている夫妻研究者
 [Michell Monje](https://med.stanford.edu/monje-lab.html)：神経活動とグリオーマの増悪の関連などを研究

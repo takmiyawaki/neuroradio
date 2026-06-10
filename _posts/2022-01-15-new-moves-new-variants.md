@@ -11,9 +11,6 @@ topics: ["雑談回", "ウイルス・トレーシング"]
 summary: "大陸をまたいでの２人収録。オミクロン株が蔓延する中での新生活セットアップ、Allen Institute for Neural Dynamicsの第一印象など。後半では、最近神経科学界隈で話題のウイルスの新規変異（AAV.CAP-B10）や弱毒ワクチン（YFV-17D）について（1/4収録）"
 ---
 
-Summary:
-大陸をまたいでの２人収録。オミクロン株が蔓延する中での新生活セットアップ、Allen Institute for Neural Dynamicsの第一印象など。後半では、最近神経科学界隈で話題のウイルスの新規変異（AAV.CAP-B10）や弱毒ワクチン（YFV-17D）について（1/4収録）
-
 Show Notes:
 ソーク：[Salk Institute](https://www.salk.edu/)
 [モニュメントバレー](https://navajonationparks.org/tribal-parks/monument-valley/)

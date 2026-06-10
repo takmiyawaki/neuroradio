@@ -12,9 +12,6 @@ topics: ["ゲスト回", "グリア", "記憶", "キャリア"]
 summary: "理研CBSの長井淳さん(<a href='https://x.com/JunNagaiLab'>@JunNagaiLab</a>)ゲスト回(前編)。どうしてグリア研究に至ったか。大学院時代の”思い出”、再現性問題、バル・カークとのポスドク生活など (9/19 収録)"
 ---
 
-Summary:
-理研CBSの長井淳さん(@JunNagaiLab)ゲスト回(前編)。どうしてグリア研究に至ったか。大学院時代の”思い出”、再現性問題、バル・カークとのポスドク生活など (9/19 収録)
-
 Show Notes:
 [理研CBSグリア-神経回路動態研究チーム (長井ラボ)](https://junnagai-lab.com/ja)
 [やたらうまいてんぷらを食べる我々](https://x.com/NeuroRadio_/status/1815523899742060862)

@@ -11,9 +11,6 @@ topics: ["雑談回", "論文解説", "ライティング", "学会"]
 summary: "Lake Conferenceレポート、DJ Clubなどについて雑談。論文紹介は、intrabodyベースの順行性モノシナプティックトレーサ、CSとUSが離れた味覚嫌悪条件づけの神経基盤、授乳期の骨形成を担うホルモンの発見、ライティング時の注意に関するエッセイ (10/14収録)"
 ---
 
-Summary:
-Lake Conferenceレポート、DJ Clubなどについて雑談。論文紹介は、intrabodyベースの順行性モノシナプティックトレーサ、CSとUSが離れた味覚嫌悪条件づけの神経基盤、授乳期の骨形成を担うホルモンの発見、ライティング時の注意に関するエッセイ (10/14収録)
-
 Show Notes:
 [Lake Conferences](https://lakeconferences.org/)
 [トゥーンでの開催](https://lakeconferences.org/conf/4531f2f7-2c21-4bea-ae17-f4a478c2a1e7)

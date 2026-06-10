@@ -12,9 +12,6 @@ topics: ["ゲスト回", "ツール開発", "社会行動", "イメージング"
 summary: "日本神経科学会の奨励賞を夫妻でそれぞれ受賞した井上昌俊さん（まささん）<a href='https://x.com/feynman1104'>@feynman1104</a>・井上清香さん（さやかさん）<a href='https://x.com/s_k_inoue'>@s_k_inoue</a>をゲストに、お二人の論文の裏話、スタンフォード大学で神経科学を研究する醍醐味などについて伺いました。後半に続きます。（5/28収録）"
 ---
 
-Summary:
-日本神経科学会の奨励賞を夫妻でそれぞれ受賞した井上昌俊さん（まささん）@feynman1104・井上清香さん（さやかさん）@s_k_inoueをゲストに、お二人の論文の裏話、スタンフォード大学で神経科学を研究する醍醐味などについて伺いました。後半に続きます。（5/28収録）
-
 Show Notes:
 [奨励賞](https://www.jnss.org/incentive-awards_winners-list)リンク
 [Axon Remodelingのお仕事：](https://www.sciencedirect.com/science/article/pii/S0092867419311754)メスの視床下部腹内側部のプロゲステロン受容体陽性細胞(Progesterone receptor expressing neurons in the ventrolateral portion of the ventromedial hypothalamus: Pvlニューロン)の前腹側室周囲核(Anteroventral periventricular nucleus: AVPV)への投射量が性周期（依存的な性ホルモンの分泌）によって変化することを見出した仕事。AVPVに繋がっている時にPvlが活動することがオスの受け入れに重要。プレシナプス・軸索の大規模な構造的変化が大人で周期的に起こる可能性を示唆。

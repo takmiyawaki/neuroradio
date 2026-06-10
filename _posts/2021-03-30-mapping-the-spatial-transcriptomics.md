@@ -11,9 +11,6 @@ topics: ["論文解説", "トランスクリプトミクス"]
 summary: "10000種類以上のmRNAをsubcellular resolutionで解析できそうなSpatial transcriptomicsの手法について、宮脇が５つの原理に分けて簡単にレビュー。"
 ---
 
-Summary:
-10000種類以上のmRNAをsubcellular resolutionで解析できそうなSpatial transcriptomicsの手法について、宮脇が５つの原理に分けて簡単にレビュー。
-
 Show Notes:
 1. RNAのcDNAを環状にして増幅、SOLiDでin situ sequencing
 [Highly Multiplexed Subcellular RNA Sequencing in Situ](https://science.sciencemag.org/content/343/6177/1360.long)...FISSEQ。George Churchラボ。

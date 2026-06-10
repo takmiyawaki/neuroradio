@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "ショウジョウバエ", "疾患"
 summary: "Baylor College of Medicineの山本慎也さんがゲスト。前編。ツールとしてハエを使うNeuroscientistと脳を見ているハエGeneticistの違い、ハエForward geneticsからヒト希少疾患研究に繋がった経緯、Living test tubeとしてのハエの魅力、Reverse geneticsによるヒト化ハエのRare disease・Common disease・感染症研究への応用について (3/28収録)"
 ---
 
-Summary:
-Baylor College of Medicineの山本慎也さんがゲスト。前編。ツールとしてハエを使うNeuroscientistと脳を見ているハエGeneticistの違い、ハエForward geneticsからヒト希少疾患研究に繋がった経緯、Living test tubeとしてのハエの魅力、Reverse geneticsによるヒト化ハエのRare disease・Common disease・感染症研究への応用について (3/28収録)
-
 Show Notes:
 [山本さんラボHP](https://www.yamamotoflylab.org/)(更新が滞りがち) [LinkedIn](https://www.linkedin.com/in/shinya-yamamoto-bb1928a0)
 [ベイラー医科大学](https://www.bcm.edu/)

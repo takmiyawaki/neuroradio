@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "植物", "トランスクリプト�
 summary: "Salk Institute のEckerラボ で宿主-微生物相互作用研究とゲノミクス技術開発を行っており、来年夏からイギリスのThe Sainsbury Laboratoryで独立予定の登達也さん(<a href='https://x.com/nobolly'>@nobolly</a>, <a href='https://x.com/tnobo_ktcs'>@tnobo_ktcs</a>)がゲスト。植物を研究対象としたきっかけ、マックスプランクでのPhD3部作、ポスドクでの3部作の解説、近年のSpatial Transcriptomics技術開発トレンドに関するディスカッション。後半に続く (6/22収録)"
 ---
 
-Summary:
-Salk Institute のEckerラボ で宿主-微生物相互作用研究とゲノミクス技術開発を行っており、来年夏からイギリスのThe Sainsbury Laboratoryで独立予定の登達也さん(@nobolly, @tnobo_ktcs)がゲスト。植物を研究対象としたきっかけ、マックスプランクでのPhD3部作、ポスドクでの3部作の解説、近年のSpatial Transcriptomics技術開発トレンドに関するディスカッション。後半に続く (6/22収録)
-
 Show Notes:
 [登さんHP](https://www.tatsuyanobori.com/)
 NRのトランスクリプトーム回[EP4](/2021/03/24/4-what-is-cell-type-transcriptome-meets-neurophysiology/)[EP5](/2021/03/30/5-mapping-the-spatial-transcriptomics/)

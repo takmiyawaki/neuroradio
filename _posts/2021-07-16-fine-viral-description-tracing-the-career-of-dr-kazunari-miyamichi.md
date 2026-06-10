@@ -12,9 +12,6 @@ topics: ["ゲスト回", "キャリア", "ウイルス・トレーシング", "�
 summary: "理研BDRの宮道和成さん（<a href='https://x.com/K_Miyamichi'>@K_Miyamichi</a>）にお越しいただき、キャリア選択時に考えていたこと、現在の研究の魅力、新機軸の打ち出し方、子育てに伴う研究スタイルのシフト、等をお話しいただきました（7/3収録）"
 ---
 
-Summary:
-理研BDRの宮道和成さん（@K_Miyamichi）にお越しいただき、キャリア選択時に考えていたこと、現在の研究の魅力、新機軸の打ち出し方、子育てに伴う研究スタイルのシフト、等をお話しいただきました（7/3収録）
-
 Show Notes:
 宮道さん 過去のインタビュー：[神経科学ニュース](https://www.jnss.org/neuroscience-news/2018/news_184.pdf)（直.pdf注意）　[理研BDRタイムズ](https://bdrtimes.riken.jp/2019/01/16/miyamichi-interview/)　[科学道](https://kagakudo100.jp/articles/kazunarimiyamichi)
 比較コネクトミクス研究チーム[HP](https://cco.riken.jp/)

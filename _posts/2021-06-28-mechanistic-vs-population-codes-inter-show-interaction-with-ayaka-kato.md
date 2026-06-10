@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "ポッドキャスト", "計算神�
 summary: "理研風間研・研エンの仲ポッドキャスターの加藤郁佳さん（<a href='https://x.com/kayautoka'>@kayautoka</a>）をゲストに、これまでのキャリア、モデル動物選択、これからポスドク先を選ぶにあたっての悩みなどを共有して頂きました。(6/6収録)"
 ---
 
-Summary:
-理研風間研・研エンの仲ポッドキャスターの加藤郁佳さん（@kayautoka）をゲストに、これまでのキャリア、モデル動物選択、これからポスドク先を選ぶにあたっての悩みなどを共有して頂きました。(6/6収録)
-
 Show Notes:
 加藤さん [Researchmap](https://researchmap.jp/ayaka-kato) [個人HP](https://ayaka-kato-neuroscience.mystrikingly.com/)
 [知覚神経回路機構研究チーム](https://cbs.riken.jp/jp/faculty/h.kazama/)（風間研）

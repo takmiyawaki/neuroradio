@@ -11,9 +11,6 @@ topics: ["雑談回"]
 summary: "パンデミックの影響に関して雑談。ヨーロッパでロックダウンの影響をもろに受けた萩原と、パンデミック下にオンラインポスドクインタビュー・ボストン留学開始を経験した宮脇がそれぞれ雑感を話しています。"
 ---
 
-Summary:
-パンデミックの影響に関して雑談。ヨーロッパでロックダウンの影響をもろに受けた萩原と、パンデミック下にオンラインポスドクインタビュー・ボストン留学開始を経験した宮脇がそれぞれ雑感を話しています。
-
 Show Notes:
 [Salary Cap, Stipends, & Training Funds](https://www.niaid.nih.gov/grants-contracts/salary-cap-stipends)...米ポスドクの賃金目安
 [OIST](https://www.oist.jp/)...沖縄科学技術大学院大学のこと

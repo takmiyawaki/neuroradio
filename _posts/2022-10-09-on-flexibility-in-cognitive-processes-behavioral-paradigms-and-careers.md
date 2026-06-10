@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "細胞タイプ", "行動", "キャ
 summary: "理研CBSの中島美保さん（<a href='https://x.com/mihonakajima'>@mihonakajima</a>）がゲスト。大学院時代とポスドク時代の仕事の背景、それらを踏まえたCell Typeに関する議論、特定の高次機能を問うためのTailor-made行動試験の作り方、などを伺いました (8/17, 9/10 収録)"
 ---
 
-Summary:
-理研CBSの中島美保さん（@mihonakajima）がゲスト。大学院時代とポスドク時代の仕事の背景、それらを踏まえたCell Typeに関する議論、特定の高次機能を問うためのTailor-made行動試験の作り方、などを伺いました (8/17, 9/10 収録)
-
 Show Notes:
 [理化学研究所CBS](https://cbs.riken.jp/jp/)
 [認知分散処理研究チームHP](https://distributedcognitionlab.riken.jp/index-jp.html)

@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "キャリア", "システム神経科学"
 summary: "韓国Ulsan National Institute of Science and Technology (UNIST)で来年2月に独立するJHUの長濱さん(<a href='https://x.com/k_hammer_1001'>@k_hammer_1001</a> )再登場回。前回登場時からのアップデート。 (9/11 収録)"
 ---
 
-Summary:
-韓国Ulsan National Institute of Science and Technology (UNIST)で来年2月に独立するJHUの長濱さん(@k_hammer_1001 )再登場回。前回登場時からのアップデート。 (9/11 収録)
-
 Show Notes:
 連絡先:[https://bsky.app/profile/k-hammer.bsky.social](https://bsky.app/profile/k-hammer.bsky.social) ; [https://x.com/k_hammer_1001](https://x.com/k_hammer_1001) ; email: knagahama1001@gmail.com
 [長濱さんNR初回登場回](/2023/01/17/51-a-precise-tagging-of-active-neurons/)

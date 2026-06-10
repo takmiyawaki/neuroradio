@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "記憶", "論文解説"]
 summary: "定期ゲスト北沢太郎さん(<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>) 回。直近に公開した自身のHisTrac-seqプレプリントと(と競合LagTagプレプリントの)解説回 (8/17 収録)"
 ---
 
-Summary:
-定期ゲスト北沢太郎さん(@kitazawa_taro) 回。直近に公開した自身のHisTrac-seqプレプリントと(と競合LagTagプレプリントの)解説回 (8/17 収録)
-
 Show Notes:
 [HiTrac-seqプレプリント](https://t.co/IxQ0rlJFx1)
 [LagTagプレプリント](https://www.biorxiv.org/content/10.1101/2025.08.05.668773v1)

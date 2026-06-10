@@ -12,9 +12,6 @@ topics: ["ゲスト回", "構造生物学", "オプトジェネティクス", "�
 summary: "東大先進科学機構の加藤英明さん(<a href='https://x.com/emeKato'>@emeKato</a>)をゲストに、今回のChRmine構造論文やこれまでの仕事の背景、神経科学者が構造生物学について知っておくと良いこと、今後の構造生物学の展開等を伺いました。(2/20収録)"
 ---
 
-Summary:
-東大先進科学機構の加藤英明さん(@emeKato)をゲストに、今回のChRmine構造論文やこれまでの仕事の背景、神経科学者が構造生物学について知っておくと良いこと、今後の構造生物学の展開等を伺いました。(2/20収録)
-
 Show Notes:
 [加藤研](https://park.itc.u-tokyo.ac.jp/hekato_lab/)
 加藤さん過去インタビュー [1](https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-06no-01/stih00202) [2](https://top-researchers.com/?p=2096)

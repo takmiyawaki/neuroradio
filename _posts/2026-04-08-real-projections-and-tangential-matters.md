@@ -11,9 +11,6 @@ topics: ["雑談回", "学会", "旅行"]
 summary: "COSYNE2026の様子、ポルトガル旅行、萩原ラボ立ち上げ等、近況報告雑談。 (2026/04/04 収録)"
 ---
 
-Summary:
-COSYNE2026の様子、ポルトガル旅行、萩原ラボ立ち上げ等、近況報告雑談。 (2026/04/04 収録)
-
 Show Notes:
 [生理学研究所体験留学プログラム](https://www.nips.ac.jp/graduate/internship.html)
 [生理学研究所大学院入試概要](https://www.nips.ac.jp/graduate/examinee.html)

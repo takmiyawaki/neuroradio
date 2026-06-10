@@ -11,9 +11,6 @@ topics: ["雑談回", "学会", "旅行"]
 summary: "SfN2025反省会。メキシコ旅行、学会での社交、ポスター発表でのコミュニケーション方法など雑談。 (2025/12/06 収録)"
 ---
 
-Summary:
-SfN2025反省会。メキシコ旅行、学会での社交、ポスター発表でのコミュニケーション方法など雑談。 (2025/12/06 収録)
-
 Show Notes:
 [突発性難聴](https://ja.wikipedia.org/wiki/%E7%AA%81%E7%99%BA%E6%80%A7%E9%9B%A3%E8%81%B4)
 の[ガイドライン](https://audiology-japan.jp/guideline/)

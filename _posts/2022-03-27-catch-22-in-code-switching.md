@@ -11,9 +11,6 @@ topics: ["雑談回", "論文解説", "イメージング", "記憶"]
 summary: "アメリカでの運転免許取得、Mini2P、MATLABからPythonへの移行に関する雑談。フラッシュ論文紹介は海馬４重vivoパッチ、BLAドパミンREM睡眠、シータ波と歩くリズムの同期、第三世代Rabies、投射先アストロサイト標識、eVLPについて。(3/19収録)"
 ---
 
-Summary:
-アメリカでの運転免許取得、Mini2P、MATLABからPythonへの移行に関する雑談。フラッシュ論文紹介は海馬４重vivoパッチ、BLAドパミンREM睡眠、シータ波と歩くリズムの同期、第三世代Rabies、投射先アストロサイト標識、eVLPについて。(3/19収録)
-
 Show Notes:
 [COTEN RADIO](https://cotenradio.fm/)
 [バイオステーションゲスト回](https://anchor.fm/biostation6/episodes/1-Fireside-Chat-with-a-postdoc-podcaster-Guest-Dr--Takeyuki-Miyawaki-e1envtj)

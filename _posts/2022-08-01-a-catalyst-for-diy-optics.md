@@ -12,9 +12,6 @@ topics: ["ゲスト回", "顕微鏡", "インダストリー", "キャリア"]
 summary: "Thorlabs Japanの勝木健雄さんをゲストに、顕微鏡作成サポート業務、東大・遺伝研・UCSDでの神経科学者としてのキャリア、Thorlabs の企業文化、そこで働く醍醐味について伺いました（6/5収録）"
 ---
 
-Summary:
-Thorlabs Japanの勝木健雄さんをゲストに、顕微鏡作成サポート業務、東大・遺伝研・UCSDでの神経科学者としてのキャリア、Thorlabs の企業文化、そこで働く醍醐味について伺いました（6/5収録）
-
 Show Notes:
 [勝木さん](https://researchmap.jp/tkatsuki/)
 [Thorlabs Japanのホームページ](https://www.thorlabs.jp/)

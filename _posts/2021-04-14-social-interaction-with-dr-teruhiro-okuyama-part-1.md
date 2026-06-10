@@ -12,9 +12,6 @@ topics: ["ゲスト回", "キャリア", "記憶", "社会行動", "システム
 summary: "東大定量研の奥山輝大さん（<a href='https://x.com/Teru_Okuyama'>@Teru_Okuyama</a>）をゲストに迎え、大学院時代、ポスドク時代、キャリア選択の際に考えていたこと、新PIとしての３年間についてお話しいただきました。後編(Part2)に続きます。"
 ---
 
-Summary:
-東大定量研の奥山輝大さん（@Teru_Okuyama）をゲストに迎え、大学院時代、ポスドク時代、キャリア選択の際に考えていたこと、新PIとしての３年間についてお話しいただきました。後編(Part2)に続きます。
-
 Show Notes:
 [奥山ラボHP](https://www.iam.u-tokyo.ac.jp/okuyamalab/)
 [バイリンガルニュース](https://bilingualnews.jp/)

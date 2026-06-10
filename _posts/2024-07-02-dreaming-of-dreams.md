@@ -12,9 +12,6 @@ topics: ["ゲスト回", "記憶", "キャリア", "大学院留学", "システ
 summary: "Northwestern Universityで来年1月から独立する千歳雄大さん(<a href='https://x.com/yutasenzai'>@yutasenzai</a>)さんがゲスト。BuzsakiラボでのPhD、Scanzianiラボでのポスドク、ジョブハントで苦労したこと、独立後の研究計画について伺いました (6/20 収録)"
 ---
 
-Summary:
-Northwestern Universityで来年1月から独立する千歳雄大さん(@yutasenzai)さんがゲスト。BuzsakiラボでのPhD、Scanzianiラボでのポスドク、ジョブハントで苦労したこと、独立後の研究計画について伺いました (6/20 収録)
-
 Show Notes:
 [千歳さんラボHP](https://sites.northwestern.edu/senzailab/yuta/)
 [Scanziani lab](https://scanzianilab.ucsf.edu/)

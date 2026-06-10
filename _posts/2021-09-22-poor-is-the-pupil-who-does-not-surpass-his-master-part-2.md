@@ -12,9 +12,6 @@ topics: ["ゲスト回", "キャリア", "記憶", "システム神経科学"]
 summary: "Part 2: UC Irvineの五十嵐啓さん(<a href='https://x.com/kei_m_igarashi'>@kei_m_igarashi</a>)にお越しいただき、モーザーラボでのポスドク時代、ジョブハント、独立してからのお話をしていただきました。そして最後に今回のNature論文を少し頭出ししていただきました（8/31収録）"
 ---
 
-Summary:
-Part 2: UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、モーザーラボでのポスドク時代、ジョブハント、独立してからのお話をしていただきました。そして最後に今回のNature論文を少し頭出ししていただきました（8/31収録）
-
 Show Notes:
 ジョブハントについて：[五十嵐さん就職活動記](https://www.igarashilab.org/jobhunting)
 [Schoenbaum](https://irp.drugabuse.gov/staff-members/geoffrey-schoenbaum/)

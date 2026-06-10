@@ -11,9 +11,6 @@ topics: ["雑談回", "論文解説"]
 summary: "予算カット、２年ルールWaiver、資産運用への影響、メールでのコミュニケーションなど。論文紹介は、実装が簡単な高速FLIMと、Sequeincing by expansion (4/9収録)"
 ---
 
-Summary:
-予算カット、２年ルールWaiver、資産運用への影響、メールでのコミュニケーションなど。論文紹介は、実装が簡単な高速FLIMと、Sequeincing by expansion (4/9収録)
-
 Show Notes:
 [渦中のハーバード(pdf)](https://fingfx.thomsonreuters.com/gfx/legaldocs/gdvznjkykvw/harvard_lawsuit.pdf)
 [コロンビアのNIHグラント停止](https://www.science.org/content/article/nih-freezes-all-research-grants-columbia-university)

@@ -11,9 +11,6 @@ topics: ["雑談回", "論文解説", "記憶", "意思決定"]
 summary: "ラボミーティング・研究所内セミナー形式についての雑談、フラッシュ論文紹介:海馬における空間・evidence表象、同一の刺激に対する神経活動の揺らぎに関する議論など（6/28収録）"
 ---
 
-Summary:
-ラボミーティング・研究所内セミナー形式についての雑談、フラッシュ論文紹介:海馬における空間・evidence表象、同一の刺激に対する神経活動の揺らぎに関する議論など（6/28収録）
-
 Show Notes:
 [QRコードによる接種証明](https://www.technologyreview.jp/s/246529/seven-eu-countries-just-got-a-digital-vaccine-passport/) (いわゆるデジタルワクチンパス)
 [UK上がっている](https://www.worldometers.info/coronavirus/country/uk/)

@@ -12,9 +12,6 @@ topics: ["ゲスト回", "社会行動", "論文解説", "システム神経科�
 summary: "東京科学大学 黒田研究室 特任准教授の小坂田拓哉さんゲスト回。NYUでのオキシトシン&社会行動の研究、久しぶりの日本での研究生活、NYCの思い出等。 (2026/04/10 収録)"
 ---
 
-Summary:
-東京科学大学 黒田研究室 特任准教授の小坂田拓哉さんゲスト回。NYUでのオキシトシン&社会行動の研究、久しぶりの日本での研究生活、NYCの思い出等。 (2026/04/10 収録)
-
 Show Notes:
 小坂田さん ([Researchmap](https://researchmap.jp/takuyaosakada), [X](https://x.com/TakuyaOsakada), [文部科学大臣表彰若手科学者賞](https://www.mext.go.jp/b_menu/houdou/mext_01620.html), [日本神経科学学会2026年度奨励賞](https://www.jnss.org/etc?id=260423-01))
 [奥山さん](https://www.iqb.u-tokyo.ac.jp/okuyamalab/) (NR出演回: Part [#1](/2021/04/14/8-social-interaction-with-dr-teruhiro-okuyama-part-1/), [#2](/2021/04/28/9-social-interaction-with-dr-teruhiro-okuyama-part-2/))

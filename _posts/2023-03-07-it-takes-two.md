@@ -11,9 +11,6 @@ topics: ["雑談回", "論文解説"]
 summary: "納税フラグ回収、同僚とのバックカントリー、Ben Barres自伝、フリーアドレスについて雑談。論文紹介は、学習時の場所表象変化、Disynaptic specificity、ConVERGD、非モデル生物Caイメージング、発達期の心臓の相転移、など (2/25収録)"
 ---
 
-Summary:
-納税フラグ回収、同僚とのバックカントリー、Ben Barres自伝、フリーアドレスについて雑談。論文紹介は、学習時の場所表象変化、Disynaptic specificity、ConVERGD、非モデル生物Caイメージング、発達期の心臓の相転移、など (2/25収録)
-
 Show Notes:
 雑談パート
 

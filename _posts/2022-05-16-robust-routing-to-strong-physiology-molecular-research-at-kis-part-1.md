@@ -12,9 +12,6 @@ topics: ["ゲスト回", "電気生理", "ウイルス・トレーシング", "�
 summary: "今年３月に東大先進科学機構で独立した北西卓磨さん(<a href='https://x.com/tkitanishi'>@tkitanishi</a>) をゲストに、電気生理 × AAV 黎明期の様子、ノルウェー生活、SPD～スタッフ時代の研究について伺いました。後編に続く（4/27収録）"
 ---
 
-Summary:
-今年３月に東大先進科学機構で独立した北西卓磨さん(@tkitanishi) をゲストに、電気生理 × AAV 黎明期の様子、ノルウェー生活、SPD～スタッフ時代の研究について伺いました。後編に続く（4/27収録）
-
 Show Notes:
 [北西ラボHP](https://sites.google.com/view/kitanishilab/Home)
 [総合文化研究科先進科学研究機構](https://kis.c.u-tokyo.ac.jp/)

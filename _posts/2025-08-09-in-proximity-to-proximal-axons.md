@@ -12,9 +12,6 @@ topics: ["ゲスト回", "軸索", "キャリア", "論文解説"]
 summary: "University of South Carolinaで独立した小川優樹さん(<a href='https://x.com/YukiOgawaPhD'>@YukiOgawaPhD</a>)ゲスト回。AISに興味を持つようになるまでの過程、ポスドクを行ったBaylor Collegeでの研究、ジョブハント体験記、最新作Hide-and-seekに関するディスカッション、今後の展望について (2/22 収録)"
 ---
 
-Summary:
-University of South Carolinaで独立した小川優樹さん(@YukiOgawaPhD)ゲスト回。AISに興味を持つようになるまでの過程、ポスドクを行ったBaylor Collegeでの研究、ジョブハント体験記、最新作Hide-and-seekに関するディスカッション、今後の展望について (2/22 収録)
-
 Show Notes:
 [小川さんラボHP](https://www.ogawalab.org/)
 [岡野ジェイムス洋尚ラボ（再生医学研究室）](https://www.jikei.ac.jp/academic/course/71_saisei.html)

@@ -11,9 +11,6 @@ topics: ["雑談回", "ソロ回", "お便り"]
 summary: "１人雑談、１人宣伝、１人お便りフォーム回収回。 (8/15-18 収録)"
 ---
 
-Summary:
-１人雑談、１人宣伝、１人お便りフォーム回収回。 (8/15-18 収録)
-
 Show Notes:
 [お便りフォーム](https://t.co/LCcKkfeyom)
 [ボストンのティラミス屋](https://share.google/YB2Umjr0S5rYiXHlA)

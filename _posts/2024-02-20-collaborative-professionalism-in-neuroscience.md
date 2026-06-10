@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "システム神経科学", "デー�
 summary: "北京脳科学研究所の大久保達夫さんゲスト回。工学部からシステム神経科学に進んだきっかけ、FeeラボPhD時代、WilsonラボPD時代、現在のデータ解析を中心とした働き方の狙い、専門の分業に関するディスカッション、等 (12/30 収録)"
 ---
 
-Summary:
-北京脳科学研究所の大久保達夫さんゲスト回。工学部からシステム神経科学に進んだきっかけ、FeeラボPhD時代、WilsonラボPD時代、現在のデータ解析を中心とした働き方の狙い、専門の分業に関するディスカッション、等 (12/30 収録)
-
 Show Notes:
 [大久保さん個人HP](https://www.tatsuookubo.com/japanese.html)
 [吉良さん](https://harveylab.hms.harvard.edu/)@Chris Harvey Lab

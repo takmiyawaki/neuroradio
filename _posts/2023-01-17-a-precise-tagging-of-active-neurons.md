@@ -12,9 +12,6 @@ topics: ["ゲスト回", "イメージング", "キャリア", "システム神�
 summary: "Hyungbae Kwonラボの長濱健一郎さん(<a href='https://x.com/k_hammer_1001'>@k_hammer_1001</a>)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal..."
 ---
 
-Summary:
-Hyungbae Kwonラボの長濱健一郎さん(@k_hammer_1001)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal...
-
 Show Notes:
 [長濱さん](https://researchmap.jp/k-nagahama1001?lang=ja)
 最近の[ST-Cal Light論文](https://www.nature.com/articles/s41467-022-35406-y)

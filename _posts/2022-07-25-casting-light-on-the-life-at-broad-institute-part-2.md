@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "CRISPR"]
 summary: "齋藤諒さんゲスト回、後編。Broad Institute、他ラボとの差別化、CRISPRの賞レース、ボスと異なる独自性を出すこと、について伺いました（7/9収録）"
 ---
 
-Summary:
-齋藤諒さんゲスト回、後編。Broad Institute、他ラボとの差別化、CRISPRの賞レース、ボスと異なる独自性を出すこと、について伺いました（7/9収録）
-
 Show Notes:
 [ドイツのフライブルグの日本食屋さん](https://www.bashoan.com/ja)
 [マックずっと食ってます](https://www.amazon.com/Super-Size-Me-Morgan-Spurlock/dp/B0170Y5M4W)

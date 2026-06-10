@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "記憶", "キャリア", "学会"]
 summary: "定期ゲスト、デンマーク・オーフスの北沢太郎さん(⁠<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>⁠ )。Neuro2024での記憶シンポジウムの宣伝、ラボ立ち上げから2年での進捗、初FENS参加など (7/11 収録)"
 ---
 
-Summary:
-定期ゲスト、デンマーク・オーフスの北沢太郎さん(⁠@kitazawa_taro⁠ )。Neuro2024での記憶シンポジウムの宣伝、ラボ立ち上げから2年での進捗、初FENS参加など (7/11 収録)
-
 Show Notes:
 北沢[⁠さんラボ⁠](https://www.kitazawa-lab.com/)
 [⁠Neuro2024のシンポ⁠](https://confit.atlas.jp/guide/event/neuro2024/session/2Room606-10/advanced) (2S06a, 7/25 木曜日 16:00-18:00, 第6会場)

@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "CRISPR", "論文解説", "キャリア"]
 summary: "Broadの齋藤諒さん再登場。真核生物ゲノムにコードされたFanzorがRNAで標的をプログラム可能なエンドヌクレアーゼであることを示した論文、競合、ジョブハント、来年１月から理研で主宰予定のラボ運営方針について伺いまし..."
 ---
 
-Summary:
-Broadの齋藤諒さん再登場。真核生物ゲノムにコードされたFanzorがRNAで標的をプログラム可能なエンドヌクレアーゼであることを示した論文、競合、ジョブハント、来年１月から理研で主宰予定のラボ運営方針について伺いまし...
-
 Show Notes:
 齋藤さん過去回[1](/2022/07/19/40-casting-light-on-the-life-at-broad-institute-part-1/)[2](/2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/)
 [齋藤ラボ理研ECLページでの紹介](https://www.riken.jp/careers/programs/riken_ecl/index.html)

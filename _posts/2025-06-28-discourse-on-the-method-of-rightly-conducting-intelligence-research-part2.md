@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "理論神経科学", "LLM", "視覚
 summary: "Allen Institute, D3の伊藤慎也 (<a href='https://x.com/shixnya'>@shixnya</a>)さんゲスト回、後編。釣り生活、SC (superior colliculus)での音表象の仕事、Allenに移ってからの仕事、LLMの発展による日々の仕事への影響、など(6/20 収録)"
 ---
 
-Summary:
-Allen Institute, D3の伊藤慎也 (@shixnya)さんゲスト回、後編。釣り生活、SC (superior colliculus)での音表象の仕事、Allenに移ってからの仕事、LLMの発展による日々の仕事への影響、など(6/20 収録)
-
 Show Notes:
 [Walmart](https://www.walmart.com/) なんでも売ってる全国チェーンのスーパー。銃も売ってる。
 [Rockfish](https://en.wikipedia.org/wiki/Rockfish) メバル(?)

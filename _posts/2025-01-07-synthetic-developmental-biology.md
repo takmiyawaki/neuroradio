@@ -12,9 +12,6 @@ topics: ["ゲスト回", "発生生物学", "キャリア", "論文解説"]
 summary: "University of Washington の浜崎伸彦さん(<a href='https://x.com/Nobu_Hamazaki'>@Nobu_Hamazaki</a>)がゲスト。Human RA-Gastruloid論文、条件探索のコツ、ステージング問題、卵子形成論文、PI生活、今後目指す合成的発生生物学の方向性など (12/12収録)"
 ---
 
-Summary:
-University of Washington の浜崎伸彦さん(@Nobu_Hamazaki)がゲスト。Human RA-Gastruloid論文、条件探索のコツ、ステージング問題、卵子形成論文、PI生活、今後目指す合成的発生生物学の方向性など (12/12収録)
-
 Show Notes:
 [浜崎ラボHP](https://www.hamazaki-lab.com/)
 博士課程(の後半)での所属ラボ：[中島欽一ラボ](https://www.lab.med.kyushu-u.ac.jp/scb/)

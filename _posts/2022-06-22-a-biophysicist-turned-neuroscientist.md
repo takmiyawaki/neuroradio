@@ -12,9 +12,6 @@ topics: ["ゲスト回", "イメージング", "シナプス"]
 summary: "マックスプランクフロリダの安田涼平さん（<a href='https://x.com/Ryohei_Neuro'>@Ryohei_Neuro</a>）をゲストに、１分子イメージングから１スパイン・分子活性のイメージングへと分野を変えていった時に考えていたこと、Karel Svobodaのラボでポスドク..."
 ---
 
-Summary:
-マックスプランクフロリダの安田涼平さん（@Ryohei_Neuro）をゲストに、１分子イメージングから１スパイン・分子活性のイメージングへと分野を変えていった時に考えていたこと、Karel Svobodaのラボでポスドク...
-
 Show Notes:
 [安田さんラボHP](https://mpfi.org/science/our-labs/yasuda-lab/)
 [安田さんブログ](https://ryasuda.hatenadiary.org/)

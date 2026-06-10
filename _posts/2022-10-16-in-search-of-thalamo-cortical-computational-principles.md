@@ -12,9 +12,6 @@ topics: ["ゲスト回", "計算神経科学", "システム神経科学"]
 summary: "We sat down with Lukas Ian Schmitt (<a href='https://x.com/lucidianS'>@lucidianS</a>), a team leader at RIKEN CBS, and talked about his trajectory, life in Japan, past and ongoing projects about the distributed computation in the cortico-thalamic loop, and related works (Recorded on 9/10)"
 ---
 
-Summary:
-We sat down with Lukas Ian Schmitt (@lucidianS), a team leader at RIKEN CBS, and talked about his trajectory, life in Japan, past and ongoing projects about the distributed computation in the cortico-thalamic loop, and related works (Recorded on 9/10)
-
 Show Notes:
 Ian’s lab at RIKEN: [Laboratory for Distributed Cognitive Processing](https://distributedcognitionlab.riken.jp/)
 Miho: [Miho Nakajima-san](https://scholar.google.co.jp/citations?user=f_jfiOMAAAAJ&hl=ja)

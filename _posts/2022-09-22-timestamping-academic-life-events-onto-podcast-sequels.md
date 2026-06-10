@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "キャリア", "学会"]
 summary: "帰ってきた北沢太郎さん(<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>) 。これから参入するEngram業界の学会@ダブリンの印象、そしてDANDRITEでのラボ立ち上げから一カ月が経過した現在の状況。特にリクルーティング、ヨーロッパ・デンマークのファンディング事情、人的ネットワーク作りなど（9/18収録）"
 ---
 
-Summary:
-帰ってきた北沢太郎さん(@kitazawa_taro) 。これから参入するEngram業界の学会@ダブリンの印象、そしてDANDRITEでのラボ立ち上げから一カ月が経過した現在の状況。特にリクルーティング、ヨーロッパ・デンマークのファンディング事情、人的ネットワーク作りなど（9/18収録）
-
 Show Notes:
 [北沢さんラボ](https://www.kitazawa-lab.com/)
 北沢さん前回収録 その[１](/2021/11/26/28-plasticity-in-engram-research-interest-part-1/) その[２](/2021/12/03/29-plasticity-in-engram-research-interest-part-2/)

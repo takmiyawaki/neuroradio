@@ -11,9 +11,6 @@ topics: ["ゲスト回", "再登場", "大学院留学", "行動", "論文解説
 summary: "NYU Long/Buzsakiラボの、藤島悠貴さん(<a href='https://x.com/yfujishima_'>@yfujishima_</a>) さんがゲスト。近況アップデート、最近出た唄うマウスの行動解析論文、Krakauerのオピニオン論文を元にした議論、など (6/15 収録)"
 ---
 
-Summary:
-NYU Long/Buzsakiラボの、藤島悠貴さん(@yfujishima_) さんがゲスト。近況アップデート、最近出た唄うマウスの行動解析論文、Krakauerのオピニオン論文を元にした議論、など (6/15 収録)
-
 Show Notes:
 [Michael Long](https://longlab.med.nyu.edu/)
 [Gyuri Buzsáki](https://buzsakilab.com/wp/)

@@ -12,9 +12,6 @@ topics: ["ゲスト回", "キャリア", "記憶", "システム神経科学"]
 summary: "Part 3: Nature論文を読んでからのディスカッションを行った後、高IFジャーナルの功罪、日本とノルウェーの大学院生の境遇の違い、若い研究者へのメッセージを伺いました（9/1収録）"
 ---
 
-Summary:
-Part 3: Nature論文を読んでからのディスカッションを行った後、高IFジャーナルの功罪、日本とノルウェーの大学院生の境遇の違い、若い研究者へのメッセージを伺いました（9/1収録）
-
 Show Notes:
 [ツェルマットのスキー](https://snow-reports.net/abroad-zermatt.htm)
 [インスブルックのスキー（両方）](https://www.austria-ex.com/blog/item/12788.html)

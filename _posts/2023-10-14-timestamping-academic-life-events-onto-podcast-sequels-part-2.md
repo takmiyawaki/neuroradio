@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "キャリア", "記憶"]
 summary: "定期ゲスト北沢さん (<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>) のデンマーク・DANDRITE生活１年目の振り返り、ラボ立ち上げ・プロジェクトの経過、Fosの発現メカニズムに関するJC、など (10/1 収録)"
 ---
 
-Summary:
-定期ゲスト北沢さん (@kitazawa_taro) のデンマーク・DANDRITE生活１年目の振り返り、ラボ立ち上げ・プロジェクトの経過、Fosの発現メカニズムに関するJC、など (10/1 収録)
-
 Show Notes:
 [北沢さんラボ](https://www.kitazawa-lab.com/home)
 北沢さん過去エピソード [1](/2021/11/26/28-plasticity-in-engram-research-interest-part-1/) [2](/2021/12/03/29-plasticity-in-engram-research-interest-part-2/) [3](/2022/09/22/44-timestamping-academic-life-events-onto-podcast-sequels/)

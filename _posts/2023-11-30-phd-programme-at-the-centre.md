@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "システム神経科学"]
 summary: "University College London/Sainsbury Wellcome Centre 博士課程の黒田澄哉さん(<a href='https://x.com/_sumiyakuroda'>@_sumiyakuroda</a>)、中野誠大さん(<a href='https://x.com/_mnakano'>@_mnakano</a>)がゲスト。UCL/SWCでのPhDコース、Tom (& Tim) ラボでの仕事の様子、PhDアプリケーション時の話、ロンドン生活について伺いました (11/10収録)"
 ---
 
-Summary:
-University College London/Sainsbury Wellcome Centre 博士課程の黒田澄哉さん(@_sumiyakuroda)、中野誠大さん(@_mnakano)がゲスト。UCL/SWCでのPhDコース、Tom (& Tim) ラボでの仕事の様子、PhDアプリケーション時の話、ロンドン生活について伺いました (11/10収録)
-
 Show Notes:
 [中野さん](https://twitter.com/_mnakano)
 [黒田さん](https://twitter.com/_sumiyakuroda)

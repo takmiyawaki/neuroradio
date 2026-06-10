@@ -11,9 +11,6 @@ topics: ["雑談回", "論文解説"]
 summary: "神経科学会と関連ソーシャル振り返り、Paperpileの運用、Figを作るためのソフトウェアについて雑談。後半は、任意の抗原をトリガーとして働くGPCR、“Placebo”による鎮痛を担うかもしれない神経回路について (9/1収録)"
 ---
 
-Summary:
-神経科学会と関連ソーシャル振り返り、Paperpileの運用、Figを作るためのソフトウェアについて雑談。後半は、任意の抗原をトリガーとして働くGPCR、“Placebo”による鎮痛を担うかもしれない神経回路について (9/1収録)
-
 Show Notes:
 [日本神経科学会奨励賞](https://www.jnss.org/etc?id=2024hagihara)
 [一個下の後輩、村上さん](https://www.jnss.org/etc?id=2024murakami)

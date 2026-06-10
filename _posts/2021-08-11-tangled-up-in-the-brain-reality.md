@@ -11,9 +11,6 @@ topics: ["雑談回", "イメージング", "コネクトーム", "ウイルス�
 summary: "それぞれの近況、作品と作り手の分離、Caイメージングとコネクトームの対応データとそのビューワー、迷路を走るマウス、Self-inactivating Rabiesをめぐるゴタゴタ等について話しました。"
 ---
 
-Summary:
-それぞれの近況、作品と作り手の分離、Caイメージングとコネクトームの対応データとそのビューワー、迷路を走るマウス、Self-inactivating Rabiesをめぐるゴタゴタ等について話しました。
-
 Show Notes:
 AlphaFold2 [論文](https://www.nature.com/articles/s41586-021-03819-2)
 AlphaFold2で予測される[タンパク質構造データベース](https://alphafold.ebi.ac.uk/)　と　[その論文](https://www.nature.com/articles/s41586-021-03828-1)

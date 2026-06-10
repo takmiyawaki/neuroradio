@@ -11,9 +11,6 @@ topics: ["論文解説", "細胞タイプ", "トランスクリプトミクス"]
 summary: "Brain Initiative Cell Census Network (BICCN) のNature誌ジャックに触発され、多くの論文に関わってるThe Allen Instituteのこと、BICCNプロジェクトの全容、今回の17報の論文がそれぞれどういう位置づけにあるのか、などについて話しました（10/10収録）"
 ---
 
-Summary:
-Brain Initiative Cell Census Network (BICCN) のNature誌ジャックに触発され、多くの論文に関わってるThe Allen Instituteのこと、BICCNプロジェクトの全容、今回の17報の論文がそれぞれどういう位置づけにあるのか、などについて話しました（10/10収録）
-
 Show Notes:
 〇雑談パート
 トム：[Thomas Mrscic-Flogel](https://www.sainsburywellcome.org/web/groups/mrsic-flogel-lab)

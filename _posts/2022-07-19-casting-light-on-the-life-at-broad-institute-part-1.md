@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "CRISPR"]
 summary: "Broad Instituteの齋藤諒さんゲスト回、前編。スイスFMI時代のHDAC6のお仕事、ポスドク先探し時のエピソード、CAST I-BとV-KのHoming機構論文の背景、Fengの人柄＆ラボでの生活、等について伺いました（7/9収録）"
 ---
 
-Summary:
-Broad Instituteの齋藤諒さんゲスト回、前編。スイスFMI時代のHDAC6のお仕事、ポスドク先探し時のエピソード、CAST I-BとV-KのHoming機構論文の背景、Fengの人柄＆ラボでの生活、等について伺いました（7/9収録）
-
 Show Notes:
 [齋藤さん過去インタビューその１](https://gakuiryugaku.net/newsletter_content/2015-02.pdf) スイス留学開始直後
 [過去インタビューその２](https://www.fmi.ch/news-events/articles/news.html?news=388) Ph.D.の論文出版直後

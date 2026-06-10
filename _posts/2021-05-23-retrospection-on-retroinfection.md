@@ -11,9 +11,6 @@ topics: ["論文解説", "ウイルス・トレーシング"]
 summary: "前回の補足も兼ねて、Pseudo-typed Rabies Virusの原理と、その開発の歴史、今後の展望について萩原がサクッと解説。（5/22収録）"
 ---
 
-Summary:
-前回の補足も兼ねて、Pseudo-typed Rabies Virusの原理と、その開発の歴史、今後の展望について萩原がサクッと解説。（5/22収録）
-
 Show Notes:
 G-deleted rabies virus の開発・応用の第一人者であるEd CallawayとLiqun Luoによる[レビュー論文](https://www.jneurosci.org/content/35/24/8979)。今回の企画は主にこの総説に沿って話しています。
 ミルウォーキープロトコル([wiki](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%BB%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB)) 。n=1と言ってますが、その後改良版が試され、これまで6人助かってるようです(n~50)。獣医学会のコラムが興味深い:[狂犬病を発病した患者の最初の回復例](https://www.jsvetsci.jp/05_byouki/prion/pf176.html)

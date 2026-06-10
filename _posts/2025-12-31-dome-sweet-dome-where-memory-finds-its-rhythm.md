@@ -12,9 +12,6 @@ topics: ["ゲスト回", "記憶", "海馬", "空間認知", "論文解説", "�
 summary: "Johns Hopkins University、Neuroscience PhD Candidateの末岡陽太朗さんゲスト回。今年出た1つ目のPhDメイン仕事、theta precession、JHUやMITでの学生生活、など。 (2025/12/14 収録)"
 ---
 
-Summary:
-Johns Hopkins University、Neuroscience PhD Candidateの末岡陽太朗さんゲスト回。今年出た1つ目のPhDメイン仕事、theta precession、JHUやMITでの学生生活、など。 (2025/12/14 収録)
-
 Show Notes:
 [末岡陽太朗さん](https://x.com/yotaro_ramen)
 今回出版されたPhD1つ目の仕事: [Sueoka et al., 2025](https://www.nature.com/articles/s41593-025-02038-6)

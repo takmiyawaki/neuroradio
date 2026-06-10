@@ -11,9 +11,6 @@ topics: ["雑談回", "論文解説", "記憶"]
 summary: "ゲスト回ラッシュの振り返り、感染フラグ、前向性健忘に関する雑談。フラッシュ論文紹介は、皮質と海馬のタスクルール表象の違い、内在mRNA依存的な外来mRNA翻訳制御法、方位選択性コラムの起源示唆、マイクログリア用AAV、実験メタデータ管理、１分子プロテインシーケンシング、等(10/15収録)"
 ---
 
-Summary:
-ゲスト回ラッシュの振り返り、感染フラグ、前向性健忘に関する雑談。フラッシュ論文紹介は、皮質と海馬のタスクルール表象の違い、内在mRNA依存的な外来mRNA翻訳制御法、方位選択性コラムの起源示唆、マイクログリア用AAV、実験メタデータ管理、１分子プロテインシーケンシング、等(10/15収録)
-
 Show Notes:
 最近録ってたゲスト回(#44-#48)：[北沢さん回](/2022/09/22/44-timestamping-academic-life-events-onto-podcast-sequels/)　[佐野さん疾患回](/2022/10/03/45-the-amyloid-hypothesis-of-alzheimers-disease-explained/)　[JC回](/2022/10/06/46-the-fos-expression-we-saw-that-day/)　[中島さん回](/2022/10/09/47-on-flexibility-in-cognitive-processes-behavioral-paradigms-and-careers/)　[イアン英語回](/2022/10/16/48-in-search-of-thalamo-cortical-computational-principles/)
 [イアンラボ](https://distributedcognitionlab.riken.jp/index.html)

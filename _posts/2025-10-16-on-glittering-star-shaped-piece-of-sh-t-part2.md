@@ -12,9 +12,6 @@ topics: ["ゲスト回", "グリア", "記憶", "キャリア"]
 summary: "理研CBSの長井淳さん(<a href='https://x.com/JunNagaiLab'>@JunNagaiLab</a>)ゲスト回(後編)。アストロサイトが日をまたいだエピソード記憶の安定化に寄与するという新作論文の解説、人の採用、PIとしていかに研究に時間を使うかなど (9/19 収録)"
 ---
 
-Summary:
-理研CBSの長井淳さん(@JunNagaiLab)ゲスト回(後編)。アストロサイトが日をまたいだエピソード記憶の安定化に寄与するという新作論文の解説、人の採用、PIとしていかに研究に時間を使うかなど (9/19 収録)
-
 Show Notes:
 [論文リンク](https://www.nature.com/articles/s41586-025-09619-2)
 [TissueCyte (2p-tomography)](https://www.tissuevision.com/)

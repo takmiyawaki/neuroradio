@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "キャリア", "グラント", "記憶"]
 summary: "UC Irvineの五十嵐啓さん(<a href='https://x.com/kei_m_igarashi'>@kei_m_igarashi</a>)再登場。転職活動振り返り、次に出る論文のSneak peek (詳細はNeuro2024のセッションにて)、R01グラント審査の実際＆それを踏まえた書き方戦略講座、若い人へのメッセージなど (7/6 収録)"
 ---
 
-Summary:
-UC Irvineの五十嵐啓さん(@kei_m_igarashi)再登場。転職活動振り返り、次に出る論文のSneak peek (詳細はNeuro2024のセッションにて)、R01グラント審査の実際＆それを踏まえた書き方戦略講座、若い人へのメッセージなど (7/6 収録)
-
 Show Notes:
 [五十嵐さんラボ](https://www.igarashilab.org/)
 五十嵐さん回[1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)[2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/) [3](/2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/)[4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/)

@@ -11,9 +11,6 @@ topics: ["論文解説", "細胞タイプ", "トランスクリプトミクス",
 summary: "ニューロンの細胞種はどう定義されるのか？萩原が in vivo Caイメージングとspatial transcriptomicsを組み合わせた研究２報を紹介しながら議論。トランスクリプトーム回の前編。"
 ---
 
-Summary:
-ニューロンの細胞種はどう定義されるのか？萩原が in vivo Caイメージングとspatial transcriptomicsを組み合わせた研究２報を紹介しながら議論。トランスクリプトーム回の前編。
-
 Show Notes:
 [Dense Functional and Molecular Readout of a Circuit Hub in Sensory Cortex](https://www.biorxiv.org/content/10.1101/2021.02.23.432355v1)...今回メインで話題にした論文その１。CRACK: Comprehensive Readout of Activity and Cell Type Markers. (Jerry Chenラボ)
 [Behavioral state coding by molecularly defined paraventricular hypothalamic cell type ensembles](https://science.sciencemag.org/content/370/6514/eabb2494)...今回メインで話題にした論文その２。CaRMA: Calcium and RNA multiplexed activity (Scott Sternsonラボ)

@@ -12,9 +12,6 @@ topics: ["ゲスト回", "論文解説", "視覚", "予測", "システム神経
 summary: "古館昌平さん(<a href='https://x.com/ShoheiFurutachi'>@ShoheiFurutachi</a>, e-mail) ゲスト回、サイエンスメインの後編。感覚予測誤差タスク時のV1 L2/3活動とVIP＋LP (Pulvinar) 入力の協調的な影響を調べた最新プレプリントについてのディスカッション、今後の展望など（9/2 収録）"
 ---
 
-Summary:
-古館昌平さん(@ShoheiFurutachi, e-mail) ゲスト回、サイエンスメインの後編。感覚予測誤差タスク時のV1 L2/3活動とVIP＋LP (Pulvinar) 入力の協調的な影響を調べた最新プレプリントについてのディスカッション、今後の展望など（9/2 収録）
-
 Show Notes:
 予測誤差タスク時のV1神経回路活動に関する[最新プレプリント](https://www.biorxiv.org/content/10.1101/2023.07.12.548664v1)　[SWCのブログ記事](https://www.sainsburywellcome.org/web/blog/deciphering-brains-prediction-machine)
 [予測符号化に関するKellerとMrsic-Flogelのレビュー](https://www.cell.com/neuron/fulltext/S0896-6273(18)30857-2)

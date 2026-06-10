@@ -35,9 +35,6 @@ topics: ["ゲスト回", "論文解説"]
 summary: "ここにエピソードの短い説明を書きます。"
 ---
 
-Summary:
-ここにエピソードの短い説明を書きます。
-
 Show Notes:
 1つ目のShow Note
 2つ目のShow Note
@@ -49,7 +46,9 @@ Editorial Notes:
 
 ### 書き方
 
-`Summary:`、`Show Notes:`、`Editorial Notes:` のラベルは消さないでください。Jekyll pluginがこのラベルを読んで、現在のデザインに変換します。
+`Show Notes:` と `Editorial Notes:` のラベルは消さないでください。Jekyll pluginがこのラベルを読んで、現在のデザインに変換します。
+
+要約は本文の `Summary:` ではなく、front matter の `summary:` にだけ書きます。
 
 Show NotesとEditorial Notesは、Google Docsからそのまま貼りやすいように、各項目の先頭に `-` を付けなくて大丈夫です。1行が1項目として表示されます。
 

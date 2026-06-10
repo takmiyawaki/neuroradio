@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "キャリア", "ジョブハント"]
 summary: "Washington University in St. Louis でそれぞれ独立PIになる井上昌俊さん（<a href='https://x.com/feynman1104'>@feynman1104</a>）と井上清香さん（<a href='https://x.com/s_k_inoue'>@s_k_inoue</a>）がゲスト。最新ジョブハント事情、パートナーとのジョブハント、WashUでの研究プランなど（9/5 収録）"
 ---
 
-Summary:
-Washington University in St. Louis でそれぞれ独立PIになる井上昌俊さん（@feynman1104）と井上清香さん（@s_k_inoue）がゲスト。最新ジョブハント事情、パートナーとのジョブハント、WashUでの研究プランなど（9/5 収録）
-
 Show Notes:
 ジョブハント編
 

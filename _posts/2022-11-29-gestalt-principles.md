@@ -11,9 +11,6 @@ topics: ["雑談回", "学会", "論文解説", "オプトジェネティクス"
 summary: "久々のSfN参加、初Thanksgiving、Twitterからの移行に関する雑談。論文紹介は、カリウム選択的チャネルロドプシンの構造、魚の脳発達は氏か育ちか、プルダウンアッセイと機械学習によるAAVの指向進化、など (11/26収録)"
 ---
 
-Summary:
-久々のSfN参加、初Thanksgiving、Twitterからの移行に関する雑談。論文紹介は、カリウム選択的チャネルロドプシンの構造、魚の脳発達は氏か育ちか、プルダウンアッセイと機械学習によるAAVの指向進化、など (11/26収録)
-
 Show Notes:
 [SfN Annual Meeting 2022](https://www.sfn.org/meetings/neuroscience-2022)
 [萩氏のアブストラクト](https://www.abstractsonline.com/pp8/#!/10619/presentation/76172)

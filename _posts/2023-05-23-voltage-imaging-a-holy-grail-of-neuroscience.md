@@ -11,9 +11,6 @@ topics: ["論文解説", "イメージング", "トピック解説"]
 summary: "Pieribone + Chen の in vivo 膜電位イメージング論文を題材に、遺伝学的膜電位センサー(GEVI)、広視野+高速２光子顕微鏡、U-Netベースのノイズ除去手法について掘り下げました (4/30収録)"
 ---
 
-Summary:
-Pieribone + Chen の in vivo 膜電位イメージング論文を題材に、遺伝学的膜電位センサー(GEVI)、広視野+高速２光子顕微鏡、U-Netベースのノイズ除去手法について掘り下げました (4/30収録)
-
 Show Notes:
 [ディレクター](https://twitter.com/DonIngber)
 [Allen Institute for Neural Dynamics の SAC](https://alleninstitute.org/about/people/advisors-collaborators/?_person_divisions=5)

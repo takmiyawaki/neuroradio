@@ -11,9 +11,6 @@ topics: ["論文解説", "情動"]
 summary: "扁桃体Intercalted clusters (ITC) の亜核ITCdm/ITCvm (背側核/腹側核)が真逆の機能を持つこと、相互抑制の回路モチーフを持つこと、異なる投射先を協調制御していること等を報告した自身の最近の仕事について、萩原が裏話も交えながら紹介。"
 ---
 
-Summary:
-扁桃体Intercalted clusters (ITC) の亜核ITCdm/ITCvm (背側核/腹側核)が真逆の機能を持つこと、相互抑制の回路モチーフを持つこと、異なる投射先を協調制御していること等を報告した自身の最近の仕事について、萩原が裏話も交えながら紹介。
-
 Show Notes:
 [Intercalated amygdala clusters orchestrate a switch in fear state](https://www.nature.com/articles/s41586-021-03593-1)
 [神経科学トピックス](https://www.jnss.org/news-topics?id=210527-01&u=551586004efe3fa2f8f81c7db6521951)...日本語の解説記事@神経科学学会

@@ -11,9 +11,6 @@ topics: ["ゲスト回", "大学院留学", "行動", "システム神経科学"
 summary: "NYUでResearch associate, 秋から米国PhDコースの藤島悠貴さん(<a href='https://x.com/yfujishima_'>@yfujishima_</a>) がゲスト。RA応募時のこと、現在行っているSinging Mouseの研究、PhDアプリケーション全敗から２年間のRAを経てオファー大量獲得へと至った経緯、思考プロセス、得たノウハウ等を伺いました (4/5収録)"
 ---
 
-Summary:
-NYUでResearch associate, 秋から米国PhDコースの藤島悠貴さん(@yfujishima_) がゲスト。RA応募時のこと、現在行っているSinging Mouseの研究、PhDアプリケーション全敗から２年間のRAを経てオファー大量獲得へと至った経緯、思考プロセス、得たノウハウ等を伺いました (4/5収録)
-
 Show Notes:
 [藤島さんHP](https://yukifujishima.com/)
 [PhDアプリケーションについてのブログ記事](https://yukifujishima.com/blog/2023/04/13/phd-application-ja) by 藤島さん

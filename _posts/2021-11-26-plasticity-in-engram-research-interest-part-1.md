@@ -12,9 +12,6 @@ topics: ["ゲスト回", "キャリア", "記憶"]
 summary: "デンマーク・オーフス大のDANDRITE研究所で来夏独立予定の北沢太郎さん(<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>, 現FMI Rijliラボ)をゲストに、これまでのキャリア・興味の変遷、FMI、ヨーロッパでの就活などなどについて話しました。(11/4収録 * 初のin-person収録ということで宮脇はお休み)"
 ---
 
-Summary:
-デンマーク・オーフス大のDANDRITE研究所で来夏独立予定の北沢太郎さん(@kitazawa_taro, 現FMI Rijliラボ)をゲストに、これまでのキャリア・興味の変遷、FMI、ヨーロッパでの就活などなどについて話しました。(11/4収録 * 初のin-person収録ということで宮脇はお休み)
-
 Show Notes:
 北沢ラボ(2022夏open予定、現在メンバー募集中)@[DANDRITEのHP](https://www.kitazawa-lab.com/)
 [Aarhus大学DANDRITE](https://dandrite.au.dk/)([#20](/2021/08/13/20-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-1/)/[21](/2021/08/13/21-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-2/) 米原さん回も参照)

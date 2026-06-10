@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "キャリア", "計算神経科学"
 summary: "シンガポール、南洋理工大学の牧野さん(<a href='https://x.com/Hiroshi_Makino_'>@Hiroshi_Makino_</a>)がゲスト。UCSD交換留学、CSHLでのPhD時代とUCSDでのポスドク時代、シンガポールの研究環境、独立後に行っているAIと脳の表象比較研究について伺いました（2/14収録）"
 ---
 
-Summary:
-シンガポール、南洋理工大学の牧野さん(@Hiroshi_Makino_)がゲスト。UCSD交換留学、CSHLでのPhD時代とUCSDでのポスドク時代、シンガポールの研究環境、独立後に行っているAIと脳の表象比較研究について伺いました（2/14収録）
-
 Show Notes:
 [牧野ラボ](https://www3.ntu.edu.sg/home/hmakino/index.html)
 [神垣ラボ](https://tsukasar.wixsite.com/tklab)

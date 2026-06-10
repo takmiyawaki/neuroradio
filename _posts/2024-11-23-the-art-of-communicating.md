@@ -12,9 +12,6 @@ topics: ["ゲスト回", "社会行動", "心理学", "サイエンスコミュ�
 summary: "鹿児島大学の菅野康太さん(<a href='https://x.com/canno696show'>@canno696show</a>)がゲスト。マウスのコミュニケーション研究をするに至った経緯、地方国立大での研究や心理学教育、サイエンスコミュニケーション活動について伺いました (10/30収録)"
 ---
 
-Summary:
-鹿児島大学の菅野康太さん(@canno696show)がゲスト。マウスのコミュニケーション研究をするに至った経緯、地方国立大での研究や心理学教育、サイエンスコミュニケーション活動について伺いました (10/30収録)
-
 Show Notes:
 菅野さん[個人HP](https://can-no.com/)[学部HP](https://kadai-houbun.jp/professors/each/kannokouta/)
 [菅野さんラボHP](https://cannonolab.com/)

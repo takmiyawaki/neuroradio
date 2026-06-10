@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "論文解説", "記憶", "エングラム
 summary: "Part. 1に続きDANDRITE研究所で来夏独立予定の北沢太郎さん(<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>)にお越しいただき、直近のNature Genetics論文の裏話と、今後行うEngram関連のプロジェクトについて伺いました（11/4収録）"
 ---
 
-Summary:
-Part. 1に続きDANDRITE研究所で来夏独立予定の北沢太郎さん(@kitazawa_taro)にお越しいただき、直近のNature Genetics論文の裏話と、今後行うEngram関連のプロジェクトについて伺いました（11/4収録）
-
 Show Notes:
 [1st著者Bipartite 論文](https://www.nature.com/articles/s41588-021-00789-z) Kitazawa et al., Nat Genet 2021
 バレレットの発生について[1st 著者としての総説 Kitazawa et al., Curr Opin Neurobiol 2018](https://doi.org/10.1016/j.conb.2018.09.008)

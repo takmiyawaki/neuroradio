@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "植物", "細胞タイプ", "キャ
 summary: "登達也さん(<a href='https://x.com/nobolly'>@nobolly</a>, <a href='https://x.com/tnobo_ktcs'>@tnobo_ktcs</a>)ゲスト回、後編。Cell-type談義、あったら嬉しいツール談義、Assistant Features エディター経験、ジョブハント、新しく開くラボについて。(6/22収録)"
 ---
 
-Summary:
-登達也さん(@nobolly, @tnobo_ktcs)ゲスト回、後編。Cell-type談義、あったら嬉しいツール談義、Assistant Features エディター経験、ジョブハント、新しく開くラボについて。(6/22収録)
-
 Show Notes:
 [青葉市子](https://ichikoaoba.com/) [その１](https://www.youtube.com/watch?v=byvta9LHo2o) [その２](https://www.youtube.com/watch?v=Kg9hzhHasIk) [その３](https://www.youtube.com/watch?v=DNp0ot3Klg8) [その４](https://www.youtube.com/watch?v=Xz8ux1Bibio)
 [ユザーンとのコラボ](https://www.youtube.com/watch?v=94PjfihK_rw&ab_channel=N)

@@ -11,9 +11,6 @@ topics: ["雑談回", "論文解説"]
 summary: "健康診断、３年めのタックスリターン、グリーンカード取得、万年筆と競技ペン回しについて雑談。文献紹介は、RNAで認識部位をプログラム可能なリコンビナーゼ、プローブのPhotoswitchingによるアーティファクト、軸索ミトコンドリアはATPを消費する、のプレプリント (3/10収録)"
 ---
 
-Summary:
-健康診断、３年めのタックスリターン、グリーンカード取得、万年筆と競技ペン回しについて雑談。文献紹介は、RNAで認識部位をプログラム可能なリコンビナーゼ、プローブのPhotoswitchingによるアーティファクト、軸索ミトコンドリアはATPを消費する、のプレプリント (3/10収録)
-
 Show Notes:
 たち：白子 (英語メニューだとSoft Roeって書いてあってFish Spermじゃないんだな、と思うなど)
 [コメント募集！のGoogle Form](https://docs.google.com/forms/d/e/1FAIpQLSegf8Ezthbjh0X1t2yDGC1UoADmDbinHpMfyuk86dY4KrFIvw/viewform)

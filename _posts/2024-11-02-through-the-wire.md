@@ -11,9 +11,6 @@ topics: ["雑談回", "学会", "LLM", "コネクトーム"]
 summary: "研究所やプロジェクトの外部アドバイザー達とのオンサイトコミュニケーション、SfNポスター、 K99体験談、LLM課金、電子実験ノート談義など。論文はハエ嗅覚系における結合形成作業の“次元削減”、FlyWireの変化球について。 (10/27収録)"
 ---
 
-Summary:
-研究所やプロジェクトの外部アドバイザー達とのオンサイトコミュニケーション、SfNポスター、 K99体験談、LLM課金、電子実験ノート談義など。論文はハエ嗅覚系における結合形成作業の“次元削減”、FlyWireの変化球について。 (10/27収録)
-
 Show Notes:
 [NotebookLM](https://notebooklm.google/)
 元ラボのポスドクの[Tweeprint](https://x.com/_julianhinz/status/1845777972206117108)と[NotebookLM](https://x.com/M__Mahn/status/1846479273529336266)

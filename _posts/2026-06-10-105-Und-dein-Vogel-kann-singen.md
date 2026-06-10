@@ -12,9 +12,6 @@ topics: ["ゲスト回", "ヒト", "発達", "疾患", "認知科学", "計算�
 summary: "MIT Sinhaラボ ポスドクのフォーゲルザング麻凛さんゲスト回。ヒト視覚発達x機械学習のScience論文、スイスでの大学院生活、福岡、ミュージカル・音楽、バイブコーディング談義等。 (2026/05/31 収録)"
 ---
 
-Summary:
-MIT Sinhaラボ ポスドクのフォーゲルザング麻凛さんゲスト回。ヒト視覚発達x機械学習のScience論文、スイスでの大学院生活、福岡、ミュージカル・音楽、バイブコーディング談義等。 (2026/05/31 収録)
-
 Show Notes:
 フォーゲルザング麻凛さん([X](https://x.com/MarinVogelsang), [Bsky](https://bsky.app/profile/marinv.bsky.social), [Google Scholar](https://scholar.google.com/citations?user=qocLcS0AAAAJ&hl=en&oi=ao))
 [Sinhaラボ](https://www.sinhalab.mit.edu/)

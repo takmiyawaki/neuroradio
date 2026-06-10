@@ -12,9 +12,6 @@ topics: ["ゲスト回", "キャリア", "視覚", "システム神経科学"]
 summary: "デンマーク、オーフス大学DANDRITE研究所＆遺伝研（10月から）の米原圭祐さん(<a href='https://x.com/K_Reisfeld'>@K_Reisfeld</a>)にお越しいただき、これまでのキャリアと、海外と日本でJunior PIをやることの比較、Junior PIとして地位を確立する際に苦労したこと、等をお話しいただきました（7/10収録）"
 ---
 
-Summary:
-デンマーク、オーフス大学DANDRITE研究所＆遺伝研（10月から）の米原圭祐さん(@K_Reisfeld)にお越しいただき、これまでのキャリアと、海外と日本でJunior PIをやることの比較、Junior PIとして地位を確立する際に苦労したこと、等をお話しいただきました（7/10収録）
-
 Show Notes:
 [神経科学ニュース](https://www.jnss.org/neuroscience-news/2018/news_184.pdf)（直.pdf注意）  [基礎生物学研究所/修了生の声](https://www.nibb.ac.jp/univ/examination/voice/2015/03/yonehara.html)[DANDRITEでチームリーダーを始めた頃](https://www.jst.go.jp/inter/paris/interview_vol03.html)[最近のもの。EMBLで受けた影響等](https://projects.au.dk/nordic-embl-partnership/show-news/artikel/keisuke-yonehara-how-experience-gained-at-dandrite-has-helped-to-secure-a-permanent-professorship-i/)
 米原ラボ[HP](https://www.yoneharalab.com/)

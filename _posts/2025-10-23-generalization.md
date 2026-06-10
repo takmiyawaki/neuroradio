@@ -12,9 +12,6 @@ topics: ["ゲスト回", "再登場", "大学院留学", "意思決定", "電気
 summary: "FSUの吉良信一郎さん(<a href='https://x.com/ShinichiroKira'>@ShinichiroKira</a>)ゲスト回。UW Shadlen研への留学、サル電気生理からマウス(HMS Harvey研)へ、新たなラボでの研究の方向性など (10/5 収録)"
 ---
 
-Summary:
-FSUの吉良信一郎さん(@ShinichiroKira)ゲスト回。UW Shadlen研への留学、サル電気生理からマウス(HMS Harvey研)へ、新たなラボでの研究の方向性など (10/5 収録)
-
 Show Notes:
 [Florida State University吉良ラボHP](https://www.kiralab.org/)Florida State University (FSU)で新たに研究室を立ち上げました。脳が過去の経験をもとに、新しい環境でどのように適切な意思決定を行うか (Generalization) にフォーカスして研究を進めていく予定です。
 熱意あるポスドク・大学院生を募集しています。ご興味のある方は、ぜひお気軽にご[連絡](mailto:skira@fsu.edu)ください！

@@ -12,9 +12,6 @@ topics: ["ゲスト回", "大学院留学", "キャリア", "システム神経�
 summary: "OISTの田中和正さん（<a href='https://x.com/Kazu_ZT'>@Kazu_ZT</a>）をゲストにお招きし、OISTの研究環境、新PIのラボ運営、これからの研究方針、過去の研究の裏話などについて伺いました"
 ---
 
-Summary:
-OISTの田中和正さん（@Kazu_ZT）をゲストにお招きし、OISTの研究環境、新PIのラボ運営、これからの研究方針、過去の研究の裏話などについて伺いました
-
 Show Notes:
 [脳のハードドライブの仕組みと理由を探る](https://www.oist.jp/ja/news-center/news/2020/8/11/35381?utm_source=social_media&utm_medium=twitter&utm_campaign=brains_hard_drive&utm_content=textlink)...田中さんのインタビュー記事
 [田中さんのラボHP](https://groups.oist.jp/ja/mru)

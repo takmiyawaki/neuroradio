@@ -11,9 +11,6 @@ topics: ["論文解説", "コネクトーム"]
 summary: "シーケンシングによって(神経)細胞の繋がり方・投射様式を調べる方法について。Zadorラボから報告されているMAPseq等の手法を一通りおさらいした後、Quintanaラボから報告されたRABID-seq論文を紹介。(収録:5/15)"
 ---
 
-Summary:
-シーケンシングによって(神経)細胞の繋がり方・投射様式を調べる方法について。Zadorラボから報告されているMAPseq等の手法を一通りおさらいした後、Quintanaラボから報告されたRABID-seq論文を紹介。(収録:5/15)
-
 Show Notes:
 論文紹介
 RABID-seq: [Barcoded viral tracing of single-cell interactions in central nervous system inflammation](https://science.sciencemag.org/content/372/6540/eabf1230)

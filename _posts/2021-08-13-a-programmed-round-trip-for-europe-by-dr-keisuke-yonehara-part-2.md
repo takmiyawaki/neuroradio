@@ -12,9 +12,6 @@ topics: ["ゲスト回", "キャリア", "視覚", "システム神経科学"]
 summary: "Part 1に引き続き、DANDRITE＆遺伝研（10月から）の米原圭祐さん(<a href='https://x.com/K_Reisfeld'>@K_Reisfeld</a>)にお越しいただき、欧州のスタートアップグラント事情、ポスドク時代に欧州からのジョブハントで苦労したこと、今回Neuronにアクセプトされた双極細胞の軸索末端におけるsubcellular computation論文の内容紹介、遺伝研でのこれからの研究の方向性について伺いました（7/10収録）"
 ---
 
-Summary:
-Part 1に引き続き、DANDRITE＆遺伝研（10月から）の米原圭祐さん(@K_Reisfeld)にお越しいただき、欧州のスタートアップグラント事情、ポスドク時代に欧州からのジョブハントで苦労したこと、今回Neuronにアクセプトされた双極細胞の軸索末端におけるsubcellular computation論文の内容紹介、遺伝研でのこれからの研究の方向性について伺いました（7/10収録）
-
 Show Notes:
 [ルンドベック財団](https://lundbeckfonden.com/en)
 [ノボノルディスク財団](https://novonordiskfonden.dk/en/)
