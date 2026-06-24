@@ -6,7 +6,7 @@ date: 2026-06-24
 permalink: /2026/06/24/106-No-sugar-no-paper/
 spotify: "https://open.spotify.com/embed/episode/3PYJNnn8lCZj2my0FRxCzp?utm_source=generator&si=eda911de887d4722"
 performers: ["萩", "藤"]
-topics: ["雑談回", "カメラ", "異文化"]
+topics: ["雑談回", "カメラ", "異文化", "LLM"]
 summary: "ピュア雑談回。最近のNR、バイブコーディング、カメラ、帰国して気づいたこと等。 (2026/06/20 収録)"
 ---
 
@@ -19,7 +19,7 @@ Show Notes:
 [おさかださん回 (#104)](https://neuroradio.tokyo/2026/05/12/104-empire-social-state-of-mind/)
 [なちょ](https://neuroetho.com/)　アグーチは一番でかいネズミにorientation columnがあるのか？という路線で一瞬ホットでした (萩
 [ブレヒト](https://www.activetouch.de/)
-[まりんさん回 (#105)](https://neuroradio.tokyo/2026/06/10/105-Und-dein-Vogel-kann-singen/) 
+[まりんさん回 (#105)](https://neuroradio.tokyo/2026/06/10/105-Und-dein-Vogel-kann-singen/)
 [今井研](https://www.lab.med.kyushu-u.ac.jp/dn/)
 なべ屋 ([若松食堂](http://blog.livedoor.jp/koufukuyamatomo/archives/45551475.html))
 [メック](https://www.gomec.co.jp/)と[テコム](https://www.m3e.jp/igaku/)と[メディックメディア](https://www.medicmedia.com/)
@@ -67,5 +67,5 @@ Spotifyの創業者が題材のTVシリーズ: [The Playlist](https://www.imdb.c
 
 Editorial Notes:
 ごま鯖は今後も食べ続けますが、好きなゲイのボディビルダーがギランバレーになったのをyoutubeで観て鶏の生食はやめました(萩)
-APS-Cですがリコー GR IVの40 mm相当(IVx?)が出たら欲しいです。Fever-Treeの[エルダーフラワーのトニックウォーター](https://matsuzaki-shop.jp/shop/products/699209)がコンビニで手に入れば最高 (脇) 
-やはり10代後半-20代前半を過ごした福岡への思い入れが自分の中に沢山あることを再確認しました。あと、巨大なWAVファイルを持ち歩いてた中高時代の自分はアホだったなぁなどと。(藤) 
+APS-Cですがリコー GR IVの40 mm相当(IVx?)が出たら欲しいです。Fever-Treeの[エルダーフラワーのトニックウォーター](https://matsuzaki-shop.jp/shop/products/699209)がコンビニで手に入れば最高 (脇)
+やはり10代後半-20代前半を過ごした福岡への思い入れが自分の中に沢山あることを再確認しました。あと、巨大なWAVファイルを持ち歩いてた中高時代の自分はアホだったなぁなどと。(藤)
