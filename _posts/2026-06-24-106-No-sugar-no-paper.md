@@ -4,7 +4,7 @@ title: "#106 No sugar no paper"
 episode_number: "106"
 date: 2026-06-24
 permalink: /2026/06/24/106-No-sugar-no-paper/
-spotify: "https://open.spotify.com/embed/episode/7rHUc9HTbMeUffvj6NR3YT?utm_source=generator&si=a7e7b5f409e94c92"
+spotify: "https://open.spotify.com/embed/episode/3PYJNnn8lCZj2my0FRxCzp?utm_source=generator&si=eda911de887d4722"
 performers: ["萩", "藤"]
 topics: ["雑談回", "カメラ", "異文化"]
 summary: "ピュア雑談回。最近のNR、バイブコーディング、カメラ、帰国して気づいたこと等。 (2026/06/20 収録)"
