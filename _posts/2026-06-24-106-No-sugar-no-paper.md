@@ -106,6 +106,8 @@ Spotifyの創業者が題材のTVシリーズ: [The Playlist](https://www.imdb.c
 
 [Bowei Research Conference](https://sites.google.com/view/2026-brcneuro/home) 詳細は次回
 
+[長濱さん](https://www.knagahama-neuro-lab.com/)（出演回 [\#51](https://neuroradio.tokyo/2023/01/17/51-a-precise-tagging-of-active-neurons/), [\#96](https://neuroradio.tokyo/2025/09/16/96-crash-landing-on-u/)）
+
 古館昌平さん (出演回: [\#62](https://neuroradio.tokyo/2023/09/09/62-beyond-predictions-part-1/), [\#63](http://neuroradio.tokyo/2023/09/09/63-beyond-predictions-part-2/), [\#80](https://neuroradio.tokyo/2024/10/20/80-beyond-a-predictive-machine/))
 
 [フランジバック長](https://www.thorlabs.com/ja/camera-flange-focal-distance-change-due-to-inserted-windows-and-filters?tabName=Insights-%E3%83%92%E3%83%B3%E3%83%88%E9%9B%86)
