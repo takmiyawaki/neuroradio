@@ -16,7 +16,7 @@ Show Notes:
 [ドイツのフライブルグの日本食屋さん](https://www.bashoan.com/ja)
 [マックずっと食ってます](https://www.amazon.com/Super-Size-Me-Morgan-Spurlock/dp/B0170Y5M4W)
 [地中海料理のテイクアウト](https://cava.com/)
-[ATAC-seqでぷらすみどのシークエンシングする](https://www.cell.com/molecular-cell/pdf/S1097-2765(20)30143-X.pdf)（ぷらすみどをTn5でtagmentationして、barcodeつきprimerでPCRして、まとめてNGSにかけるということです。。。by齋藤さん）
+[ATAC-seqでぷらすみどのシークエンシングする](<https://www.cell.com/molecular-cell/pdf/S1097-2765(20)30143-X.pdf>)（ぷらすみどをTn5でtagmentationして、barcodeつきprimerでPCRして、まとめてNGSにかけるということです。。。by齋藤さん）
 [精神と時の部屋](https://dic.pixiv.net/a/%E7%B2%BE%E7%A5%9E%E3%81%A8%E6%99%82%E3%81%AE%E9%83%A8%E5%B1%8B)
 濡木研から来たポスドクの方：平野さん[Z-lab メンバー](https://zlab.bio/team-current)を参照
 [Aviv Regev](https://www.roche.com/about/leadership/aviv-regev)

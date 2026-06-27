@@ -17,7 +17,7 @@ Show Notes:
 巨神兵東京に現わる...庵野監督による特撮作品
 [Union Oyster House](https://unionoysterhouse.com/)...ボストンのシーフードの老舗
 [Legal Sea Foods](https://www.legalseafoods.com/)...村上春樹もよく行っている(た)というシーフード店。(「ラオスにいったい何があるんですか？」に収録)
-アストラゼネカ製ワクチンと血栓症には因果関係は認められず、リスクがメリットを上回るため基本的には継続使用を推奨するという[WHOのレポート](https://www.who.int/news/item/19-03-2021-statement-of-the-who-global-advisory-committee-on-vaccine-safety-(gacvs)-covid-19-subcommittee-on-safety-signals-related-to-the-astrazeneca-covid-19-vaccine)。(*3/20時点での情報なので最新の情報にアクセスするようにしてください)
+アストラゼネカ製ワクチンと血栓症には因果関係は認められず、リスクがメリットを上回るため基本的には継続使用を推奨するという[WHOのレポート](<https://www.who.int/news/item/19-03-2021-statement-of-the-who-global-advisory-committee-on-vaccine-safety-(gacvs)-covid-19-subcommittee-on-safety-signals-related-to-the-astrazeneca-covid-19-vaccine>)。(*3/20時点での情報なので最新の情報にアクセスするようにしてください)
 [Associations of the BNT162b2 COVID-19 vaccine effectiveness with patient age and comorbidities](https://www.medrxiv.org/content/10.1101/2021.03.16.21253686v1)...medRxivのイスラエルにおけるPfizar-BioNTechのBNT162b2のCOVID疫学プレプリント。ここまで効果的とは...mRNAすごい。
 [White supremacy and hate are haunting Asian Americans](https://www.cnn.com/2021/03/18/politics/white-supremacy-racism-asian-americans/index.html)...在米アジア人は気をつけましょう
 

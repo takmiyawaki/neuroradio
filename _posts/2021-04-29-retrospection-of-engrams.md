@@ -26,7 +26,7 @@ Josselyn/Tonegawaによる総まとめ的総説決定版:[Memory engrams: Recall
 ジフ: 最初期遺伝子の一つ、Zif-268のこと
 All Optical Physiology: プローブを用いて神経活動を蛍光観察しながら同視野の個々の細胞を光遺伝学的に操作する手法のこと
 Pattern Completion: 不完全な情報から完全な情報の神経活動パターンを再現すること
-シーケンシャルな入力があった時に下流が違う 例えば[Losonczyのお仕事](https://www.cell.com/neuron/fulltext/S0896-6273(06)00213-3)
+シーケンシャルな入力があった時に下流が違う 例えば[Losonczyのお仕事](<https://www.cell.com/neuron/fulltext/S0896-6273(06)00213-3>)
 Kellerのプレプリント:[海馬CA1](https://www.biorxiv.org/content/10.1101/644526v1)、[V1](https://www.biorxiv.org/content/10.1101/2020.11.12.379909v1)
 利根川研の[Valence論文](https://www.nature.com/articles/nature13725)
 Engramのサイズは[PV](https://www.sciencedirect.com/science/article/abs/pii/S1074742716301071?via%3Dihub) or [SOM](https://www.sciencedirect.com/science/article/pii/S0896627316000490)にコントロールされる
@@ -49,7 +49,7 @@ Hongの[Social Reward論文](https://www.nature.com/articles/s41593-021-00828-2)
 [RABID-seq](https://science.sciencemag.org/content/372/6540/eabf1230)
 ディソる: 一細胞シーケンシングのために細胞をバラバラにする（dissociation）すること
 Svobodaのrabiesのcaveatに関する[ブログ](https://spikesphotons.blog/)。
-Carsen & Marius, [視覚皮質で大規模イメージング](https://www.cell.com/cell/fulltext/S0092-8674(21)00373-1)、集合的活動は正確に見ている縞の角度を判別可能だが行動の結果にはかかわらない。
+Carsen & Marius, [視覚皮質で大規模イメージング](<https://www.cell.com/cell/fulltext/S0092-8674(21)00373-1>)、集合的活動は正確に見ている縞の角度を判別可能だが行動の結果にはかかわらない。
 Lubenovラボ、Kajikawaさんによる[論文](https://www.biorxiv.org/content/10.1101/2021.04.20.440699v1)。Awake Ripple時、CA3で過分極
 Jadhavラボ、[REM中のTheta Sequence＆学習に伴う内容の変化](https://www.biorxiv.org/content/10.1101/2021.04.15.439854v1)
 [Neuropixels 2.0](https://science.sciencemag.org/content/372/6539/eabf4588)、電気生理での同一細胞長期記録

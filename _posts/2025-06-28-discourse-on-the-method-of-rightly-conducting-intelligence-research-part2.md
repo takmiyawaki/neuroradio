@@ -17,11 +17,11 @@ Show Notes:
 [Rockfish](https://en.wikipedia.org/wiki/Rockfish) メバル(?)
 [SCの音のspatial map論文 (Ito et al., 2020)](https://www.nature.com/articles/s41467-020-14897-7)
 [頭部輸送(伝達)関数、Head-Related Transfer Function, HRTF](https://note.com/leftbank/n/n83db3a4d6108)
-[音のタイミングの差で音源定位、トリは脳幹のディレイラインでやっているが、マウスはどうやら違う、というコメンタリ論文。](https://doi.org/10.1016/S0166-2236(03)00140-1)
+[音のタイミングの差で音源定位、トリは脳幹のディレイラインでやっているが、マウスはどうやら違う、というコメンタリ論文。](<https://doi.org/10.1016/S0166-2236(03)00140-1>)
 解説:バットなどの小さな哺乳類でInteraural Tining Difference (ITD)が定位に機能しないのはわかっていて、その外挿としてマウスもITDを使用しないだろうということは言われていました。2020の論文はITDがSCの Spatial RF および空間マップに寄与しないことを言っていて、behaviorの実験はしていないので、他の脳部位の活動にITDが寄与する可能性は排除しません。SCのマップに関してはマウスでの最初の論文になるのでそれに対してどの要素(ILD, ITD, Spectral)が影響しているかについても最初の報告となります。(伊藤)
 [Tucker-Davis Technologies (TDT)](https://www.tdt.com/)
 [マルチセンサリー論文](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009181)
-[SCのvision mapを崩すEph genetic manipulationモデル](https://www.cell.com/cell/fulltext/S0092-8674(00)00012-X)と[その応用](https://www.cell.com/cell/fulltext/S0092-8674(09)01049-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867409010496%3Fshowall%3Dtrue)
+[SCのvision mapを崩すEph genetic manipulationモデル](<https://www.cell.com/cell/fulltext/S0092-8674(00)00012-X>)と[その応用](<https://www.cell.com/cell/fulltext/S0092-8674(09)01049-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867409010496%3Fshowall%3Dtrue>)
 [Camplanola, Seeman et al. 2022](https://www.science.org/doi/10.1126/science.abj5861) 大規模にマルチパッチしてconnectivityを調べたAIBSのin vitro electrophysiology部隊のflagship論文
 [去年出た伊藤さんのvisual-behaviorのcell-typeモデル解析論文](https://doi.org/10.1016/j.celrep.2024.114763)
 [Change detection task](https://portal.brain-map.org/circuits-behavior/visual-behavior-2p)

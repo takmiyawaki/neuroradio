@@ -35,7 +35,7 @@ Show Notes:
 [Menno Witterラボ](https://www.ntnu.edu/employees/menno.witter)
 [日光ランプ (kirkasvalolamppu) + VitD事情 (フィンランドの記事ですが事情は同じかと)](https://lalafinland.com/winter-items-in-finland)
 [肝油ドロップ](https://www.kawai-kanyu.co.jp/)
-Mor Ther. [Generation and Characterization of Chimeric Recombinant AAV Vectors](https://doi.org/10.1016/S1525-0016(03)00012-1)
+Mor Ther. [Generation and Characterization of Chimeric Recombinant AAV Vectors](<https://doi.org/10.1016/S1525-0016(03)00012-1>)
 [Losonczyとかがやってるような感じ](https://www.nature.com/articles/s41586-021-04169-9)
 学振SPD: 学振PD獲得者の中でも特に優れた人が取れるフェローシップ。2020年度に終了。
 [奥山さん](https://www.iqb.u-tokyo.ac.jp/okuyamalab/team/teruhiro-okuyama/)

@@ -59,10 +59,10 @@ Jeremiah が[内田さん](https://projects.iq.harvard.edu/uchidalab/home)のと
 
 論文１：[Dimensionality reduction simplifies synaptic partner matching in an olfactory circuit](https://www.biorxiv.org/content/10.1101/2024.08.27.609939v1)
 [Liqun Luoラボ](https://luolab.stanford.edu/)
-[種による嗅覚系の違いと共通点に着目したレビュー](https://www.cell.com/neuron/fulltext/S0896-6273(05)00894-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627305008949%3Fshowall%3Dtrue)。違いの原因に関するディスカッションは特に見つからず… (脇)
-[過去のSema2b発現量操作による軸索の投射経路操作の論文](https://www.cell.com/neuron/fulltext/S0896-6273(13)00269-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627313002699%3Fshowall%3Dtrue)
-[Toll発現量のグラデ―ションに関する論文](https://www.cell.com/neuron/fulltext/S0896-6273(15)00092-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627315000926%3Fshowall%3Dtrue)
-この系で使われている軸索の誘導因子の例、[例えばTeneurin](https://www.cell.com/cell/fulltext/S0092-8674(24)00696-2)
+[種による嗅覚系の違いと共通点に着目したレビュー](<https://www.cell.com/neuron/fulltext/S0896-6273(05)00894-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627305008949%3Fshowall%3Dtrue>)。違いの原因に関するディスカッションは特に見つからず… (脇)
+[過去のSema2b発現量操作による軸索の投射経路操作の論文](<https://www.cell.com/neuron/fulltext/S0896-6273(13)00269-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627313002699%3Fshowall%3Dtrue>)
+[Toll発現量のグラデ―ションに関する論文](<https://www.cell.com/neuron/fulltext/S0896-6273(15)00092-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627315000926%3Fshowall%3Dtrue>)
+この系で使われている軸索の誘導因子の例、[例えばTeneurin](<https://www.cell.com/cell/fulltext/S0092-8674(24)00696-2>)
 [マウスのHippocampusの激シブdevelopment論文](https://www.science.org/doi/10.1126/science.abg1774?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 この先報：Teneurinのやつ
 [宮道さん](https://cco.riken.jp/index.html)の[昔の仕事](https://www.nature.com/articles/nature09714)
@@ -71,12 +71,12 @@ Jeremiah が[内田さん](https://projects.iq.harvard.edu/uchidalab/home)のと
 [FlyWire祭り](https://www.nature.com/collections/hgcfafejia)
 [Motor Cortex祭り](https://www.nature.com/collections/cicghheddj)
 [BICCN祭り](https://www.nature.com/collections/fgihbeccbd)
-[2018年にデータ取得は終わっている](https://www.cell.com/cell/fulltext/S0092-8674(18)30787-6?returnURL=https%3A//linkinghub.elsevier.com/retrieve/pii/S0092867418307876?showall=true)
+[2018年にデータ取得は終わっている](<https://www.cell.com/cell/fulltext/S0092-8674(18)30787-6?returnURL=https%3A//linkinghub.elsevier.com/retrieve/pii/S0092867418307876?showall=true>)
 [Davi Bock](https://comis.med.uvm.edu/bioviewer/WebBio.aspx?BioID=38358) (今はThe University of Vermont)
 [Clay Reid](https://alleninstitute.org/person/r-clay-reid/)のところで[V1のEMリコンストラクション](https://www.nature.com/articles/nature09802)をやっていた
 [Editorによる序文](https://www.nature.com/articles/d41586-024-03182-y)
 Flagship論文[1](https://www.nature.com/articles/s41586-024-07558-y)[2](https://www.nature.com/articles/s41586-024-07981-1)
-[Neurotransmitterの推定](https://www.cell.com/cell/fulltext/S0092-8674(24)00307-6) なぜかCellに先に出てた
+[Neurotransmitterの推定](<https://www.cell.com/cell/fulltext/S0092-8674(24)00307-6>) なぜかCellに先に出てた
 [MorphologyからCell Typeの推定](https://www.nature.com/articles/s41586-024-07686-5)
 [構造から機能を推定](https://www.nature.com/articles/s41586-024-07953-5)
 [Sebastian Seung](https://seunglab.org/)

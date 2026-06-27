@@ -37,7 +37,7 @@ Show Notes:
 を書いた[George Whiteside](https://gmwgroup.harvard.edu/)
 [岡本太郎的な](https://www.amazon.co.jp/%E8%87%AA%E5%88%86%E3%81%AE%E4%B8%AD%E3%81%AB%E6%AF%92%E3%82%92%E6%8C%81%E3%81%A6-%E6%96%B0%E8%A3%85%E7%89%88-%E9%9D%92%E6%98%A5%E6%96%87%E5%BA%AB-%E5%B2%A1%E6%9C%AC-%E5%A4%AA%E9%83%8E/dp/4413096843)
 [Trachtenberg](https://www.nature.com/articles/nature12485)
-[ScanzianiがNeuronに出した](https://www.cell.com/neuron/fulltext/S0896-6273(11)01094-4)
+[ScanzianiがNeuronに出した](<https://www.cell.com/neuron/fulltext/S0896-6273(11)01094-4>)
 [Yang DanからNature](https://www.nature.com/articles/nature11312)
 [Mriganka SurからNature](https://www.nature.com/articles/nature11347)
 [加藤さん回](/2022/05/09/35-introduction-to-structural-biology-for-neuroscientists/)

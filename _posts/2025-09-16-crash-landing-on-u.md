@@ -31,12 +31,12 @@ Jung Hoや井上（昌）さんとの[日本神経科学会でのシンポジウ
 [シャンデリアセル+テクスチャ―の論文](https://www.nature.com/articles/s41593-023-01380-x)
 [iTango2の論文](https://www.nature.com/articles/nmeth.4234)
 GRASP, mGRASP, eGRASP
-GFP reconstitution across synaptic partners (GRASP): Feinberg et al., Neuron 2008[https://www.cell.com/AJHG/fulltext/S0896-6273(07)01020-3](https://www.cell.com/AJHG/fulltext/S0896-6273(07)01020-3)[mGRASP](https://www.nature.com/articles/nmeth.1784): Kim, J. et al, Nat. Methods 2012 (Jeffrey C. Magee lab)
+GFP reconstitution across synaptic partners (GRASP): Feinberg et al., Neuron 2008[https://www.cell.com/AJHG/fulltext/S0896-6273(07)01020-3](<https://www.cell.com/AJHG/fulltext/S0896-6273(07)01020-3>)[mGRASP](https://www.nature.com/articles/nmeth.1784): Kim, J. et al, Nat. Methods 2012 (Jeffrey C. Magee lab)
 [eGRASP](https://www.science.org/doi/full/10.1126/science.aas9204): 明るくしてvivoへの応用
 ※同様のシナプス形成の可視化ツールとして、Sudhof labからのSynView: Tsetsenis et al., J. Neurosci. 2014　([https://www.jneurosci.org/content/34/45/15083.short](https://www.jneurosci.org/content/34/45/15083.short))があります（長濱）
 Split-GFP: beta-barrel structure of GFP (1-10 & 11th 16残基, 215-230 amino acids)とsynapse organizerを組み合わせて、シナプス形成を可視化するツール。論文：[https://www.nature.com/articles/nmeth932](https://www.nature.com/articles/nmeth932)
 dimerization-dependent fluorescent protein (ddFP): 二つのモノマー（copy A & copy B）がヘテロダイマーを形成することで、蛍光を発色するタンパク質。Robert Campbell研で開発。
-[論文1](https://www.cell.com/ccbio/fulltext/S1074-5521(12)00019-1) (ddRFP): Alford et al., Cell Chemical Biology 2012
+[論文1](<https://www.cell.com/ccbio/fulltext/S1074-5521(12)00019-1>) (ddRFP): Alford et al., Cell Chemical Biology 2012
 [論文2](https://pubs.acs.org/doi/full/10.1021/sb300050j)(ddGFP & ddYFP): Alford et al., ACS Synthetic Biology 2012
 [Won Do Heo](https://scholar.google.com/citations?user=iXEgmZQAAAAJ&hl=en)
 ※SynapShotの論文上では、IBS (Institute for Basic Science)で独立している [Sangkyu Lee](https://centers.ibs.re.kr/html/glia_en/people/people_0205.html)もco-corresponding authorになっています（長濱）
@@ -84,9 +84,9 @@ Scienceのcommentary: [We started our Ph.D.s during COVID-19. Now, we’re gradu
 韓国のGrant: [National Research Foundation in Korea (NRF)](https://eng.nrf.re.kr/main?sso=ok)がメイン。
 異なる時期にグラント締め切りあり。[Korea Health Industry Development Institute (KHIDI)](https://www.khidi.or.kr/eps) のようなAMEDに類似した団体もある。
 長濱ラボのバイオロジー:Biological commonalities across diverse psychiatric and neurological disorders
-[Setd1aの論文](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31115-3)
+[Setd1aの論文](<https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31115-3>)
 [Joshua A. Gordon](https://www.columbiapsychiatry.org/joshua-gordon-md-phd)
-Bipolar disorderとSchizophreniaがgeneticに似ている [1](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbaf092/8161281) [2](https://www.nature.com/articles/s41380-018-0332-x) [3](https://www.cell.com/neuron/fulltext/S0896-6273(22)00964-3)
+Bipolar disorderとSchizophreniaがgeneticに似ている [1](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbaf092/8161281) [2](https://www.nature.com/articles/s41380-018-0332-x) [3](<https://www.cell.com/neuron/fulltext/S0896-6273(22)00964-3>)
 [プレコックス感](https://karger.com/psp/article/51/6/353/285155/On-the-Concept-of-Praecox-Feeling)
 [Nlgn3 KOマウスのケージメイトの行動異常論文](https://www.eneuro.org/content/4/4/ENEURO.0145-17.2017.short)
 

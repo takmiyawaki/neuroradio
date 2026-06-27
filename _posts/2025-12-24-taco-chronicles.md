@@ -51,7 +51,7 @@ SDで一緒にいったタコス屋の1件目: [Tacos El Gordo](https://tacoselg
 [あーこのラボ](https://www.arkabanerjeelab.com/)
 [ジョン・オキーフ](https://www.sainsburywellcome.org/web/groups/okeefe-lab)
 [ジョシュ](https://cbs.riken.jp/en/faculty/j.johansen/)
-[マイブリットの昔の仕事](https://www.cell.com/current-biology/fulltext/S0960-9822(14)01436-5) head-directionでした(萩)
+[マイブリットの昔の仕事](<https://www.cell.com/current-biology/fulltext/S0960-9822(14)01436-5>) head-directionでした(萩)
 [フラビオ](https://www.biozentrum.unibas.ch/research/research-groups/research-groups-a-z/overview/unit/research-group-flavio-donato)
 [ナンシア・スザナ](https://suthanalab.com/)
 [ビル・スキャッグス](https://en.wikipedia.org/wiki/William_E._Skaggs)

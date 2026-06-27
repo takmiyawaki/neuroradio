@@ -31,15 +31,15 @@ Show Notes:
 [Stephen Liberles](https://liberles.hms.harvard.edu/)
 小坂田さんのPhD論文: [Osakada et al., 2018](https://www.nature.com/articles/s41467-018-07003-5)
 [Ferrero et al., 2013](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4ZDWcrQAAAAJ&citation_for_view=4ZDWcrQAAAAJ:qjMakFHDy7sC)
-Dulacの鋤鼻器の仕事: [Isogai et al., 2011](https://www.nature.com/articles/nature10437) ですかね？[Dulac and Axel, 1995](https://www.cell.com/fulltext/0092-8674(95)90161-2) こういうhistoricalなやつもあるよ。axel labでの仕事だけど。（小坂田）
-[廣田先生](https://www.hirota.bio.titech.ac.jp/cn8/bcl11bVNO.html)（東工大、の[2025年の論文](https://www.cell.com/current-biology/fulltext/S0960-9822(24)01504-5)）
+Dulacの鋤鼻器の仕事: [Isogai et al., 2011](https://www.nature.com/articles/nature10437) ですかね？[Dulac and Axel, 1995](<https://www.cell.com/fulltext/0092-8674(95)90161-2>) こういうhistoricalなやつもあるよ。axel labでの仕事だけど。（小坂田）
+[廣田先生](https://www.hirota.bio.titech.ac.jp/cn8/bcl11bVNO.html)（東工大、の[2025年の論文](<https://www.cell.com/current-biology/fulltext/S0960-9822(24)01504-5>)）
 [Maria Tosches](https://www.tosches-lab.com/bio)
 [SPINESトーク](https://med.nyu.edu/departments-institutes/neuroscience/our-community/events/spines-lectures)
 [菊水先生](https://sites.google.com/carazabu.com/lab-kaizai/home/members?authuser=0)（麻布大）
 [吉原先生](https://cbs.riken.jp/jp/faculty/y.yoshihara/)([2026年度時実利彦記念賞](https://www.jnss.org/etc_8?id=260319-03))
 [宮坂さん](https://cbs.riken.jp/jp/faculty/rrd.bma/)
 [宮道さん](https://cco.riken.jp/) ([NR出演回](/2021/07/16/18-fine-viral-description-tracing-the-career-of-dr-kazunari-miyamichi/))
-[木本さんのCurrent Biology論文](https://www.cell.com/fulltext/S0960-9822(07)01999-9)
+[木本さんのCurrent Biology論文](<https://www.cell.com/fulltext/S0960-9822(07)01999-9>)
 大久保さん （[NR出演回](/2024/02/20/72-collaborative-professionalism-in-neuroscience/)）
 堀尾さんのネイチャー論文: [Horio and Liberles, 2021](https://www.nature.com/articles/s41586-021-03299-4)
 [ルーピン・イン](https://en.westlake.edu.cn/faculty/luping-yin.html)
@@ -47,8 +47,8 @@ Dulacの鋤鼻器の仕事: [Isogai et al., 2011](https://www.nature.com/article
 の論文([Mei et al., 2023](https://www.nature.com/articles/s41586-023-06147-9))
 アンダーソンラボの2014年のネイチャー論文がはじめてEsr1をVMvlにマーカーとして導入: [Lee et al., 2014](https://www.nature.com/articles/nature13169)
 2011年のだゆの有名な論文: [Lin et al., 2011](https://www.nature.com/articles/nature09736)
-Nirao Shahのグループはプロゲステロンレセプターのマーカーとしてよく使用: [Yang et al., 2017](https://www.cell.com/neuron/fulltext/S0896-6273(17)30598-6)
-Linラボに入って最初にrevisionを手伝った論文: [Wang et al., 2019](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)30107-X)
+Nirao Shahのグループはプロゲステロンレセプターのマーカーとしてよく使用: [Yang et al., 2017](<https://www.cell.com/neuron/fulltext/S0896-6273(17)30598-6>)
+Linラボに入って最初にrevisionを手伝った論文: [Wang et al., 2019](<https://www.cell.com/cell-reports/fulltext/S2211-1247(19)30107-X>)
 水口さんの論文: [Minakuchi et al., 2024](https://www.nature.com/articles/s41593-023-01563-6)
 たかしさんのbioRxiv: [Yamaguchi et al., 2025](https://www.biorxiv.org/content/10.1101/2025.07.15.665001v1.abstract) (now out in [Nature](https://www.nature.com/articles/s41586-026-10354-5)!)
 ステファノスの論文: [Stagkourakis et al., 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10690204/)

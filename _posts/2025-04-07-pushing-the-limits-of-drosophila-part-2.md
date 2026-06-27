@@ -27,7 +27,7 @@ Show Notes:
 [Julie Simpson](https://simpson.mcdb.ucsb.edu/)
 [ハエの嗅覚と痛覚を介した記憶のT-mazeアッセイ](https://link.springer.com/article/10.1007/BF01350033)
 ハエで精神疾患モデルは作れるか？ [1](https://www.sciencedirect.com/science/article/abs/pii/S0361923011002802) [2](https://link.springer.com/chapter/10.1007/7854_2010_110)
-[ハエのがんモデルでcachexiaが起こる](https://www.cell.com/developmental-cell/fulltext/S1534-5807(15)00143-4)
+[ハエのがんモデルでcachexiaが起こる](<https://www.cell.com/developmental-cell/fulltext/S1534-5807(15)00143-4>)
 [ハエのBMP(Bone Morphogenetic Protein)シグナリング](https://www.sciencedirect.com/science/article/pii/S1084952114001074)
 [ハエのノルアドレナリン受容体はタイラミンやオクトパミンに反応する](https://www.annualreviews.org/content/journals/10.1146/annurev.ento.50.071803.130404)
 手間がかかるので誰もやってないハエの凍結保存プロトコル [1](https://www.nature.com/articles/345170a0) [2](https://www.science.org/doi/10.1126/science.1470915) [3](https://www.nature.com/articles/s41467-021-22694-z)
@@ -79,14 +79,14 @@ News & Hot Paper Digestではなく、[カレント・トピックス](https://w
 [DP5(Early Independence Award)](https://commonfund.nih.gov/earlyindependence)
 [独立して最初のR01が取れたPIの平均年齢は43歳(2010年 NIH調べ)](https://nexus.od.nih.gov/all/2021/11/18/long-term-trends-in-the-age-of-principal-investigators-supported-for-the-first-time-on-nih-r01-awards/)
 [Hugo Bellen(元HHMI)](https://www.hhmi.org/scientists/hugo-j-bellen)
-博士の時にやったスクリーニングからプロジェクトがたくさん生まれた [1](https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(14)01113-1) [2](https://www.cell.com/cell/fulltext/S0092-8674(14)01589-X) [3](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001777) [4](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001438) [5](https://rupress.org/jcb/article/200/6/807/37335/The-C8ORF38-homologue-Sicily-is-a-cytosolic) [6](https://elifesciences.org/articles/03558) [7](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002197) [8](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001847) [9](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002103) [10](https://www.cell.com/developmental-cell/fulltext/S1534-5807(15)00828-X) etc
+博士の時にやったスクリーニングからプロジェクトがたくさん生まれた [1](<https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(14)01113-1>) [2](<https://www.cell.com/cell/fulltext/S0092-8674(14)01589-X>) [3](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001777) [4](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001438) [5](https://rupress.org/jcb/article/200/6/807/37335/The-C8ORF38-homologue-Sicily-is-a-cytosolic) [6](https://elifesciences.org/articles/03558) [7](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002197) [8](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001847) [9](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002103) [10](<https://www.cell.com/developmental-cell/fulltext/S1534-5807(15)00828-X>) etc
 [ハーバード](https://socfell.fas.harvard.edu/about)、[UCSF](https://fellows.ucsf.edu/)、[Janelia](https://www.janelia.org/inside-look-fellows)のフェロー制度
 ドーパミンの産生・放出・代謝に関する独自プロジェクト[1](https://www.biorxiv.org/content/10.1101/2023.07.20.549932v1) [2](https://www.jstage.jst.go.jp/article/expanim/63/2/63_13-0067/_article)
 [アカデミアにおけるインブリーディング](https://en.wikipedia.org/wiki/Intellectual_inbreeding)
 信頼できる卒業生やポスドクを積極的にTenure-track facultyに採用するInstituteが米国でも結構ある：[引用先、Fig.9a](https://www.science.org/doi/10.1126/sciadv.abj2604)
 [ベイラー医科大は遺伝学分野でNIHグラントランキング 20年近く連続１位](https://www.bcm.edu/research/baylor-research)
 Study SectionではInvestigatorの独立性を評価・議論の対象にしてはいけない：[リンク先pdf、p.3](https://grants.nih.gov/sites/default/files/Simplified-Review-Reviewer-Guide-to-Evaluating-Applications.pdf)
-Hugoの[Lipid Droplet](https://www.cell.com/cell/fulltext/S0092-8674(14)01589-X)や[セラミド](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30326-7)への興味
+Hugoの[Lipid Droplet](<https://www.cell.com/cell/fulltext/S0092-8674(14)01589-X>)や[セラミド](<https://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30326-7>)への興味
 [Alzheimer’s AssociationのNew Investigator Award](https://www.alz.org/research/for_researchers/grants/types-of-grants/alzheimers-association-niap)
 [隣のアルツハイマー病を研究するPI](https://www.bcm.edu/people-search/joshua-shulman-30624)
 [アイスランドにおける遺伝的浮動](https://www.science.org/content/article/iceland-s-founding-fathers-underwent-rapid-1000-year-genetic-shift)

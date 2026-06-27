@@ -35,7 +35,7 @@ AIBSのイメージングディレクター、[Jack Waters](https://alleninstitu
 [最近お世話になってる近所のアウトドアクラブ](https://joingearhouse.com)
 [Ben Barresの自伝：The Autobiography of a Transgender Scientist](https://mitpress.mit.edu/9780262539548/the-autobiography-of-a-transgender-scientist/)
 [友人の友人が紹介してたブログ記事](https://n275.wordpress.com/2023/02/11/ben-barres%e3%81%ae%e8%87%aa%e4%bc%9d/)
-Ben Barresの有名なコラム [1](https://www.nature.com/scitable/content/does-gender-matter-by-ben-a-barres-10602856/) [2](https://www.cell.com/neuron/fulltext/S0896-6273(13)00907-0) [3](https://www.nature.com/articles/548517a)
+Ben Barresの有名なコラム [1](https://www.nature.com/scitable/content/does-gender-matter-by-ben-a-barres-10602856/) [2](<https://www.cell.com/neuron/fulltext/S0896-6273(13)00907-0>) [3](https://www.nature.com/articles/548517a)
 [Beth Israel](https://www.bidmc.org/)
 [フリーアドレス](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9) 和製英語なんですね
 

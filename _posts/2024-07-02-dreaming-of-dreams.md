@@ -28,13 +28,13 @@ Show Notes:
 [水関先生](https://www.med.osaka-cu.ac.jp/physiology2/index.html)
 [Eran Stark](https://www.eranstarklab.com/)
 [OLM cell specificなCreライン](https://www.nature.com/articles/nn.3235)
-PhD時代の論文その１：[Mossy Cellの論文](https://www.cell.com/neuron/fulltext/S0896-6273(16)30950-3)
+PhD時代の論文その１：[Mossy Cellの論文](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30950-3>)
 [DRD2-creでMossyがラベルできる、の論文](https://onlinelibrary.wiley.com/doi/10.1002/hipo.22408)
 [POMC-creでGCラベル、の論文](https://www.science.org/doi/10.1126/science.1140263)
 [NeuroNexusのBuzsaki シリーズを含むカタログ(pdf)](https://www.neuronexus.com/files/catalog/NeuroNexus-2023ProbeDesignCatalog.pdf)
 [電気生理的な特徴でGranuleを分離する、の論文](https://link.springer.com/article/10.1007/BF00238387) ”To our knowledge there are no electrophysiological characteristics with conclusively identify a neuron as a granule cell. In conclusion, it will be necessary in future work to use mode refined neurophysiological criteria combined with anatomical marking techniques for classification of dentate units.”
-B2B2Bになった[Losonczyの論文](https://www.cell.com/neuron/fulltext/S0896-6273(16)30961-8)と[Knierimの論文](https://www.cell.com/neuron/fulltext/S0896-6273(16)30999-0)
-PhD時代の論文その２：[V1で層の特徴量を見つけた論文](https://www.cell.com/neuron/fulltext/S0896-6273(18)31085-7)
+B2B2Bになった[Losonczyの論文](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30961-8>)と[Knierimの論文](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30999-0>)
+PhD時代の論文その２：[V1で層の特徴量を見つけた論文](<https://www.cell.com/neuron/fulltext/S0896-6273(18)31085-7>)
 [Antonio Fernandez-Ruiz](https://braincomputation.org/)
 [Shawn Olsenの論文](https://www.nature.com/articles/nature10835)
 [ポスドクでの仕事](https://www.science.org/doi/10.1126/science.abp8852)
@@ -51,8 +51,8 @@ PhD時代の論文その２：[V1で層の特徴量を見つけた論文](https:
 井上夫妻の[Zoomミーティングに関するアドバイスの回](/2023/09/28/65-dual-career-pis-in-st-louis/)　および[ノート](https://note.com/masatoshi_inoue/n/n0c2a416b01b2)
 [Feinberg School of Medicine](https://www.feinberg.northwestern.edu/index.html)
 [2pImagingは結構decodingできる (from 大木研)](https://www.nature.com/articles/s41467-020-14645-x)
-[西本さん](https://www.cell.com/fulltext/s0960-9822(11)00937-7)
-[神谷さん](https://www.cell.com/neuron/fulltext/S0896-6273(08)00958-6)
+[西本さん](<https://www.cell.com/fulltext/s0960-9822(11)00937-7>)
+[神谷さん](<https://www.cell.com/neuron/fulltext/S0896-6273(08)00958-6>)
 [睡眠中のGrid cellとHDとのcoordination](https://www.biorxiv.org/content/10.1101/2024.05.16.594473v1)
 
 Editorial Notes:

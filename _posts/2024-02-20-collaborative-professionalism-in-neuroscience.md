@@ -19,7 +19,7 @@ Show Notes:
 [Michael Fee lab](https://feelaboratory.org/)
 [FeeラボでのNature論文](https://www.nature.com/articles/nature15741)
 の[日本語版解説](https://first.lifesciencedb.jp/archives/12002)
-[FeeラボでのNeuron論文](https://www.cell.com/neuron/fulltext/S0896-6273(16)30108-8)
+[FeeラボでのNeuron論文](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30108-8>)
 の[日本語版解説](https://first.lifesciencedb.jp/archives/12565)
 [Rachel Wilson lab](https://wilson.hms.harvard.edu/)
 [Neuron論文](https://www.sciencedirect.com/science/article/pii/S0896627320304761)
@@ -39,7 +39,7 @@ Pattern RecognitionとMachine Learning ([PRML](https://www.maruzen-publishing.co
 [Jesse Goldberg](https://sites.google.com/view/goldberg-lab/home)の[DopamineがPerformance errorをコードしている論文](https://www.science.org/doi/abs/10.1126/science.aah6837)
 [親の歌を聴かせなかった時のHVCのシーケンス活動](https://elifesciences.org/articles/77262)
 [Galen達がミニスコープを作ってカルシウムイメージングを始める](https://www.nature.com/articles/s41592-023-01806-1)
-[Genetic Dissectionのレビュー論文](https://www.cell.com/neuron/fulltext/S0896-6273(08)00031-7) 2008
+[Genetic Dissectionのレビュー論文](<https://www.cell.com/neuron/fulltext/S0896-6273(08)00031-7>) 2008
 [Andreas Luthi](https://www.nature.com/articles/nature09559)と[David Anderson](https://www.nature.com/articles/nature09553) のb2b 2010
 ハエはニューロンが個体を越えてIdentifiable: 仕事としては[逃避を司るgiant fiber interneuron](https://www.nature.com/articles/nn.3741)というのが古くから知られていて一番有名ですが、このニューロンは巨大なので例外で、ほとんどのタイプはsplit-Gal4のラインが整備されて以降（ここ10年）解析できるようなってきました。以下の仕事が代表的な例として挙げられます。
 
@@ -51,7 +51,7 @@ Pattern RecognitionとMachine Learning ([PRML](https://www.maruzen-publishing.co
 [髭さんのキノコ体の電気生理の仕事](https://www.nature.com/articles/nature15396)
 [並木さんの下降性ニューロンの仕事](https://elifesciences.org/articles/34272)
 ハエのConnectome論文[Central Brain](https://elifesciences.org/articles/57443)[Whole Brain](https://www.science.org/doi/10.1126/science.add9330)
-[大学院生がやった行動実験の仕事（嗅覚と風を検知する機械受容覚にコンフリクトがあった場合、機械受容覚に従う）](https://www.cell.com/neuron/fulltext/S0896-6273(16)30264-1)
+[大学院生がやった行動実験の仕事（嗅覚と風を検知する機械受容覚にコンフリクトがあった場合、機械受容覚に従う）](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30264-1>)
 [Vivek Jarayaman](https://www.janelia.org/lab/jayaraman-lab)
 の[仕事](https://www.nature.com/articles/nature14446)
 [ハエDual Patch](https://www.nature.com/articles/nn.2376), 隣の大学院生がやった運動に関するニューロンのdual patchの[仕事](https://www.biorxiv.org/content/10.1101/2020.04.04.024703v2.full)

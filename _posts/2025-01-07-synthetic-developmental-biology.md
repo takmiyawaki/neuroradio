@@ -50,9 +50,9 @@ Show Notes:
 [残ったヒストンがinter-generationalなepigenetic memoryに関与する？](https://www.jstage.jst.go.jp/article/faruawpsj/52/10/52_973/_pdf/-char/ja?utm_source=chatgpt.com)（pdf）
 [父が肥満だと子が肥満になりやすい、母だとそうでもない](https://www.nature.com/articles/s41586-024-07472-3)
 [ダーウィン vs ルイセンコ](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B3%E8%AB%96%E4%BA%89)
-[iPSで精子作成している例](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(21)00342-8)
+[iPSで精子作成している例](<https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(21)00342-8>)
 [減数分裂？に関するプレプリント](https://www.biorxiv.org/content/10.1101/2024.05.31.596483v1) パキテンで止まっている
-[山中論文は24から4へ](https://www.cell.com/cell/fulltext/S0092-8674(06)00976-7)
+[山中論文は24から4へ](<https://www.cell.com/cell/fulltext/S0092-8674(06)00976-7>)
 卵子が大きくなるためにはアクアポリンが必要。&lt;- [Glycineチャネルを介した浸透圧による水分流入](https://journals.biologists.com/dev/article/136/13/2247/65186/Cell-volume-regulation-is-initiated-in-mouse)のことでした。
 卵子形成に伴ってゲノムが徐々に無秩序にする [1](https://www.nature.com/articles/nature23263) [2](https://www.sciencedirect.com/science/article/pii/S0092867417307134)
 卵子のヒストンはモノユビキチン化が盛ん [1](https://www.nature.com/articles/s41421-020-00188-4) [2](https://www.nature.com/articles/s41588-021-00820-3)
@@ -64,7 +64,7 @@ Show Notes:
 [Westlake University](https://www.westlake.edu.cn/)
 [前回の政権でのES細胞についてのポリシー：新しい株は作れない](https://www.science.org/content/article/trump-administration-releases-details-fetal-tissue-restrictions)
 [ブッシュ政権の時はES細胞研究はほぼできなかった](https://pmc.ncbi.nlm.nih.gov/articles/PMC2744932/)
-[培養ニューロンにゲームさせてる論文](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6)
+[培養ニューロンにゲームさせてる論文](<https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6>)
 [Retinaからのprojectionを再現](https://www.sciencedirect.com/science/article/pii/S2213671121002605)
 [ヒントンらによるBackpropagationと脳に関するレビュー](https://www.nature.com/articles/s41583-020-0277-3)
 [Backpropagationが実装されていうるかも、という最近の論文](https://www.biorxiv.org/content/10.1101/2023.11.03.565534v1)
@@ -77,11 +77,11 @@ Show Notes:
 [加齢と記憶力、最近出た](https://www.science.org/doi/10.1126/science.adp6547)
 [Bipolarのモデルマウスを作るような研究](https://www.pnas.org/doi/full/10.1073/pnas.1700689114)
 [小頭症オルガノイド](https://www.nature.com/articles/nature12517)
-[Direct reprogrammingによって作成したらAgeは残ったまま](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00408-7)
+[Direct reprogrammingによって作成したらAgeは残ったまま](<https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00408-7>)
 4因子発現による若返りベンチャー [1](https://www.altoslabs.com/) [2](https://youthbiotx.com/)
 [Seattle Hub for Synthetic Biology](https://alleninstitute.org/division/seattle-hub-for-synthetic-biology/)
 [Cole Trapnell lab](https://cole-trapnell-lab.github.io/)
-[冬眠するげっ歯類から作ったiPS細胞からケミカル同定の論文](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(21)00342-8)
+[冬眠するげっ歯類から作ったiPS細胞からケミカル同定の論文](<https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(21)00342-8>)
 
 Editorial Notes:
 発生生物学から学び、発生生物学のその先に進む研究に興味がある人はいつでもご連絡ください。面白いサイエンスができると思います。(浜崎)

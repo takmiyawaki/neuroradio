@@ -122,7 +122,7 @@ cpGFP:[円循環変異](https://www.yodosha.co.jp/jikkenigaku/keyword/2072.html)
 [微生物型ロドプシンでまさに行われている](https://www.pnas.org/content/119/9/e2117433119)
 ribosomeの時間分解cryo-EMは[こちら](https://www.nature.com/articles/s41586-020-2447-x)などが該当
 [UniprotでAlphafold2の構造](https://insideuniprot.blogspot.com/2021/07/alphafold-structure-predictions-freely.html)
-[構造生物学で糖鎖が良く見えているウイルスタンパク質の例](https://www.cell.com/cell/fulltext/S0092-8674(16)30401-9)
+[構造生物学で糖鎖が良く見えているウイルスタンパク質の例](<https://www.cell.com/cell/fulltext/S0092-8674(16)30401-9>)
 [死の脳内表象について](https://www.jnss.org/hp_images/files/fix_page/neuroscience-news/2022/2022No1_Feb_229.pdf)(pdf注意)
 [dLight1](https://www.science.org/doi/10.1126/science.aat4422)
 [GRAB-DAセンサー](https://doi.org/10.1016/j.cell.2018.06.042)

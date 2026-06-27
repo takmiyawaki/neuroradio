@@ -46,13 +46,13 @@ FMI指導教官、[Patrick Matthias](https://www.fmi.ch/research-groups/grouplea
 デンマークのノボノルディスクが作った[プロテオミクスのリサーチセンター](https://www.cpr.ku.dk/)
 アセチロームの解析をやっている[Chunaram Choudhary](https://www.choudharylab.org/)
 [HDAC6のKOマウスを作った時にtubulinのアセチル化が見えた](https://journals.asm.org/doi/10.1128/MCB.01154-06?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
-[ミトコンドリアにあるタンパク質は結構アセチル化されている](https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(15)00256-X)
+[ミトコンドリアにあるタンパク質は結構アセチル化されている](<https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(15)00256-X>)
 Western blottingだけで2年間にノートを7冊くらい使って（Photo courtesy: Patrick Matthias）
 
 [一番のcandidateタンパク質のintrinsically disordered region…の論文](https://www.sciencedirect.com/science/article/pii/S109727651630363X?via%3Dihub)
 [Liquid-liquid phase separationとintrinsically disordered regionのreview](https://www.nature.com/articles/nrm.2017.7)
 [Steven McKnight](https://www.utsouthwestern.edu/labs/mcknight/)
-[加藤さんの仕事](https://www.cell.com/fulltext/S0092-8674(12)00514-4)（実際にきっかけとなったのは、FUSのリン酸化ではなくGYGモチーフに関するmutagenesisの実験でした。by齋藤さん）
+[加藤さんの仕事](<https://www.cell.com/fulltext/S0092-8674(12)00514-4>)（実際にきっかけとなったのは、FUSのリン酸化ではなくGYGモチーフに関するmutagenesisの実験でした。by齋藤さん）
 [FUSのIDRがリン酸化を受けて凝集に関わる…の論文](https://www.embopress.org/doi/full/10.15252/embj.201696394)（記憶が曖昧でした。。。リン酸化について言及されたのは加藤さんのCell論文よりも5年後でした。by齋藤さん）
 [ストレス顆粒とは](https://en.wikipedia.org/wiki/Stress_granule)（wikipedia）
 [三宅さんの仕事](https://www.science.org/doi/10.1126/science.1257037?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
@@ -76,7 +76,7 @@ Tn7: トランスポゾンの一種で、TnsA,B,Cが協働し、特定の配列�
 の[Cell論文](https://doi.org/10.1016/j.cell.2020.11.005)
 [bioRxiv版](https://www.biorxiv.org/content/10.1101/2020.07.02.184150v1)
 Star Wars: Equally contribution（の注釈、即ち*）を争う戦いのこと
-[HDR: Homology Directed Repair](https://en.wikipedia.org/wiki/Homology_directed_repair#:~:text=Homology%20directed%20repair%20(HDR)%20is,phase%20of%20the%20cell%20cycle.)（wikipedia）
+[HDR: Homology Directed Repair](<https://en.wikipedia.org/wiki/Homology_directed_repair#:~:text=Homology%20directed%20repair%20(HDR)%20is,phase%20of%20the%20cell%20cycle.>)（wikipedia）
 [HITI: homology-independent targeted integration](https://www.nature.com/articles/nature20565)
 [CRIS-PITCh](https://www.nature.com/articles/ncomms6560)
 [SLENDR](https://doi.org/10.1016/j.cell.2016.04.044)

@@ -44,7 +44,7 @@ Show Notes:
 [猫カラムIntrinsic Imaging](https://www.nature.com/articles/324361a0)
 [BonhoefferのPinwheel論文](https://www.nature.com/articles/353429a0)
 [二光子イメージングでPinwheel](https://www.nature.com/articles/nature05019) 大木先生2006N
-[Mrsic-Flogelの2007 Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(07)00408-4)
+[Mrsic-Flogelの2007 Neuron](<https://www.cell.com/neuron/fulltext/S0896-6273(07)00408-4>)
 [2005年の大木先生の仕事](https://www.nature.com/articles/nature03274)
 [2005年Callosal projection neuron @ Binocular Region に Ocular dominance column?](https://academic.oup.com/cercor/article/25/10/3314/383767)
 2015年を言い間違えました 萩
@@ -59,7 +59,7 @@ Category representationがPFCにある [Nature](https://www.nature.com/articles/
 [マウスのレチナの錐体細胞には色選択性があり、局在も違う](https://www.sciencedirect.com/science/article/pii/S0896627300000623)
 [400 nmの刺激でバイアスを消せる](https://www.cambridge.org/core/journals/visual-neuroscience/article/abs/in-search-of-the-visual-pigment-template/A4738E821720092B7F5A233C4AB4962B)
 [萩原の2021年のODを調べた仕事](https://academic.oup.com/cercor/article/31/2/1307/5924416)
-[Callawayがやりだしたシリンドリカルな補正](https://www.cell.com/neuron/fulltext/S0896-6273(11)01046-4) (MovieS1がわかりやすい)
+[Callawayがやりだしたシリンドリカルな補正](<https://www.cell.com/neuron/fulltext/S0896-6273(11)01046-4>) (MovieS1がわかりやすい)
 [Horton](https://profiles.ucsf.edu/jonathan.horton)
 [新世界ザルのOcular Dominanceは個体によってまちまち](https://www.nature.com/articles/nn1004)
 その３：[A modular chemigenetic calcium indicator enables in vivo functional imaging with near infrared light](https://www.biorxiv.org/content/10.1101/2023.07.18.549527v1)
@@ -68,7 +68,7 @@ Category representationがPFCにある [Nature](https://www.nature.com/articles/
 [光誘起電子移動による蛍光プローブの設計](https://www.jstage.jst.go.jp/article/yakushi/134/1/134_13-00237/_pdf)（PDF）
 [jGCaMP8論文](https://www.nature.com/articles/s41586-023-05828-9)
 [iGECI論文](https://www.nature.com/articles/s41587-020-0710-1)
-[iGlucoSnFr論文](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00655-0)
+[iGlucoSnFr論文](<https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00655-0>)
 [GPCRベースのアセチルコリンセンサーがそのままFLIMイメージングに使える](https://www.biorxiv.org/content/10.1101/2022.09.28.510014v2)
 [IR-FPが光るためにはBiliverdinがいる](https://www.science.org/doi/10.1126/science.1168683)
 Voltageセンサー、[Voltron](https://www.science.org/doi/10.1126/science.aav6416)とか

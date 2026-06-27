@@ -62,7 +62,7 @@ UCL, [Hausserの二光子Stimulation](https://www.sciencedirect.com/science/arti
 [深田研HP](https://www.biochem.s.u-tokyo.ac.jp/fukada-lab/research-j.html)
 [横山研](https://www.riken.jp/research/labs/bzp/yokoyama/)
 [もともと生物物理化学学科（Biophysics and Biochemistry）](https://www.bs.s.u-tokyo.ac.jp/biochem/)
-[岡野さんが昔研究してたMusashiというタンパク質](https://doi.org/10.1016/0896-6273(94)90460-X)
+[岡野さんが昔研究してたMusashiというタンパク質](<https://doi.org/10.1016/0896-6273(94)90460-X>)
 [栗本さん](https://researchmap.jp/Kazuki_Kurimoto)
 [火山じゃなくて温泉でした](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%95%E3%82%A3%E3%83%AB%E3%82%B9)
 [タンパク3000プロジェクト](https://www.tanpaku.org/pdf/protein3000/pamphlet_j.pdf)(pdf)

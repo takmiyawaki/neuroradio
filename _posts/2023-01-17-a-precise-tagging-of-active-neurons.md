@@ -27,7 +27,7 @@ Show Notes:
 [高橋智幸先生](https://groups.oist.jp/cmsfu/tomoyuki-takahashi)
 [ScienceのLTD論文](https://www.science.org/doi/10.1126/science.273.5275.648)
 [ムーミンプー](https://english.cebsit.cas.cn/LABORATORIES/PooMuMing/People/)
-[STDPの仕事@Neuron](https://doi.org/10.1016/S0896-6273(03)00873-0)
+[STDPの仕事@Neuron](<https://doi.org/10.1016/S0896-6273(03)00873-0>)
 ノックアウトマウス論文の表現形解析の手伝いの仕事→当時僕がやったこと自体で論文として形に残っているものはないと思うんですが、僕のポスター発表の抄録（[日本医科大学医学会雑誌第6巻第4号 (jst.go.jp)](https://www.jstage.jst.go.jp/article/manms/6/4/6_214/_pdf/-char/ja)）があったので、貼っておきます。by 長濱さん
 [大久保善朗先生インタビュー](https://hippocrates.nms.ac.jp/creator/1468/)
 [舘野先生](https://researchmap.jp/AT1968)

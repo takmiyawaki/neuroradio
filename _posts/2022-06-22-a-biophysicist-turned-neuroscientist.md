@@ -25,7 +25,7 @@ Show Notes:
 たまたまアクチンを操作するという仕事をしていた[１](https://www.sciencedirect.com/science/article/pii/S0022283696905719)[2](https://www.sciencedirect.com/science/article/pii/0304416596000037)
 カレル：[Karel Svoboda](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/karel-svoboda1/)のこと。安田さんのポスドク時代のボスであり、萩原の現・ボス。
 [Karelが見つけたキネシンのステップ](https://www.nature.com/articles/365721a0)
-[120°ずつ回転、仕事効率ほぼ100%](https://doi.org/10.1016/S0092-8674(00)81456-7)
+[120°ずつ回転、仕事効率ほぼ100%](<https://doi.org/10.1016/S0092-8674(00)81456-7>)
 [１分子イメージング、当時の業界の様子](https://www.k2.phys.waseda.ac.jp/PDF/1996Pharm_Sase_SingleF.pdf) (PDF)
 [NIH-Image](https://imagej.nih.gov/nih-image/about.html)っていうのを作っててソースコードを公開していた(現・ImageJ)
 [Winfried Denk](https://www.bi.mpg.de/denk) (カレルのベル研での直接のメンターはおそらくTank。Denkはおそらく横にいて顕微鏡を提供した？Denkは[最初に2光子顕微鏡作った](https://www.science.org/doi/10.1126/science.2321027)人)
@@ -85,7 +85,7 @@ PKMζと記憶の[総説](https://www.nature.com/articles/nrn2949) (が、後に
 小さいスパインは可塑性が大きいけインパクトが小さい…の議論、レビュー [1](https://doi.org/10.1146/annurev.physiol.64.081501.160008) [2](https://doi.org/10.1016/j.conb.2007.04.009)
 [MPFIのマシンショップ](https://mpfi.org/science/scientific-cores/mechanical-workshop/)
 [Michael Ehlers](https://alleninstitute.org/about/advisors/advisor-profiles/michael-ehlers/)
-ファイザーに移った[理由](https://doi.org/10.1016/j.tins.2011.12.008)および[学び](https://www.cell.com/cell/fulltext/S0092-8674(16)30553-0)
+ファイザーに移った[理由](https://doi.org/10.1016/j.tins.2011.12.008)および[学び](<https://www.cell.com/cell/fulltext/S0092-8674(16)30553-0>)
 [Scripps](https://scripps.ufl.edu/)がとなりにある
 [Florida Atlantic Universityとの共同プログラム](https://www.mpfi.org/training/graduate-programs/integrative-biology-and-neuroscience/)
 [最初の学生は3.5年で学位を取得](https://ryasuda.hatenadiary.org/entry/20110207/p1)

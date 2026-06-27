@@ -15,7 +15,7 @@ summary: "Klecknerラボ、この秋からUMass アマーストで独立予定�
 Show Notes:
 [Researchat.fm](https://researchat.fm/)
 [Klecknerラボ](https://klecknerlab.hsites.harvard.edu/) … Nancy Klecknerは本当に偉大な研究者だと思う。一緒に仕事できてよかった (tds)。
-博士の時の代表的な仕事 [1](https://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30445-8) [2](https://www.science.org/doi/full/10.1126/sciadv.adf1488) …前島先生、そしてたくさんの方にお世話になりました(tds)
+博士の時の代表的な仕事 [1](<https://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30445-8>) [2](https://www.science.org/doi/full/10.1126/sciadv.adf1488) …前島先生、そしてたくさんの方にお世話になりました(tds)
 [ポスドクの仕事：Rapid homologue juxtaposition](https://www.nature.com/articles/s41586-024-07999-5)
 [tadasuの留学紀](https://www.jstage.jst.go.jp/article/biophys/63/6/63_340/_article/-char/ja/)
 五十嵐さん回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/) [3](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [4](/2024/07/14/76-getting-out-of-the-comfort-zone/)
@@ -46,7 +46,7 @@ Show Notes:
 [コムギは85%がリピート](https://www.science.org/doi/10.1126/science.1251788)
 染色体のばらつきと適応度  … 折角ふっていただいたのに、適当な議論だったかもしれないと反省。帰国後、やっと読むことができた鶴崎先生の[ご著書](https://www.amazon.co.jp/dp/4806716677)の中で、ザトウムシと染色体のばらつき、適応度、移動性に関する議論がしっかりされていた。もうちょっとよく考えたい。鶴崎先生のザトウムシ本、面白すぎるので皆様にぜひ読んでいただきたい (tds)
 [Hi-C](https://www.science.org/doi/10.1126/science.1181369)
-[dCasでのラベリング](https://www.cell.com/fulltext/S0092-8674(13)01531-6)
+[dCasでのラベリング](<https://www.cell.com/fulltext/S0092-8674(13)01531-6>)
 [石黒さん](https://soh-i.github.io/)
 [CloneSelect](https://www.nature.com/articles/s41587-025-02649-1)
 齋藤さんNR出演回 [1](/2022/07/19/40-casting-light-on-the-life-at-broad-institute-part-1/) [2](/2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/) [3](/2024/09/15/79-the-wizard-of-fz/)
@@ -76,7 +76,7 @@ Show Notes:
 [ORCA-Flash (最新型の4 v3)](https://www.hamamatsu.com/jp/ja/product/cameras/cmos-cameras/C13440-20CU.html)
 [W-View Gemini](https://www.hamamatsu.com/jp/ja/product/optical-components/image-splitting-optics/A12801-01.html)
 木下Jr: 安田さんの大学院時代の指導教官、[故・木下一彦氏](https://nrid.nii.ac.jp/ja/nrid/1000030124366/)
-[Gemini を使った仕事(再掲)](https://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30445-8)
+[Gemini を使った仕事(再掲)](<https://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30445-8>)
 [ScanImage](https://docs.scanimage.org/index.html)
 [8個同時パッチ in vitro のコンフィグレーション](https://alleninstitute.org/division/brain-science/integrated-cell-physiology/)
 [酵母のTetrad dissection](https://www.youtube.com/watch?v=k-4H2QQuShs)

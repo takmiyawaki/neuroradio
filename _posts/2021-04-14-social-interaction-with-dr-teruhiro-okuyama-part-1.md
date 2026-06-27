@@ -36,7 +36,7 @@ SfN…北米神経科学会（の年会）
 岡崎…愛知県岡崎市にある生理研のこと
 ジャネリアの出してる～…有名な新PI虎の巻。[Making the Right Moves](https://www.hhmi.org/science-education/programs/making-right-moves)
 日本神経科学会によせた新PIのインタビュー…[神経科学ニュース 2018 No.3 研究室紹介　新米PI奮闘記 （東大・奥山研究室）](https://www.jnss.org/wp-content/news/2018/news_183.pdf)
-Kay Tyeが言ってるように…[The neural circuitry of social homeostasis: Consequences of acute versus chronic social isolation](https://www.cell.com/cell/fulltext/S0092-8674(21)00178-1)
+Kay Tyeが言ってるように…[The neural circuitry of social homeostasis: Consequences of acute versus chronic social isolation](<https://www.cell.com/cell/fulltext/S0092-8674(21)00178-1>)
 [ボヤいてる](https://twitter.com/ScottishWaddell/status/1364509703762546688)
 
 Editorial Notes:

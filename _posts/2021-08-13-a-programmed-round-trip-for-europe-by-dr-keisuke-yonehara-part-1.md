@@ -15,7 +15,7 @@ summary: "デンマーク、オーフス大学DANDRITE研究所＆遺伝研（10
 Show Notes:
 [神経科学ニュース](https://www.jnss.org/neuroscience-news/2018/news_184.pdf)（直.pdf注意）  [基礎生物学研究所/修了生の声](https://www.nibb.ac.jp/univ/examination/voice/2015/03/yonehara.html)[DANDRITEでチームリーダーを始めた頃](https://www.jst.go.jp/inter/paris/interview_vol03.html)[最近のもの。EMBLで受けた影響等](https://projects.au.dk/nordic-embl-partnership/show-news/artikel/keisuke-yonehara-how-experience-gained-at-dandrite-has-helped-to-secure-a-permanent-professorship-i/)
 米原ラボ[HP](https://www.yoneharalab.com/)
-In pressの論文 [Neuron版](https://www.cell.com/neuron/fulltext/S0896-6273(21)00518-3)[bioRxiv版](https://www.biorxiv.org/content/10.1101/2020.10.12.335810v1)
+In pressの論文 [Neuron版](<https://www.cell.com/neuron/fulltext/S0896-6273(21)00518-3>)[bioRxiv版](https://www.biorxiv.org/content/10.1101/2020.10.12.335810v1)
 基礎生物学研究所 （基生研） 野田先生[HP](https://niwww3.nibb.ac.jp/) (現在のラボ[HP](https://www.rcb.iir.titech.ac.jp/lab/noda.html)@東工大特任教授)
 [Botond Roska](https://iob.ch/people/botond-roska)（現在はIOBディレクター）
 [北欧EMBL](https://www.embl.org/partnerships/remote/nordic/)（パートナーシップ）： 北欧の主要な大学に設立されたEuropean Molecular Biology Laboratory のスタイルで運営される研究機関のネットワーク
@@ -25,7 +25,7 @@ Natureの[論文](https://www.nature.com/articles/nature09711) ライフサイ�
 博士課程にいた時に見つけたマウス 論文[その１](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001533)[その２](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004320)
 Starburst Amacrine Cell, Ganglion Cell, Bipolar cell, Horizontal cell, MTN等、網膜関連の神経回路は米原さんの2012年の[日本語レビュー](https://www.jbsoc.or.jp/seika/wp-content/uploads/2013/05/84-04-06.pdf)を参照（PDF注意）
 [Silvia Arber](https://www.fmi.ch/research-groups/groupleader.html?group=2)
-ウイルス[干渉](https://ja.wikipedia.org/wiki/%E5%B9%B2%E6%B8%89_(%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E5%AD%A6))
+ウイルス[干渉](<https://ja.wikipedia.org/wiki/%E5%B9%B2%E6%B8%89_(%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E5%AD%A6)>)
 Callaway研も[エレポ](https://www.sciencedirect.com/science/article/pii/S089662731000588X)で入れていたり
 [AAVでComplementation](https://www.sciencedirect.com/science/article/pii/S089662731000869X) できることを示した論文
 1st authorの[アーニャ](https://services.ini.uzh.ch/admin/modules/uzh/person.php?id=36708)

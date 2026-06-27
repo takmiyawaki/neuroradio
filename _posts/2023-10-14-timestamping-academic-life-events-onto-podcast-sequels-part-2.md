@@ -37,7 +37,7 @@ Chao Sun 論文、[シナプスシングルタンパク質イメージング](ht
 [Erin Schumanの歴史](https://www.the-scientist.com/features/defying-dogma-decentralized-translation-in-neurons-71309?utm_campaign=TS_DAILY_NEWSLETTER_2023&utm_medium=email&_hsmi=275804481&_hsenc=p2ANqtz-8G7RqtVz89xaZiHigsiEQAKhr6S-dw7Ai7BDijGNyCHv6qSxy6UumsOtBHR94I4B10NRqkxYH5lDT7eLacm7jhlVDnWA&utm_content=275804481&utm_source=hs_email)
 [Npas4は両方やってそう](https://www.sciencedirect.com/science/article/pii/S0092867419310104) これですか？
 Arcもやってそう: [vivoではArcは一度上がったらずっと上がっているかも](https://www.the-scientist.com/features/defying-dogma-decentralized-translation-in-neurons-71309?utm_campaign=TS_DAILY_NEWSLETTER_2023&utm_medium=email&_hsmi=275804481&_hsenc=p2ANqtz-8G7RqtVz89xaZiHigsiEQAKhr6S-dw7Ai7BDijGNyCHv6qSxy6UumsOtBHR94I4B10NRqkxYH5lDT7eLacm7jhlVDnWA&utm_content=275804481&utm_source=hs_email)
-[Bito先生あたりで一度言われていた](https://www.cell.com/fulltext/S0092-8674(12)00415-1)
+[Bito先生あたりで一度言われていた](<https://www.cell.com/fulltext/S0092-8674(12)00415-1>)
 [Thomas Kim](https://www.thomaskim-lab.com/)
 [Seth Blackshaw](https://blackshawlab.com/)
 [Sageghが出してた](https://elifesciences.org/articles/85459)
@@ -71,7 +71,7 @@ FKNEのコミュニティサービス業務の一つ:[PhD awardにギリで落�
 の[NR回](/2022/10/06/46-the-fos-expression-we-saw-that-day/)
 [Thomas Oertner](https://www.oertner.com/)
 [DRGをモデルにつかった古典の例](https://doi.org/10.1002/jnr.490350502) あと、[これ](https://www.jneurosci.org/content/17/19/7252.long)とか
-[2013年の最初のTRAP論文](https://www.cell.com/neuron/fulltext/S0896-6273(13)00272-9)
+[2013年の最初のTRAP論文](<https://www.cell.com/neuron/fulltext/S0896-6273(13)00272-9>)
 カルシウムから転写までのシグナルに触れたレビュー。[その１](https://www.nature.com/articles/nrn987)　[その２](https://www.sciencedirect.com/science/article/pii/S0896627318309012)
 TTX存在下でのHigh Kによる転写制御のGreenbergランドマーク的論文　[その１](https://www.nature.com/articles/nature09033)　[その２](https://www.nature.com/articles/nn.3808)
 収録中Fig4でのロジックをどうしても解読できてなかったのですが、収録後になんとなくわかりました。活動・カルシムの下流のシグナルを阻害してもFosが変化しないので活動が自律的にFosを誘導していないという風な文脈なんですね。ただ、阻害されたシグナルが活動特異的なものでは特になく、しかも活動の下流を全部つぶしたわけではない(CamKとか)ので、データだけフラットにみると有名なシグナルをcherry pickにいくつか阻害したけど結論が出ませんでした的な感じの印象が強くなってしまいました。活動だけで特異的に駆動されるシグナル (のモジュール) とかがあると助かるんですけどね。。。 (北沢)
@@ -83,7 +83,7 @@ Gi-DREADDの作用機序は結構複雑:Rothの[このreview](https://doi.org/10
 [DavidのGeorgの海馬の方](https://www.biorxiv.org/content/10.1101/644526v1) (4年くらいbRに放置)
 [DavidとGeorgのV1の方](https://doi.org/10.24072/pcjournal.156) (reviewを経て謎の新興ジャーナルに)
 [北沢さんらがミスったbioRxivの引用](https://www.frontiersin.org/articles/10.3389/fncir.2022.911023/full#B184) (3人目以降のオーサーが落ちるのが共通?)
-[Bito先生がDeisserothと昔やった仕事](https://www.cell.com/fulltext/S0092-8674(00)81816-4)
+[Bito先生がDeisserothと昔やった仕事](<https://www.cell.com/fulltext/S0092-8674(00)81816-4>)
 [Richard Tsien](https://med.nyu.edu/research/tsien-lab/)
 CREB周りは、0.1Hzでのリン酸化CREBの免染をしてくれるだけでだいぶ理解が深まるのになーということをコメントしようと思っていて忘れていました。MAPKやCamKシグナルに関しても同様なのですが。北沢
 [CREB屋さん、Josselyn](https://jflab.ca/#research)

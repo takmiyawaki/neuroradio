@@ -90,7 +90,7 @@ MERFISHが（脳で）動くよの[論文](https://www.science.org/doi/10.1126/s
 
 BaylorのToliasとTubingenのBerensの[マウス運動野のpatch-seq](https://www.nature.com/articles/s41586-020-2907-3)
 Leinのところでは[ヒトからもpatch-seq](https://www.nature.com/articles/s41586-021-03813-8)。患者さん由来の90個のサンプル（主に側頭葉の一部）
-[CSHL総出のCellular anatomy of the mouse primary motor cortex](https://www.nature.com/articles/s41586-021-03970-w)。マウス MOp-ulについて、細胞種特異的なCreマウスを用いつつ、バルクで順行性-逆行性ラベル、fMOSTで全脳スケールでのトレーシング。 バルクじゃなくてスパースラベリングも。[Mouselight](https://www.cell.com/cell/fulltext/S0092-8674(19)30842-6)
+[CSHL総出のCellular anatomy of the mouse primary motor cortex](https://www.nature.com/articles/s41586-021-03970-w)。マウス MOp-ulについて、細胞種特異的なCreマウスを用いつつ、バルクで順行性-逆行性ラベル、fMOSTで全脳スケールでのトレーシング。 バルクじゃなくてスパースラベリングも。[Mouselight](<https://www.cell.com/cell/fulltext/S0092-8674(19)30842-6>)
 [2p-fMOSTの初出？](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-21-8-9839&id=252777) micro-optical sectioning tomographyでMOSTなので、撮像方法は2pだろうがconfocalだろうがなんでもいいらしい。勘違いしていた。 reviewは[これ](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-10-8-4075&id=415572)がよくまとまってる
 Pavel Osten の[仕事](https://www.nature.com/articles/nmeth.1854)
 [BARseq](https://www.sciencedirect.com/science/article/pii/S0092867419310748)
@@ -120,7 +120,7 @@ BroadのMacoskoのラボが[アダルトマウスとヒト死後脳の小脳のs
 [Brain/MINDS](https://brainminds.jp/)
 [Jim Berg](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/jim-berg/)
 Toliasのと一緒に出てたAllenから出てた[Gouwens et al.](https://www.sciencedirect.com/science/article/pii/S009286742031254X?via%3Dihub)
-[Blue Brain Project](https://www.cell.com/fulltext/S0092-8674(15)01191-5)
+[Blue Brain Project](<https://www.cell.com/fulltext/S0092-8674(15)01191-5>)
 BBPのドキュメンタリー [in silico](https://www.sandboxfilms.org/films/in-silico/) についての[記事](https://www.nature.com/articles/d41586-020-03462-3)
 [Ed LeinのAltzheimerグラント](https://alleninstitute.org/what-we-do/brain-science/news-press/press-releases/seattle-researchers-team-build-hi-res-brain-map-alzheimers-disease)
 [IBL](https://www.internationalbrainlab.com/)

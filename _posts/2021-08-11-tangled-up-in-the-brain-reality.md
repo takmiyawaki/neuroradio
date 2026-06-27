@@ -68,7 +68,7 @@ Jason Kerrの[アイトラッキング論文](https://www.nature.com/articles/na
 あまり伸びてないコンテンツ：[Rabiesの補講(EP12)](/2021/05/23/12-retrospection-on-retroinfection/)
 Tripodi(ケンブリッジのMRCでした)の[SiR論文](https://www.sciencedirect.com/science/article/pii/S0092867417306979?via%3Dihub)
 PEST: 付加したタンパク質をユビキチン化により分解しやすくするペプチド配列
-TEVp: TEV(tobacco Etch Virus) のprotease。特定のペプチド配列（TEVs）を認識して切断する。本来自身のタンパク質性術の過程でペプチド切断に用いるプロテアーゼ。Anderson labの[Tango-map](https://www.cell.com/fulltext/S0092-8674(12)00009-8)やTing labの[FLARE](https://www.nature.com/articles/nbt.3909)のように、in vivoで発現させてツールとして用いるケースが増えてきている（8/12追記。松山さんありがとうございます！）
+TEVp: TEV(tobacco Etch Virus) のprotease。特定のペプチド配列（TEVs）を認識して切断する。本来自身のタンパク質性術の過程でペプチド切断に用いるプロテアーゼ。Anderson labの[Tango-map](<https://www.cell.com/fulltext/S0092-8674(12)00009-8>)やTing labの[FLARE](https://www.nature.com/articles/nbt.3909)のように、in vivoで発現させてツールとして用いるケースが増えてきている（8/12追記。松山さんありがとうございます！）
 Wickershamによる最初の反証論文 [“Self-inactivating” rabies viruses are susceptible to loss of their intended attenuating modification](https://www.biorxiv.org/content/10.1101/550640v2)
 Tripodiの[反証論文](https://www.biorxiv.org/content/10.1101/2020.09.19.304683v1)
 Wickershamによるアップデートされた反証論文 [Rabies virus with a destabilization domain added to its nucleoprotein spreads between neurons only if the domain is removed](https://www.biorxiv.org/content/10.1101/550640v4)

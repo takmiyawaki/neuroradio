@@ -66,11 +66,11 @@ Show Notes:
 [Grégory Scherrer](https://www.scherrerlab.com/)
 [数年前のPainに関するミニスコープの仕事](https://www.science.org/doi/full/10.1126/science.aap8586)
 Analgesia: 鎮痛
-[プラセボと治験についてのレビュー](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61706-2/abstract)
+[プラセボと治験についてのレビュー](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61706-2/abstract>)
 Fos TRAP[初代](https://linkinghub.elsevier.com/retrieve/pii/S0896627313002729) [二代目](https://www.science.org/doi/10.1126/science.aan6747)
 [von Frey試験含め疼痛評価法いろいろ](https://www.jstage.jst.go.jp/article/fpj/130/2/130_2_124/_pdf) (pdf)
 [PnはCortexと小脳を繋ぐ重要な中継核](https://journals.physiology.org/doi/abs/10.1152/jn.1992.67.3.547)
-[Stress Induced Analgesiaはオピオイドが関与](https://www.cell.com/neuron/fulltext/S0896-6273(09)00543-1)
+[Stress Induced Analgesiaはオピオイドが関与](<https://www.cell.com/neuron/fulltext/S0896-6273(09)00543-1>)
 [NPAS4 TRAPの論文](https://www.nature.com/articles/s41467-024-50099-1)
 [Spontaneous ActivityによるHebbian Plasticity](https://www.science.org/doi/10.1126/science.adh7814)
 [EmillianiのScanlessでオプシン型GEVIでも2p イメージング](https://www.biorxiv.org/content/10.1101/2024.05.10.593541v1.full)

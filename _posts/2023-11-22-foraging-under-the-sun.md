@@ -40,7 +40,7 @@ First Author の [Che-Hang Yu](https://scholar.google.com/citations?hl=en&user=w
 [Community Review](https://www.cell.com/multi-journal-submission) (今はMulti-Journal Submission)
 [Heliyon](https://www.cell.com/heliyon/home)　確認したらHeliyonはCommunity Review / Multi-Journal Submissionの対象外でした。 by 服部
 [Cell Reportsシリーズ](https://www.cell.com/cell-reports-portfolio)：一応Cell Reports（生物学的発見）でカバーされない分野の論文のためのジャーナルらしい。Physical ScienceとかSustainabilityとか「細胞」関係ないやんって思いますが by 服部
-これより[前のNeuron論文](https://www.cell.com/neuron/fulltext/S0896-6273(21)00891-6)
+これより[前のNeuron論文](<https://www.cell.com/neuron/fulltext/S0896-6273(21)00891-6>)
 [Matthew Botvinickが提唱したMeta-reinforcement learning](https://www.nature.com/articles/s41593-018-0147-8)
 [UC バークレーのグループによるもの](https://arxiv.org/abs/1611.02779)
 [A2C](https://arxiv.org/abs/1602.01783)
@@ -50,7 +50,7 @@ First Author の [Che-Hang Yu](https://scholar.google.com/citations?hl=en&user=w
 [サットン本](https://incompleteideas.net/book/the-book-2nd.html)
 [Deisseroth のOFC論文](https://www.nature.com/articles/s41586-018-0866-8)
 [StuberのOFC論文](https://www.nature.com/articles/s41593-019-0408-1)
-[JeremiahのNeuron論文](https://www.cell.com/neuron/fulltext/S0896-6273(19)30529-X) (Bari et al,)
+[JeremiahのNeuron論文](<https://www.cell.com/neuron/fulltext/S0896-6273(19)30529-X>) (Bari et al,)
 [JeremiahのbioRxiv論文](https://www.biorxiv.org/content/10.1101/2022.12.08.519670v1)
 [SfNのDeisserothラボ左右Foraging](https://www.abstractsonline.com/pp8/#!/10892/presentation/37978)
 [David Sussilo](https://twitter.com/SussilloDavid)

@@ -38,11 +38,11 @@ Intro+Fig1
 [Alison Barth](https://labs.bio.cmu.edu/barth/)
 [Alison Barthの作ったライン](https://www.jneurosci.org/content/24/29/6466)
 [尾藤研](https://www.neurochem.m.u-tokyo.ac.jp/)
-[奥野さんの作ったライン](https://www.cell.com/fulltext/S0092-8674(12)00415-1)（が報告された論文）
+[奥野さんの作ったライン](<https://www.cell.com/fulltext/S0092-8674(12)00415-1>)（が報告された論文）
 [海馬依存性の課題](https://doi.org/10.1016/j.cell.2020.10.024)
 Tau off：GFP発現がピークに達してから下がるまでの半減期　*shEGFPなのでタンパクレベルでは2h-half-lifeだが、vivoでどう振る舞うかは不明でしょうね (萩)
 [ずっとHighの集団…の仕事の例＠S1](https://www.sciencedirect.com/science/article/pii/S0896627310009712) およびそのマーカーを同定した[仕事](https://www.science.org/doi/10.1126/science.abl5981)
-[Bito Deisseroth Tsien のendogeneousのcFosそこそこbimodal](https://doi.org/10.1016/S0092-8674(00)81816-4)
+[Bito Deisseroth Tsien のendogeneousのcFosそこそこbimodal](<https://doi.org/10.1016/S0092-8674(00)81816-4>)
 
 Fig2
 [相互情報量](https://denkifish.hatenablog.com/entry/2022/01/10/150310)
@@ -73,7 +73,7 @@ Fig5+Discussion
 FamiliarなEnvironmentだとFosはほぼ出ない、の[論文](https://learnmem.cshlp.org/content/15/12/899)
 田中さんの仕事(novel environment exposure)と今回の論文(familiar context)の、Fos(high/+)のstabilityに関する議論でfamiliarとnovelを逆に言い間違えてしまっています。紛らわしくて申し訳ない。(萩)
 最初のFos(Fos-tTA::TRE-H2B GFP)とwell trainedなFos(IHC)のoverlap度合いに関連して,[文脈的恐怖条件づけの場合のdrift等](https://doi.org/10.1016/j.cub.2012.11.019)
-Endogeneousな発現のタイムコース、古典的には[これ](https://doi.org/10.1016/0306-4522(94)00355-9)。[これ](https://www.nature.com/articles/s41467-018-06516-3/figures/3)は結構ダラダラ続いてるので、タスクによる差、タスク後にマウスをどう処置したかとかも効いてきそうですね。（萩）Wiltgen labでは自分たちでタイムコース取ってました。どっかの論文のサプリとかに入れておけば良かったですよね。。。（田中さん）
+Endogeneousな発現のタイムコース、古典的には[これ](<https://doi.org/10.1016/0306-4522(94)00355-9>)。[これ](https://www.nature.com/articles/s41467-018-06516-3/figures/3)は結構ダラダラ続いてるので、タスクによる差、タスク後にマウスをどう処置したかとかも効いてきそうですね。（萩）Wiltgen labでは自分たちでタイムコース取ってました。どっかの論文のサプリとかに入れておけば良かったですよね。。。（田中さん）
 [Hausserの最近の仕事](https://doi.org/10.1016/j.cell.2020.09.061)（場所細胞をオプトで叩くと行動が出る）
 最近Twitter界隈ではCausalityに関する議論がある：いろんなスレッドがありましたが、この(Tweetに基づく[)PDF](https://www.sas.upenn.edu/psych/rust-lab/Summary_Causality_Discussion.pdf)が一番核心を突いていたように思います。 by 吉良さん
 ジャーナルにまとまったものだと、[こちら](https://doi.org/10.1016/j.tins.2022.06.003)です。 by 吉良さん
@@ -83,11 +83,11 @@ Imagine that a subject is performing a demanding but simple visual task in which
 [AP1 ComplexとFosについてのレビュー](https://doi.org/10.1016/j.neuron.2018.10.013)
 [Hunger stateが神経活動に影響してくる例＠V1](https://doi.org/10.1016/j.neuron.2021.10.024)
 [ドパミンかけたらcFosが出る](https://link.springer.com/article/10.1007/s10059-000-0546-y)
-[尾藤先生はCREBでForskolin有無の比較](https://doi.org/10.1016/S0896-6273(00)80026-4)
+[尾藤先生はCREBでForskolin有無の比較](<https://doi.org/10.1016/S0896-6273(00)80026-4>)
 [ドパミンのシグナル経路](https://www.tandfonline.com/doi/full/10.1081/RRS-200029981)
 ドパミンかけるとその場で可塑性が変わる、例えば[柳下さんのお仕事](https://www.science.org/doi/10.1126/science.1255514)
 [Clifford Kentros](https://www.ntnu.edu/employees/clifford.kentros)
-[アテンションを高めて空間タスクをやらせると安定性up](https://doi.org/10.1016/S0896-6273(04)00192-8)
+[アテンションを高めて空間タスクをやらせると安定性up](<https://doi.org/10.1016/S0896-6273(04)00192-8>)
 [NMDA受容体のblockade (CPP) で場所細胞の安定性落ちる](https://www.science.org/doi/10.1126/science.280.5372.2121)（MK-801じゃなかったですね、汗 by 北西さん）
 [穴がいっぱい空いている場所に３個rewardを入れ、場所を毎日変えていくとplace fieldがどんどん変わっていく](https://doi.org/10.1038/nn.2599)
 [Schitzerがendoscopeで見始めた時](https://www.nature.com/articles/nn.3329)

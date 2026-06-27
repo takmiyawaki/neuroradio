@@ -37,10 +37,10 @@ HCI: Human Computer Interfaceのこと
 [Botond RoskaのInstitute](https://iob.ch/people/botond-roska)
 JNS：日本神経科学会のこと
 マッシュルームボディ：昆虫において匂いの記憶および学習を司る脳部位。その名の通りキノコっぽい構造をしている。15個のコンパートメントに異なるDAニューロンが投射する超綺麗な構造。
-[ハエもaddictionになる](https://www.cell.com/current-biology/fulltext/S0960-9822(09)01942-3)
+[ハエもaddictionになる](<https://www.cell.com/current-biology/fulltext/S0960-9822(09)01942-3>)
 風間先生の[In vivo  double パッチの論文](https://www.nature.com/articles/nn.2376)
 [Rachel Wilsonラボ](https://wilson.hms.harvard.edu/)
-Neuronに出てた[Valence Coding論文](https://www.cell.com/neuron/fulltext/S0896-6273(16)30201-X)
+Neuronに出てた[Valence Coding論文](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30201-X>)
 ハエのコネクトーム [データベース](https://www.janelia.org/project-team/flyem/hemibrain) [論文](https://www.biorxiv.org/content/10.1101/2020.01.21.911859v1)
 ハエの[Reward predictionエラー論文](https://www.nature.com/articles/s41467-021-22592-4)
 [Stuberラボ](https://www.stuberlab.org/)：こんな雰囲気（ノースカロライナ時代の[橋川さんの留学記](https://www.jnss.org/neuroscience-news/2018/news_183.pdf)、pdf注意）
@@ -51,7 +51,7 @@ IBL: [The International Brain Laboratory](https://elifesciences.org/articles/637
 ハエの個体間比較：[Central Complex](https://www.nature.com/articles/d41586-019-03443-1)  や [Mushroom body](https://elifesciences.org/articles/04577) のコンパートメントっぷり
 線虫は302個 コネクトーム論文は[これ](https://www.nature.com/articles/s41586-019-1352-7)
 PAM（protocerebral anterior media）クラスターとPPL（protocerebral posterior lateral）クラスター：mushroom bodyに投射するドパミン神経群で、位置する場所やmushroom bodyに投射する位置、コードする情報が異なる
-ヒトのolfaction、[嗅球無いのに嗅げている](https://www.cell.com/neuron/fulltext/S0896-6273(19)30854-2)
+ヒトのolfaction、[嗅球無いのに嗅げている](<https://www.cell.com/neuron/fulltext/S0896-6273(19)30854-2>)
 GCaMP7の[記事](https://tak38waki.hatenablog.com/entry/2018/02/14/233602)
 Hakwan Lau：[Professorになりたくないツイートと伏線回収ツイート](https://twitter.com/hakwanlau/status/1385329010113060865) 意識機構研究チーム7/1スタートで[人材募集中](https://cbs.riken.jp/jp/careers/20210527_w21064_h.lau_t.html)
 7Tと3Tの比較：だいたい7Tで0.5 mm, 3Tで1 mmの解像度。7Tは臨床応用で承認されている上限だが、最近はもっと強いスキャナーを作ろうとする[流れ](https://www.nature.com/articles/d41586-018-07182-7)も。

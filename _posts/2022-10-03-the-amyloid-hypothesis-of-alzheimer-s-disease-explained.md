@@ -100,7 +100,7 @@ Aβの治験が上手くいかない：[Aβを標的とする抗体医薬の治�
 1984年 [アルツハイマー病患者の脳内の血管壁に沈着したAmyloid βを単離](https://www.sciencedirect.com/science/article/pii/S0006291X84801904)
 [老人斑の主要構成成分はAmyloid β](https://www.pnas.org/doi/abs/10.1073/pnas.82.12.4245)
 1987年 [APPのクローニング](https://www.nature.com/articles/325733a0)
-1986タウの報告（[井原](https://doi.org/10.1093/oxfordjournals.jbchem.a135625)など複数グループ：[１](https://doi.org/10.1016/S0021-9258(17)38495-8) [2](https://doi.org/10.1073/pnas.83.11.4040) [3](https://doi.org/10.1073/pnas.83.11.4044)）
+1986タウの報告（[井原](https://doi.org/10.1093/oxfordjournals.jbchem.a135625)など複数グループ：[１](<https://doi.org/10.1016/S0021-9258(17)38495-8>) [2](https://doi.org/10.1073/pnas.83.11.4040) [3](https://doi.org/10.1073/pnas.83.11.4044)）
 1991 家族性ADの原因遺伝子としてのAPP [その１](https://www.nature.com/articles/349704a0)　[その２](https://www.nature.com/articles/353844a0)　[その３](https://www.science.org/doi/10.1126/science.1925564)
 [John Hardy](https://ukdri.ac.uk/team/john-hardy)
 [Dennis Selkoe](https://selkoelab.bwh.harvard.edu/)
@@ -108,7 +108,7 @@ Aβの治験が上手くいかない：[Aβを標的とする抗体医薬の治�
 [Aβ42はAβ40よりもアミロイド形成能が高い](https://pubs.acs.org/doi/abs/10.1021/bi00069a001)
 [APPの生理的機能（総説）](https://perspectivesinmedicine.cshlp.org/content/2/2/a006288.long)
 [APPの神経保護作用](https://www.sciencedirect.com/science/article/pii/089662739390315I?via%3Dihub)
-[APPは軸索輸送を担う](https://doi.org/10.1016/S0896-6273(01)00496-2)
+[APPは軸索輸送を担う](<https://doi.org/10.1016/S0896-6273(01)00496-2>)
 プレセニリンはノッチを切断[その１](https://www.nature.com/articles/19091)　[その２](https://www.nature.com/articles/19096)　[その３](https://www.nature.com/articles/19083)
 [1992にamyloid cascade hypothesisというタイトルのperspectiveがscienceに](https://www.science.org/doi/10.1126/science.1566067)
 [アミロイドーシス色々](https://www.msdmanuals.com/ja-jp/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB/10-%E5%86%85%E5%88%86%E6%B3%8C%E7%96%BE%E6%82%A3%E3%81%A8%E4%BB%A3%E8%AC%9D%E6%80%A7%E7%96%BE%E6%82%A3/%E3%82%A2%E3%83%9F%E3%83%AD%E3%82%A4%E3%83%89%E3%83%BC%E3%82%B7%E3%82%B9/%E3%82%A2%E3%83%9F%E3%83%AD%E3%82%A4%E3%83%89%E3%83%BC%E3%82%B7%E3%82%B9)
@@ -125,7 +125,7 @@ deCODE geneticsを作った[Kari Stefansson](https://www.decode.com/management/)
 [Dale Schenkがワクチン療法を考え、合成ヒトAβ42をマウスに注射](https://www.nature.com/articles/22124)
 [AN-1792ワクチンの臨床試験、髄膜脳炎、すぐ中止](https://www.alzforum.org/therapeutics/an-1792)
 [買われた会社（Elan社）の会計不正・インサイダー取引](https://www.sec.gov/news/press-release/2013-2013-41htm)
-[Aβワクチン（AN1792）によりAβ沈着は抑制されたが、認知機能には影響がなかった](https://doi.org/10.1016/S0140-6736(08)61075-2)
+[Aβワクチン（AN1792）によりAβ沈着は抑制されたが、認知機能には影響がなかった](<https://doi.org/10.1016/S0140-6736(08)61075-2>)
 [Aβをターゲットにした臨床試験のまとめ](https://www.nature.com/articles/s41573-022-00391-w)
 （補足）γセクレターゼ阻害剤だけでなく、βセクレターゼ阻害剤も認知機能がかえって悪化する試験が多いみたいです。
 [APOEε4キャリアへのbapineuzumabのPhase3試験ではアミロイドPETで有意差があったが、認知機能に有意な差はなかった](https://www.nejm.org/doi/full/10.1056/nejmoa1312889)

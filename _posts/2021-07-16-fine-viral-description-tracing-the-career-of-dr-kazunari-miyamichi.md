@@ -19,17 +19,17 @@ Show Notes:
 冊子「あいみっく」への寄稿、[Sラボ時代の思い出と研究概要の説明](https://www.imic.or.jp/member/files/2016/10/d82dacdbf91258a666321e4d20684fb71.pdf)（直.pdf注意）
 立花隆の[脳を究める](https://www.amazon.co.jp/%E8%84%B3%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B%E2%80%95%E8%84%B3%E7%A0%94%E7%A9%B6%E6%9C%80%E5%89%8D%E7%B7%9A-%E6%9C%9D%E6%97%A5%E6%96%87%E5%BA%AB-%E7%AB%8B%E8%8A%B1-%E9%9A%86/dp/4022613246)
 森憲作先生によるウサギ電気生理 [このあたり](https://pubmed.ncbi.nlm.nih.gov/1491253/)
-Linda BuckとRichard Axelによる1991年の[嗅覚受容体報告論文](https://www.cell.com/fulltext/0092-8674(91)90418-X)
+Linda BuckとRichard Axelによる1991年の[嗅覚受容体報告論文](<https://www.cell.com/fulltext/0092-8674(91)90418-X>)
 深田研[HP](https://www.biochem.s.u-tokyo.ac.jp/fukada-lab/index-e.html)
 [小早川ラボ](https://www.kmu.ac.jp/faculty/graduate/category1/unit16.html)
 猫怖くない、の[仕事](https://www.nature.com/articles/nature06281)
 嗅覚受容体の発現パターンの研究：１嗅神経１嗅覚受容体を実現するネガティブフィードバックの[研究](https://pubmed.ncbi.nlm.nih.gov/14593185/)
 嗅上皮の中で[嗅覚受容体がどのように並び、嗅球に行った時にどのように展開するか、の研究](https://www.jneurosci.org/content/25/14/3586.long)
-ガイダンスモルキュールをいじったときにどう変わるか…の研究の例[1](https://www.sciencedirect.com/science/article/pii/S0092867406014048)[2](https://www.cell.com/fulltext/S0092-8674(10)00495-2)
+ガイダンスモルキュールをいじったときにどう変わるか…の研究の例[1](https://www.sciencedirect.com/science/article/pii/S0092867406014048)[2](<https://www.cell.com/fulltext/S0092-8674(10)00495-2>)
 Liqun Luoラボ[HP](https://web.stanford.edu/group/luolab/)
 [「Luo先生に学ぶ」](https://www.facebook.com/kazunari.miyamichi/posts/10204745689305773)　TRIO論文出版後、宮道先生がLiqunを語った短いエッセー
 [留学夜話～留学先の選び方](https://www.uja-info.org/post/_t008)　宮道先生が留学先を選ぶ際に考慮されたこと（海外日本人研究者ネットワークwebサイトより）
-MARCM[論文](https://www.cell.com/fulltext/S0896-6273(00)80701-1)
+MARCM[論文](<https://www.cell.com/fulltext/S0896-6273(00)80701-1>)
 MADMのCell[論文](https://pubmed.ncbi.nlm.nih.gov/15882628/)
 小宮山さんラボ[HP](https://komiyamalab.biosci.ucsd.edu/home/)
 ずがんひー（Zhigang He）ラボ[HP](https://kirbyneuro.org/ZhigangHe/)
@@ -37,7 +37,7 @@ MADMのCell[論文](https://pubmed.ncbi.nlm.nih.gov/15882628/)
 DeisserothのラボからAAVに入れて：例えば[コレ](https://www.nature.com/articles/nature07991)
 FLEXスイッチとAAVの[論文](https://www.jneurosci.org/content/28/28/7025) from Sternsonラボ
 2003年のFLEXの原理証明[論文](https://www.nature.com/articles/nbt811)
-Callaway の2007年(Wickersham et al) モノシナプストレーシング[論文](https://www.cell.com/fulltext/S0896-6273(07)00078-5)
+Callaway の2007年(Wickersham et al) モノシナプストレーシング[論文](<https://www.cell.com/fulltext/S0896-6273(07)00078-5>)
 Neuronの[Primer](https://www.sciencedirect.com/science/article/pii/S0896627308000317)
 嗅球から高次展開を見た[論文](https://www.nature.com/articles/nature09714)
 Mitral cellからの追跡[論文](https://www.sciencedirect.com/science/article/pii/S0896627313007617)その２ （ローカルサーキット）

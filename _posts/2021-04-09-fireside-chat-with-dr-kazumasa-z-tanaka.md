@@ -15,7 +15,7 @@ summary: "OISTの田中和正さん（<a href='https://x.com/Kazu_ZT'>@Kazu_ZT</
 Show Notes:
 [脳のハードドライブの仕組みと理由を探る](https://www.oist.jp/ja/news-center/news/2020/8/11/35381?utm_source=social_media&utm_medium=twitter&utm_campaign=brains_hard_drive&utm_content=textlink)...田中さんのインタビュー記事
 [田中さんのラボHP](https://groups.oist.jp/ja/mru)
-[Cortical representations are reinstated by the hippocampus during memory retrieval](https://www.cell.com/neuron/fulltext/S0896-6273(14)00895-2) …田中さんの大学院時代の業績。Neuron論文。fos-tTA, tetO-H2B-GFP, tetO-Creの３重トランスジェニックマウスのCA1に、Cre依存的に機能するArchTをAAVにより導入。文脈的恐怖条件づけの想起時に海馬CA1のfos陽性細胞を抑制すると、海馬外の領域（皮質・海馬台・偏桃体など）において、記憶の獲得時にfosプロモーターが動いていた細胞と想起時にcFosを発現する細胞のオーバーラップ率が低下することを示した。
+[Cortical representations are reinstated by the hippocampus during memory retrieval](<https://www.cell.com/neuron/fulltext/S0896-6273(14)00895-2>) …田中さんの大学院時代の業績。Neuron論文。fos-tTA, tetO-H2B-GFP, tetO-Creの３重トランスジェニックマウスのCA1に、Cre依存的に機能するArchTをAAVにより導入。文脈的恐怖条件づけの想起時に海馬CA1のfos陽性細胞を抑制すると、海馬外の領域（皮質・海馬台・偏桃体など）において、記憶の獲得時にfosプロモーターが動いていた細胞と想起時にcFosを発現する細胞のオーバーラップ率が低下することを示した。
 [The hippocampal engram maps experience but not place](https://science.sciencemag.org/content/361/6400/392)…田中さんのポスドク時代の業績。Science論文。fos陽性細胞にChR2を発現するマウスを新規環境に暴露して、翌日に同じ環境あるいは別の環境に暴露した後に、光刺激に対する応答性によってCA1のfos陽性細胞を同定。電気生理的な性質を記録。特に、fos陽性細胞は文脈に対応した活動を示すが、場所受容野に関してはリマッピングが行われていることを示した。記憶痕跡と呼ばれている細胞集団が運んでいる情報が場所というよりも環境（文脈）をエンコードしていることを示唆。
 [海馬の記憶エングラムは経験の表象へのインデックスである](https://first.lifesciencedb.jp/archives/18457)…田中さんによるSciecne論文の日本語解説
 c-fos…神経活動依存的に発現する（とされる）最初期遺伝子（immediate early gene）の一種
@@ -41,11 +41,11 @@ two-body problem…カップルが双方のキャリアを築こうとした際�
 [Optogenetic stimulation of a hippocampal engram activates fear memory recall](https://www.nature.com/articles/nature11028)...利根川先生達のEngram論文
 [Generation of a Synthetic Memory Trace](https://science.sciencemag.org/content/335/6075/1513)…MayfordのEngram論文
 [Direct Reactivation of a Coherent Neocortical Memory of Context](https://www.sciencedirect.com/science/article/pii/S0896627314008423)...田中さんのNeuron論文と同じ号に掲載された似たコンセプトの論文、Mayfordラボ。
-[Hippocampal Memory Traces Are Differentially Modulated by Experience, Time, and Adult Neurogenesis](https://www.cell.com/neuron/fulltext/S0896-6273(14)00404-8)...Henの論文
+[Hippocampal Memory Traces Are Differentially Modulated by Experience, Time, and Adult Neurogenesis](<https://www.cell.com/neuron/fulltext/S0896-6273(14)00404-8>)...Henの論文
 NIH grant…アメリカの生物医学、公衆衛生科学研究の主要な資金源
 R01 grant…主要なNIH grant。PIに対して与えられる。規模は科研費基盤Ｓくらい。これを取れて一人前、という雰囲気は無きにしも非ず。
 理研有期雇用の通算雇用契約期間…研究系職は10年
-[Subcircuits of Deep and Superficial CA1 Place Cells Support Efficient Spatial Coding across Heterogeneous Environment](https://www.cell.com/neuron/fulltext/S0896-6273(20)30858-8?)…CA1の浅層/深層の場所細胞の性質の違いについて調べた論文。
+[Subcircuits of Deep and Superficial CA1 Place Cells Support Efficient Spatial Coding across Heterogeneous Environment](<https://www.cell.com/neuron/fulltext/S0896-6273(20)30858-8?>)…CA1の浅層/深層の場所細胞の性質の違いについて調べた論文。
 [Hippocampal CA1 pyramidal cells form functionally distinct sublayers](https://www.nature.com/articles/nn.2894)…CA1の浅層/深層の場所細胞について調べた論文。水関先生がBuzsakiラボでやったお仕事。
 くゎんそう茶…沖縄では眠りを誘う野菜として食されている野菜をお茶にしたもの。田中さんが愛飲されているくゎんそう茶は[こちら](https://www.okinawajoho.jp/ocha/goods_kuwansou_teapack_yakusou.html)。
 [OISTのPI募集](https://groups.oist.jp/ja/facultypositions)...4/30まで！

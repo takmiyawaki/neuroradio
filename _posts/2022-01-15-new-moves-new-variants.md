@@ -54,7 +54,7 @@ Caltechの[Gradinaru](https://glab.caltech.edu/)
 結構前から[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.16.152975v1)には上がっていた
 [Ben Deverman](https://www.broadinstitute.org/bios/ben-deverman)
 [PHP.B](https://www.nature.com/articles/nbt.3440)とか[PHP.eB](https://www.nature.com/articles/nn.4593)とか
-PHP.eBの感染にはLy6aというタンパク質が必要 [その１](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(19)30054-1)[その２](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225206)
+PHP.eBの感染にはLy6aというタンパク質が必要 [その１](<https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(19)30054-1>)[その２](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225206)
 bioRxiv版ではマーモセット押されてなかったと思う←そうでもなかったですね笑
 [CLOVER](https://clover.caltech.edu/)
 [Capsida Biotherapeutics](https://capsida.com/)
@@ -72,9 +72,9 @@ Wyssの[BBBを通す抗体をスクリーニングする試み](https://wyss.har
 Supplementary figure 11：ちゃんと調べたら [Supplementary Figures](https://www.nature.com/articles/s41592-021-01319-9#Sec24)がExtended Dataとは別にありました
 ↑を見てて気づいたのですが、C, prM, Eは『Starter cellへの感染』に必要なのではなく、『Starter cellからのTransneuronalな感染』に必要なのですね…。TVAのことを考えながら To infect cells, ...の文章を読んで誤解してしまった…すみません（脇）
 [HSVのH129](https://www.pnas.org/content/88/18/8048.long)
-[AAV1でのAnterograde tracing](https://www.cell.com/neuron/fulltext/S0896-6273(16)30913-8)
+[AAV1でのAnterograde tracing](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30913-8>)
 [Pseudotyped vesicular stomatitis virus](https://www.pnas.org/content/108/37/15414.long)
-AAV2retroの経路依存性 [これ](https://www.cell.com/neuron/fulltext/S0896-6273(16)30580-3)のTable S2
+AAV2retroの経路依存性 [これ](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30580-3>)のTable S2
 [Sudof研にいた頃の( プレシナプスでのリリースを見た)仕事](https://www.jneurosci.org/content/33/13/5867.long)他の仕事は[業績リスト](https://profiles.utsouthwestern.edu/profile/158492/wei-xu.html)を参照のこと
 [AAVの（ゲノムへの）組み込み](https://www.nature.com/articles/s41587-020-0741-7)：犬で10年追った知見
 AAVは[4.7kb](https://doi.org/10.1038/mt.2009.255)がパッケージング限界

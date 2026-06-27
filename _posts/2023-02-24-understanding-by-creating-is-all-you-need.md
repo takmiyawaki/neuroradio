@@ -73,7 +73,7 @@ DeepMindが出した[DQN論文](https://www.nature.com/articles/nature14236)
 [UC Berkeley のコース](https://inst.eecs.berkeley.edu/~cs182/sp23/)
 [YouTubeで見れる](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 [Andrew NgのStanfordのコース](https://cs229.stanford.edu/)
-シンガポールでのグラント：[Academic Research Fund Tier2](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=MOET2EP5-01-2022&CompanyCode=moe) が RO1 みたいなやつで PI 職の Apply 段階でとれるのが[NRF fellowship](https://www.nrf.gov.sg/funding-grants/nrf-fellowship)とか[Nanyang Assistant Professorship](https://www.ntu.edu.sg/research/research-careers/nanyang-assistant-professorship-(nap)#Content_C003_Col00)とかです。他にも A*STAR とかのがあるかも。
+シンガポールでのグラント：[Academic Research Fund Tier2](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=MOET2EP5-01-2022&CompanyCode=moe) が RO1 みたいなやつで PI 職の Apply 段階でとれるのが[NRF fellowship](https://www.nrf.gov.sg/funding-grants/nrf-fellowship)とか[Nanyang Assistant Professorship](<https://www.ntu.edu.sg/research/research-careers/nanyang-assistant-professorship-(nap)#Content_C003_Col00>)とかです。他にも A*STAR とかのがあるかも。
 [単著論文（直近の方）](https://www.nature.com/articles/s41593-022-01211-5)
 [前の論文（独立後一報め）](https://www.science.org/doi/10.1126/sciadv.abn0984)
 [ワードロップが書いた「複雑系」という本](https://www.amazon.co.jp/%E8%A4%87%E9%9B%91%E7%B3%BB%E2%80%95%E7%A7%91%E5%AD%A6%E9%9D%A9%E5%91%BD%E3%81%AE%E9%9C%87%E6%BA%90%E5%9C%B0%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-M-%E3%83%9F%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB-%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AD%E3%83%83%E3%83%97/dp/4102177213)

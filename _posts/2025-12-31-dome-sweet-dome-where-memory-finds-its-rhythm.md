@@ -20,7 +20,7 @@ Show Notes:
 最初のドーム論文: [Jayakumar et al., 2019](https://www.nature.com/articles/s41586-019-0939-3)
 [O’Keefe and Recce, 1993](https://onlinelibrary.wiley.com/doi/10.1002/hipo.450030307)
 [Phase coding（位相コーディング）](https://bsd.neuroinf.jp/wiki/%E4%BD%8D%E7%9B%B8%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0#cite_note-O&#39;Keefe1993-1)
-theta precessionがsequenceの源になってるんじゃないかとSkaggsが1996年に予測した: [Skaggs et al., 1996](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1098-1063(1996)6:2%3C149::AID-HIPO6%3E3.0.CO;2-K)
+theta precessionがsequenceの源になってるんじゃないかとSkaggsが1996年に予測した: [Skaggs et al., 1996](<https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1098-1063(1996)6:2%3C149::AID-HIPO6%3E3.0.CO;2-K>)
 Sequenceを実際に証明: [Foster and Wilson, 2007](https://onlinelibrary.wiley.com/doi/10.1002/hipo.20345); [Johnson and Redish, 2007](https://www.jneurosci.org/content/27/45/12176.short)
 Skaggsの話をした雑談回: [#101](/2025/12/24/101-taco-chronicles/)
 前半と後半が2つのガウシアンになっている: [Yamaguchi et al., 2002](https://journals.physiology.org/doi/full/10.1152/jn.2002.87.6.2629)
@@ -28,7 +28,7 @@ Mike Hasselmoが2002に提唱したモデル: [Hasselmo et al., 2002](https://di
 「Phase preferenceを見ると大体前半半分にでかいピークがある。後半の残り180度~」: ここでいう前半はplace fieldの前半に対応するとされているtheta phase (late phase）であることに注意。「後半」はplace fieldの後半（thetaのearly phase)を指している。（末）
 (place fieldでいう後半に）発火しているときは、’pro’cessionになっている: [Wang et al. 2020](https://www.science.org/doi/full/10.1126/science.abb4151)
 Grid cellのtheta precession: [Haftig et al. 2008](https://www.nature.com/articles/nature06957)
-[Dragoi and Buzsáki 2006](https://www.cell.com/neuron/fulltext/S0896-6273(06)00165-6)
+[Dragoi and Buzsáki 2006](<https://www.cell.com/neuron/fulltext/S0896-6273(06)00165-6>)
 Giocomo labの論文: [Campbell et al. 2018](https://www.nature.com/articles/s41593-018-0189-y)
 [Schmidt, Diba, et al. 2009](https://www.jneurosci.org/content/29/42/13232.short)
 Circular linear regressionのメソッド論文: [Kempter et al. 2012](https://www.sciencedirect.com/science/article/pii/S016502701200101X)

@@ -26,7 +26,7 @@ Nevermindの赤ちゃん、[訴える](https://hypebeast.com/jp/2021/8/spencer-e
 細胞説の[フィルヒョー](https://en.wikipedia.org/wiki/Rudolf_Virchow)
 [ロベルト・コッホ](https://en.wikipedia.org/wiki/Robert_Koch)
 [ペンフィールド](https://en.wikipedia.org/wiki/Wilder_Penfield)
-[エクルス](https://en.wikipedia.org/wiki/John_Eccles_(neurophysiologist))
+[エクルス](<https://en.wikipedia.org/wiki/John_Eccles_(neurophysiologist)>)
 [Proprioception](https://www.physio-pedia.com/Proprioception)
 [Man on his nature](https://www.amazon.com/Man-his-Nature-Charles-Sherrington/dp/0521064368)
 Liqunの[総説](https://www.science.org/doi/10.1126/science.abg7285)
@@ -34,8 +34,8 @@ Kay Tyeの[総説](https://www.sciencedirect.com/science/article/pii/S0896627318
 Mrsic-Flogelの[総説](https://www.nature.com/articles/nature12654)
 [eOPN3論文](https://www.sciencedirect.com/science/article/abs/pii/S0896627321001616)
 論文１：Mathias Mahnが昔出していた[アーティファクト論文](https://www.nature.com/articles/nn.4266)
-Bruchasの方の[論文](https://www.cell.com/neuron/fulltext/S0896-6273(21)00307-X)（Neuronでした）
-Scott Sternsonの[hM4D+nrxnによるpresynapse抑制](https://www.cell.com/neuron/fulltext/S0896-6273(14)00298-0)
+Bruchasの方の[論文](<https://www.cell.com/neuron/fulltext/S0896-6273(21)00307-X>)（Neuronでした）
+Scott Sternsonの[hM4D+nrxnによるpresynapse抑制](<https://www.cell.com/neuron/fulltext/S0896-6273(14)00298-0>)
 Oferの[GtACR2論文](https://www.nature.com/articles/s41467-018-06511-8)
 EPFLの[SchneggenburgerラボHP](https://www.epfl.ch/labs/lsym/)
 論文２：MeApdの操作、[ChR2とChETAで違う結果](https://www.biorxiv.org/content/10.1101/2021.06.30.450543v1)
@@ -44,8 +44,8 @@ David Andersonラボ、[ChR2でやった仕事](https://www.cell.com/fulltext/S0
 CA1, [4Hzなら出る](https://www.science.org/lookup/doi/10.1126/science.aaa5542)
 Science[リトラクション](https://www.science.org/doi/10.1126/science.aba2173)
 論文３：[Acute off-target effects論文](https://www.nature.com/articles/nature16442)
-2011年の[Goshen論文](https://www.cell.com/fulltext/S0092-8674(11)01144-5)
-Olveczkyの[前の論文](https://www.cell.com/neuron/fulltext/S0896-6273(15)00220-2)（Motor Cortexの必要性について）
+2011年の[Goshen論文](<https://www.cell.com/fulltext/S0092-8674(11)01144-5>)
+Olveczkyの[前の論文](<https://www.cell.com/neuron/fulltext/S0896-6273(15)00220-2>)（Motor Cortexの必要性について）
 Brunoラボからの[Barrel Cortex要らないよ論文](https://www.nature.com/articles/s41586-018-0527-y)
 
 Editorial Notes:

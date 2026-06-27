@@ -43,12 +43,12 @@ PhD三部作その３：[異なる微生物への植物の応答と、微生物�
 Eckerラボから[マウス脳でsingle nucleusメチローム、Science 2017](https://www.science.org/doi/full/10.1126/science.aan3351)
 [ポスドク応募時に書いたメールについて](https://twitter.com/tnobo_ktcs/status/1148695411974008832?s=20)
 脳メチローム [その１](https://www.nature.com/articles/s41586-020-03182-8) [その２](https://www.nature.com/articles/s41586-021-03223-w)[その3](https://www.biorxiv.org/content/10.1101/2022.11.30.518285.abstract)[その4](https://www.biorxiv.org/content/10.1101/2023.04.16.536509v1) [その5](https://www.biorxiv.org/content/10.1101/2023.05.01.538832v1.abstract)他多数
-UPennでやったエチレン研究 [その１](https://www.cell.com/cell/pdf/0092-8674(93)90119-B.pdf) [その２](https://www.science.org/doi/abs/10.1126/science.284.5423.2148) [その３](https://www.cell.com/fulltext/S0092-8674(00)80300-1) 他多数
+UPennでやったエチレン研究 [その１](<https://www.cell.com/cell/pdf/0092-8674(93)90119-B.pdf>) [その２](https://www.science.org/doi/abs/10.1126/science.284.5423.2148) [その３](<https://www.cell.com/fulltext/S0092-8674(00)80300-1>) 他多数
 [シロイヌナズナ全ゲノム解読論文](https://www.nature.com/articles/35048692)
 [植物へのMicroarray](https://www.affymetrix.com/support/technical/other/amb_ecker_v3iss2.pdf)
 [シロイヌナズナのT-DNA変異体ライブラリ、Salk Line](https://www.science.org/doi/abs/10.1126/science.1086391)
 [Eckerキャリアインタビュー（2007年時点](https://www.pnas.org/doi/10.1073/pnas.0607124104)）
-[ゲノムワイドなメチル化アッセイ in 植物](https://www.cell.com/fulltext/S0092-8674(06)01018-X)
+[ゲノムワイドなメチル化アッセイ in 植物](<https://www.cell.com/fulltext/S0092-8674(06)01018-X>)
 [In Human](https://www.nature.com/articles/nature08514)
 [ENCODEでのJoeのトーク](https://youtu.be/wLyHGW5m14Y)
 [Ecker in HHMI](https://www.hhmi.org/scientists/joseph-r-ecker)
@@ -81,7 +81,7 @@ Sequence-by-ligation、例えば[これ](https://www.youtube.com/watch?v=YLT-DUe
 [Harvard Fellow](https://socfell.fas.harvard.edu/about)
 [NanoString](https://nanostring.com)
 [10x Genomics](https://www.10xgenomics.com)
-[EASI-FISH](https://www.cell.com/cell/fulltext/S0092-8674(21)01339-8)
+[EASI-FISH](<https://www.cell.com/cell/fulltext/S0092-8674(21)01339-8>)
 [Paul Tillberg](https://www.janelia.org/lab/tillberg-lab)
 [EEL-FISH](https://www.nature.com/articles/s41587-022-01455-3)
 [各神経の投射をバーコードで標識してSpatial Transcriptomics](https://www.sciencedirect.com/science/article/pii/S0092867419310748)

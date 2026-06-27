@@ -14,9 +14,9 @@ summary: "シーケンシングによって(神経)細胞の繋がり方・投�
 Show Notes:
 論文紹介
 RABID-seq: [Barcoded viral tracing of single-cell interactions in central nervous system inflammation](https://science.sciencemag.org/content/372/6540/eabf1230)
-MAPseq論文: [High-Throughput Mapping of Single-Neuron Projections by Sequencing of Barcoded RNA](https://www.cell.com/neuron/fulltext/S0896-6273(16)30421-4)
-BRICseq論文: [BRICseq Bridges Brain-wide Interregional Connectivity to Neural Activity and Gene Expression in Single Animals](https://www.cell.com/cell/fulltext/S0092-8674(20)30624-3)
-BARseq論文: [High-Throughput Mapping of Long-Range Neuronal Projection Using In Situ Sequencing](https://www.cell.com/cell/fulltext/S0092-8674(19)31074-8) ２は[こちら](https://www.nature.com/articles/s41593-021-00842-4)
+MAPseq論文: [High-Throughput Mapping of Single-Neuron Projections by Sequencing of Barcoded RNA](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30421-4>)
+BRICseq論文: [BRICseq Bridges Brain-wide Interregional Connectivity to Neural Activity and Gene Expression in Single Animals](<https://www.cell.com/cell/fulltext/S0092-8674(20)30624-3>)
+BARseq論文: [High-Throughput Mapping of Long-Range Neuronal Projection Using In Situ Sequencing](<https://www.cell.com/cell/fulltext/S0092-8674(19)31074-8>) ２は[こちら](https://www.nature.com/articles/s41593-021-00842-4)
 SYNseq論文: [Using high-throughput barcode sequencing to efficiently map connectomes](https://academic.oup.com/nar/article/45/12/e115/3760189)
 最初のオピニオン論文:[Sequencing the Connectome](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001411)
 Anthony Zador: ラボHPは[こちら](https://zadorlab.labsites.cshl.edu/)
@@ -40,7 +40,7 @@ Carandiniの学生の[論文](https://www.nature.com/articles/s41586-020-2894-4)
 GFAPは一部の集団: たとえば[これ](https://www.hindawi.com/journals/bmri/2019/9605265/)
 [グリアデコーディング](https://gliadecode.com/)
 CBSの新PI: [長井淳さん](https://www.riken.jp/research/labs/cbs/glia_neur_circ_dyn/index.html)のこと
-Beth Stevensの論文: [https://www.cell.com/neuron/fulltext/S0896-6273(12)00334-0](https://www.cell.com/neuron/fulltext/S0896-6273(12)00334-0)
+Beth Stevensの論文: [https://www.cell.com/neuron/fulltext/S0896-6273(12)00334-0](<https://www.cell.com/neuron/fulltext/S0896-6273(12)00334-0>)
 
 雑談
 Audible: Amazonのオーディオブックサービス
@@ -49,9 +49,9 @@ Deisserothの[Projection](https://www.amazon.com/Projections-Story-Emotions-Karl
 [Blanco Weiss](https://brancoweissfellowship.org/)
 [HFSP](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)は今年早い: 5/26(米国東海岸時間)に申請開始締切、5/27に申請締切
 すまかむらうで etc: 学位を取る時のラテン語、[ラテン・オナーズ](https://www.ryugaku-voice.com/km_us-honors.html)
-斎藤さん: Feng Zhangラボの[Makoto Saitoさん](https://www.cell.com/cell/fulltext/S0092-8674(21)00291-9)のこと
+斎藤さん: Feng Zhangラボの[Makoto Saitoさん](<https://www.cell.com/cell/fulltext/S0092-8674(21)00291-9>)のこと
 宮道さん: [宮道和成さん](https://cco.riken.jp/)のこと
-LancetになったイスラエルMoHの[論文](https://doi.org/10.1016/S0140-6736(21)00947-8)。特に65歳以上では無症候感染への効果は&lt;90%なので、まだしばらくはuniveral maskingは有効だと個人的には思うのですが...。
+LancetになったイスラエルMoHの[論文](<https://doi.org/10.1016/S0140-6736(21)00947-8>)。特に65歳以上では無症候感染への効果は&lt;90%なので、まだしばらくはuniveral maskingは有効だと個人的には思うのですが...。
 5G繋がる: ワクチンを打つこと (*なお副反応と免疫獲得には相関はないようなので、saline control(爆)でない限りは問題無いようです)
 
 <figure>

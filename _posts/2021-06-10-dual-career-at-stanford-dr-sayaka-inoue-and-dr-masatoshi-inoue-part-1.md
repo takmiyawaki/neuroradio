@@ -25,7 +25,7 @@ Show Notes:
 [DLC](https://www.nature.com/articles/s41593-018-0209-y): 転移学習を利用して少ないトレーニング画像でマーカーレスの姿勢推定を行う。オープンソース。
 [Zach Knightラボ](https://knightlab.ucsf.edu/)：摂食・摂水行動、体温調節など、体のホメオスタシスが脳によってどのように制御されるかを研究しているラボ。活動したニューロンのmRNAを捉える技術開発（[Ribo-tag](https://www.sciencedirect.com/science/article/pii/S0092867412013025), [Soma-tag](https://www.sciencedirect.com/science/article/pii/S0896627320303512)）などでも有名。
 [Synaptophysin-GCaMP](https://www.nature.com/articles/nmeth.1399)： プレシナプスに局在するシナプトファイジンをGCaMPに融合し、プレシナプスのイメージングを行いやすくする。
-Axon Remodeling先行研究：例えば[Svobodaラボ](https://www.cell.com/fulltext/S0896-6273(06)00134-6)や[Komiyamaラボ](https://www.nature.com/articles/nn.4049)のvivoイメージング論文
+Axon Remodeling先行研究：例えば[Svobodaラボ](<https://www.cell.com/fulltext/S0896-6273(06)00134-6>)や[Komiyamaラボ](https://www.nature.com/articles/nn.4049)のvivoイメージング論文
 Dendritic spine先行研究：[Woolly](https://www.jneurosci.org/content/10/12/4035)らが海馬で、[Matsumoto and Arai](https://link.springer.com/article/10.1007/BF00234187)が視床下部弓状核で、性周期に伴いdendritic spineが増減することをHistologyを用いて示した論文など
 KimchiとOferの[論文](https://www.nature.com/articles/nature15378): AVPVのTHポジティブ細胞がメス、かつ母親マウスにおいて増えており、養育行動に重要であることを示した
 2018年 AVPVの[kiss peptin論文](https://www.nature.com/articles/s41467-017-02797-2)
@@ -50,7 +50,7 @@ B6とICR: マウスの種。B6の方が胎児の数が少ない・養育行動�
 [QuasAr](https://www.nature.com/articles/nmeth.3000): Archaerhodopsin3の内在的な蛍光が電位依存的に変化することを利用、変異を導入することによって性質を向上させた電位プローブ。ハーバードのAdam Cohenらが開発。
 [Alice Ting](https://www.tinglab.org/)：proximity labelling等の生化学的・遺伝学的なツール開発を得意とするラボ
 [Liqun Luo](https://web.stanford.edu/group/luolab/)：遺伝学的な回路マッピングの大御所。最近はイメージングも。
-学長の： Marc Tessier-Lavigneの[iDISCO](https://www.cell.com/fulltext/S0092-8674(14)01297-5)
+学長の： Marc Tessier-Lavigneの[iDISCO](<https://www.cell.com/fulltext/S0092-8674(14)01297-5>)
 Joint Program: ２つのラボに所属してそれぞれのPIの指導の元で研究を行うこと
 [William Allen](https://sites.fas.harvard.edu/~wia219/): LuoラボとDラボでPhD中に（共）筆頭著者としてS３報、C１報、Neuron１報などを出したヒト
 APEXを使ったZhenan Baoラボとの[コラボ論文](https://science.sciencemag.org/content/367/6484/1372)

@@ -18,8 +18,8 @@ Show Notes:
 [NRジャーナルクラブ回](/2022/10/06/46-the-fos-expression-we-saw-that-day/)
 [Lake Conferences](https://lakeconferences.org/)
 [Florida Panhandle](https://en.wikipedia.org/wiki/Florida_panhandle)
-[タラハシー市](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%83%8F%E3%82%B7%E3%83%BC_(%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E5%B7%9E))
-シアトルのあるワシントン州の州都は[オリンピア](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2_(%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%B7%9E))。タコマは軍基地がある。
+[タラハシー市](<https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%83%8F%E3%82%B7%E3%83%BC_(%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E5%B7%9E)>)
+シアトルのあるワシントン州の州都は[オリンピア](<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2_(%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%B7%9E)>)。タコマは軍基地がある。
 [Florida State University フロリダ州立大学](https://www.fsu.edu/)
 [服部さん](https://hattori.scripps.ufl.edu/) (Scripps, [The University of Florida フロリダ大学](https://www.ufl.edu/))
 [Seminoles (FSU) vs Gators (UF)](https://en.wikipedia.org/wiki/Florida%E2%80%93Florida_State_football_rivalry)
@@ -76,7 +76,7 @@ LIP抑制ではないですが、[Fetsch et al](https://elifesciences.org/articl
 [Stefano Fusi](https://ctn.zuckermaninstitute.columbia.edu/people/stefano-fusi)
 [Rigotti et al](https://www.nature.com/articles/nature12160) (Mixed selectivity)
 [Barnerdi et al](https://www.sciencedirect.com/science/article/pii/S0092867420312289) (CCGP: Cross Condition Generalization Performance)
-[Schema](https://en.wikipedia.org/wiki/Schema_(psychology))を使った[Categorizationの簡潔な総説を五十嵐さんが書いている](https://www.sciencedirect.com/science/article/pii/S0959438822001350?via%3Dihub)
+[Schema](<https://en.wikipedia.org/wiki/Schema_(psychology)>)を使った[Categorizationの簡潔な総説を五十嵐さんが書いている](https://www.sciencedirect.com/science/article/pii/S0959438822001350?via%3Dihub)
 [Saltzman & Fusi](https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.051508.135256)
 [Courellis et al](https://www.nature.com/articles/s41586-024-07799-x) (ヒトの神経活動をCCGPで解析)
 [Attila Losonczy](https://www.losonczylab.org/)  (現在はUniversity of Texas South Western)

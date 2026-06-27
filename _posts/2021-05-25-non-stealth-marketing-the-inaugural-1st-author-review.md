@@ -40,18 +40,18 @@ Schnitzer研との[コラボ論文](https://www.nature.com/articles/nature21682)
 Josh JohansenのEyelid刺激の[仕事](https://www.nature.com/articles/nn.2594)
 CUBICによる透明化と抗体染色。ここでは[初代プロトコル](https://www.nature.com/articles/nprot.2015.085)を少し改変して使用。
 [FoxP2-Cre line](https://doi.org/10.1016/j.celrep.2016.04.069) by Palmiterラボ。FoxP2は転写因子の一種。
-Plamiterは近年CGRPを手がかりにlPB(lateral parabracial)でヒット連発（[1](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(18)30068-7), [2](https://www.nature.com/articles/nature25511), [3](https://www.cell.com/cell/fulltext/S0092-8674(15)00775-8)）。おそらく80歳近いはずだが、40年以上HHMIをキープし続けている。
+Plamiterは近年CGRPを手がかりにlPB(lateral parabracial)でヒット連発（[1](<https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(18)30068-7>), [2](https://www.nature.com/articles/nature25511), [3](<https://www.cell.com/cell/fulltext/S0092-8674(15)00775-8>)）。おそらく80歳近いはずだが、40年以上HHMIをキープし続けている。
 [Andrew Holmes](https://irp.nih.gov/pi/andrew-holmes): 薬理遺伝学（[KORD/DREADD](https://dx.doi.org/10.1016%2Fj.neuron.2016.01.040)）コラボ相手。NIHのPrinciple Investigator
 2017年の[Amygdala Gordon Conference](https://www.grc.org/amygdala-function-in-emotion-cognition-and-disease-conference/2017/)
 [Ingrid Ehrlich](https://www.bio.uni-stuttgart.de/en/neurobio/research/physiology-of-learning-and-memory/): スライス実験コラボ相手。
 Kay Tyeの[Nature](https://www.nature.com/articles/nature14366). BLA to CeM/NAcの解析。
-BLA to PL/ILのキャラクタライズ [Senn et al. 2014 Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(13)01040-4)
+BLA to PL/ILのキャラクタライズ [Senn et al. 2014 Neuron](<https://www.cell.com/neuron/fulltext/S0896-6273(13)01040-4>)
 [soCoChR](https://www.nature.com/articles/s41593-017-0018-8), 発現が細胞体に優位に出るように改変されたCoChR. [CoChR](https://www.nature.com/articles/nmeth.2836)はphoto currentが大きい。From Boyden Lab
 Fiber Photometry: バルクでCaシグナルを測る技術. Single-cellの解像度はないが、感度が高く、何より簡単。
 Rebuttal,論文リバイズの際にreviewerコメントにpoint-by-pointで答える反証レター。
 AMPA/NMDA ratio: 興奮性(Glutermatergic)シナプスの長期増強を反映する
 Opponent-process theory of motivation. [Solomon and Corbit 1974](https://psycnet.apa.org/record/1974-26855-001)
-利根川研のReward engramとextinctionの共通性に関する[論文](https://www.cell.com/neuron/fulltext/S0896-6273(19)31091-8)。
+利根川研のReward engramとextinctionの共通性に関する[論文](<https://www.cell.com/neuron/fulltext/S0896-6273(19)31091-8>)。
 [GRABセンサー](https://www.nature.com/articles/s41592-020-00981-9): Genetically-encoded neuromodulation sensorの一つ。Yulong Li Lab。
 
 <figure>

@@ -30,7 +30,7 @@ DANDRITE [⁠Scientific Advisory Board (SAB) Meeting⁠](https://dandrite.au.dk/
 [⁠Greenbergの2014 (Malik et al.)⁠](https://www.nature.com/articles/nn.3808)
 [⁠Seattle Hub for Synthetic Biology⁠](https://alleninstitute.org/division/seattle-hub-for-synthetic-biology/)
 [⁠Jay Shendureの論文(Choi et al., 2022)⁠](https://www.nature.com/articles/s41586-022-04922-8)
-[⁠Jesse Gray⁠](https://alleninstitute.org/person/jesse-gray/) この人もGreenberg系列。一瞬独立して[⁠KCl-IEG実験(Tyssowski2018)⁠](https://www.cell.com/neuron/fulltext/S0896-6273(18)30285-X)とかやってたが気づけばなぜかAllenにいる。
+[⁠Jesse Gray⁠](https://alleninstitute.org/person/jesse-gray/) この人もGreenberg系列。一瞬独立して[⁠KCl-IEG実験(Tyssowski2018)⁠](<https://www.cell.com/neuron/fulltext/S0896-6273(18)30285-X>)とかやってたが気づけばなぜかAllenにいる。
 [⁠Chao Sun⁠](https://dandrite.au.dk/people/research-groups/sun-group)
 [⁠エリンシューマン⁠](https://brain.mpg.de/schuman)
 [⁠Anna Klawonn⁠](https://dandrite.au.dk/people/research-groups/klawonn-group)

@@ -35,14 +35,14 @@ Appleの指紋認証キーボード ([Magic Keyboard with Touch ID](https://supp
 
 論文パート
 
-論文１：[Strong ubiquitous micro-promoters for recombinant adeno-associated viral vectors](https://www.cell.com/molecular-therapy-family/methods/fulltext/S2329-0501(23)00075-X)
+論文１：[Strong ubiquitous micro-promoters for recombinant adeno-associated viral vectors](<https://www.cell.com/molecular-therapy-family/methods/fulltext/S2329-0501(23)00075-X>)
 [ITRにもプロモーター活性がある](https://journals.asm.org/doi/10.1128/JVI.74.18.8732-8739.2000)
 [degradationのターゲットになったりする](https://www.sciencedirect.com/science/article/pii/S2211124718309598)
 [CaMK2aプロモーターの長さによる違い](https://www.pnas.org/doi/abs/10.1073/pnas.0407976101)
 論文２：[Primate-conserved carbonic anhydrase IV and murine-restricted LY6C1 enable blood-brain barrier crossing by engineered viral vectors](https://www.science.org/doi/10.1126/sciadv.adg6618)
 [LY6C1について指向進化したプレプリント from Devermanラボ](https://www.biorxiv.org/content/10.1101/2022.10.31.514553v1)
 [AAV-F](https://www.sciencedirect.com/science/article/pii/S2329050119301159)
-[AAV9Pシリーズ](https://www.cell.com/molecular-therapy-family/methods/fulltext/S2329-0501(20)30254-0)
+[AAV9Pシリーズ](<https://www.cell.com/molecular-therapy-family/methods/fulltext/S2329-0501(20)30254-0>)
 [肝臓のdetargetingをEngineeringでやった仕事](https://www.nature.com/articles/s41593-021-00969-4) (CAPシリーズ)
 [M-CREATE](https://www.nature.com/articles/s41592-020-0799-7)
 [AlphaFold-Multimer](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2)

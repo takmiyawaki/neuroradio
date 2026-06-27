@@ -54,15 +54,15 @@ Erratum (出版社側のミスの訂正)というよりはCorrigendum(著者側�
 [赤色dLight](https://www.nature.com/articles/s41592-020-0936-3)
 [Mohebi & Berke のNature論文](https://www.nature.com/articles/s41586-019-1235-y)
 [Azcorra et al., Awatramani と Dombeckの論文](https://www.nature.com/articles/s41593-023-01401-9)
-[内田さんの論文](https://www.cell.com/cell/fulltext/S0092-8674(20)31530-0)
+[内田さんの論文](<https://www.cell.com/cell/fulltext/S0092-8674(20)31530-0>)
 [最近Stephan Lammelが出したNature Neuroの論文](https://www.nature.com/articles/s41593-023-01547-6)
-一人で訂正[これ](https://www.cell.com/neuron/fulltext/S0896-6273(14)01145-3)で[これ](https://www.nature.com/articles/nature11527)を訂正したと思っていましたが、
-[自己訂正というよりかは、StuberとDAT-Cre vs Th-Cre でやり合っていた感じでした](https://www.cell.com/neuron/fulltext/S0896-6273(14)01143-X)
+一人で訂正[これ](<https://www.cell.com/neuron/fulltext/S0896-6273(14)01145-3>)で[これ](https://www.nature.com/articles/nature11527)を訂正したと思っていましたが、
+[自己訂正というよりかは、StuberとDAT-Cre vs Th-Cre でやり合っていた感じでした](<https://www.cell.com/neuron/fulltext/S0896-6273(14)01143-X>)
 [Voltage IndicatorのPhotoswitch](https://www.nature.com/articles/s41586-019-1166-7)
 [IRを一緒に当てると褪色が遅くなる](https://www.nature.com/articles/s41587-023-01893-7)
 [Kaede](https://www.pnas.org/doi/10.1073/pnas.202320599)
 [CAMPARI](https://www.science.org/doi/abs/10.1126/science.1260922)
-[X-CAMP R](https://www.cell.com/cell/fulltext/S0092-8674(19)30393-9)
+[X-CAMP R](<https://www.cell.com/cell/fulltext/S0092-8674(19)30393-9>)
 [RCaMP3](https://www.biorxiv.org/content/10.1101/2023.01.06.522686v1) [Nature Methodsに掲載](https://www.nature.com/articles/s41592-024-02222-9) (3/21)
 [初代mScarlet](https://www.nature.com/articles/nmeth.4074)
 [Kaesarのドパミン軸索でのaction potential initiation by Cholinergic input](https://www.science.org/doi/10.1126/science.abn0532)
@@ -72,9 +72,9 @@ Erratum (出版社側のミスの訂正)というよりはCorrigendum(著者側�
 [Bio-stationさんのポッドキャスト](https://open.spotify.com/episode/0L7UHVmSx2Egrr6iqahKIx?si=ULhnskcCTkGGqBwPDY0dlw&nd=1&dlsi=34925a0a730b4b35)
 [Franck Polleuxラボ](https://polleuxlab.netlify.app/)
 [田尾さんのミトコンドリア局在と軸索分岐の論文](https://onlinelibrary.wiley.com/doi/abs/10.1002/dneu.22149)
-[もう一報出てたやつ](https://www.cell.com/cell/fulltext/S0092-8674(13)00588-6)：Polleuxラボからでした
+[もう一報出てたやつ](<https://www.cell.com/cell/fulltext/S0092-8674(13)00588-6>)：Polleuxラボからでした
 [本来のScanning Ion Conductance Microscopy](https://www.science.org/doi/10.1126/science.2464851)
-[SypHer](https://www.jbc.org/article/S0021-9258(20)53786-1/fulltext)
+[SypHer](<https://www.jbc.org/article/S0021-9258(20)53786-1/fulltext>)
 [iATPSnFR](https://www.nature.com/articles/s41467-019-08441-5)
 
 Editorial Notes:

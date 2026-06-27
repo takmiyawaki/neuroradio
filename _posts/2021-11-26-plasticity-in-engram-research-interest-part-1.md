@@ -31,7 +31,7 @@ Show Notes:
 [栗原裕基教授](https://bio.m.u-tokyo.ac.jp/home-j.html)
 フリークオーター: 教養のうちから休み期間等にラボに出入りしてみる医学部のプログラム
 [岩坪先生](https://www.neuropathology.m.u-tokyo.ac.jp/)
-[Single-cell レベルでChIPseqできるCut&Run](https://www.cell.com/cell/fulltext/S0092-8674(19)30276-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419302764%3Fshowall%3Dtrue)
+[Single-cell レベルでChIPseqできるCut&Run](<https://www.cell.com/cell/fulltext/S0092-8674(19)30276-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419302764%3Fshowall%3Dtrue>)
 [Hoxa2論文](https://www.sciencedirect.com/science/article/pii/S0012160615001876?via%3Dihub)(Kitazawa et al., Developmental Biology, 2015)
 [鼓膜進化論文](https://www.nature.com/articles/ncomms7853)(Kitazawa et al., Nature Comm, 2015) 鼓膜論文、結局内容についてちゃんと話してなかったです汗。哺乳類(=マウス)と双弓類(爬虫類・鳥類=ニワトリ)でEdn1-Dlx5/6経路を阻害して下顎→上顎ホメオティック変異を起こさせると、マウスでは鼓膜が消失するのに対してニワトリでは鼓膜の重複が起きる。これは鼓膜の発生が全く異なる発生機構の下流にあることを示し、鼓膜の収斂進化の実験的証拠となった。[理研のプレスリリース](https://www.riken.jp/press/2015/20150422_2/index.html)がとても分かりやすい。(北沢注)
 あと、[日経サイエンス(Scientific American日本語版)2015年8月号でも特集されました](https://www.nikkei-science.com/?p=47634)。他にも結構新聞で取り上げられたなー(北沢注)

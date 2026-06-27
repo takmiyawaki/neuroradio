@@ -102,7 +102,7 @@ Fovea: 中心窩
 進化系統樹を書いてやるとネコよりマウスの方が近い：上記レビューのFig. 7
 [同じ選択性のあるカラムはConnectivity高い](https://doi.org/10.1523/JNEUROSCI.09-07-02432.1989)
 [フィッツパトリックが開眼直前・直後のイメージング](https://www.nature.com/articles/nature07417)
-[カラツキー・ストライカーのIntrinsic Imaging論文](https://doi.org/10.1016/S0896-6273(03)00286-1)
+[カラツキー・ストライカーのIntrinsic Imaging論文](<https://doi.org/10.1016/S0896-6273(03)00286-1>)
 上記論文はfrequencyで解析するという手法のアップデートがなされただけで、ここはグリンバルド・ウィーゼル・ボンホッファーの最初期のイメージングの論文[1](https://www.nature.com/articles/324361a0), [2](https://www.nature.com/articles/353429a0)をあげるべきでした。なので90年代にはイメージングできている。（萩）
 [Uniform Coverageの論文](https://www.nature.com/articles/nn0800_822)
 論文４・[Directed evolution of adeno-associated virus for efficient gene delivery to microglia](https://www.nature.com/articles/s41592-022-01547-7)

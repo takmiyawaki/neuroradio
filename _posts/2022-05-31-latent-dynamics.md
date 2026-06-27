@@ -30,7 +30,7 @@ SfN:Society for Neuroscience 北米神経科学会。世界最大の超巨大神
 [Andreasはグルメ](https://twitter.com/KentaM_Hagihara/status/1397569803162951683)
 肉にソースを注射する[インジェクションマシン（Marinade Injector）の例](https://www.napoleon.com/en/us/grills/blog/what-marinade-injector-and-how-do-i-use-it)
 [ボス(George Church)もヴィーガン](https://www.sciencefriday.com/articles/10-questions-for-george-church-geneticist/)
-お酒、適量が身体にいいというわけでは無い [その１](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30134-X/fulltext)　[その２](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31310-2/fulltext)
+お酒、適量が身体にいいというわけでは無い [その１](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30134-X/fulltext>)　[その２](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31310-2/fulltext>)
 [Researchat.fmのPaperpile回](https://researchat.fm/episode/102)
 [マリファナ、ダメ、絶対](https://torja.ca/pot-kajimoto/)
 
@@ -44,7 +44,7 @@ SfN:Society for Neuroscience 北米神経科学会。世界最大の超巨大神
 [Flavio Donatoラボ](https://www.donatolab.com/)
 [Pico Caroniラボ](https://www.fmi.ch/research-groups/groupleader.html?group=7)
 [Switzerland bans boiling lobsters alive](https://www.cnn.com/travel/article/switzerland-lobster-boiling-banned/index.html)
-論文その２：[Top-down control of hippocampal signal-to-noise by prefrontal long-range inhibition](https://www.cell.com/cell/fulltext/S0092-8674(22)00397-X)
+論文その２：[Top-down control of hippocampal signal-to-noise by prefrontal long-range inhibition](<https://www.cell.com/cell/fulltext/S0092-8674(22)00397-X>)
 Meno Witterによる、PFCから海馬への直接投射は無いよ、の[論文](https://onlinelibrary.wiley.com/doi/10.1002/hipo.20330)
 Nucleus Reuniensを介してdi-synaptic にコントロールしてる、の[一例](https://www.nature.com/articles/nature14396)
 [Rajasethupathy et al](https://www.nature.com/articles/nature15389)

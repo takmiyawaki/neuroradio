@@ -14,9 +14,9 @@ summary: "古館昌平さん(<a href='https://x.com/ShoheiFurutachi'>@ShoheiFuru
 
 Show Notes:
 予測誤差タスク時のV1神経回路活動に関する[最新プレプリント](https://www.biorxiv.org/content/10.1101/2023.07.12.548664v1)　[SWCのブログ記事](https://www.sainsburywellcome.org/web/blog/deciphering-brains-prediction-machine)
-[予測符号化に関するKellerとMrsic-Flogelのレビュー](https://www.cell.com/neuron/fulltext/S0896-6273(18)30857-2)
+[予測符号化に関するKellerとMrsic-Flogelのレビュー](<https://www.cell.com/neuron/fulltext/S0896-6273(18)30857-2>)
 [Kellerのnn 2016](https://www.nature.com/articles/nn.4385)
-[Tian et al.](https://www.cell.com/neuron/fulltext/S0896-6273(16)30510-4)
+[Tian et al.](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30510-4>)
 [Tirin Moore](https://www.moorelabstanford.com/)
 [Robert Wurtz](https://www.nasonline.org/member-directory/members/8898.html)
 [LatencyによるAttentionがかかる議論の具体例](https://www.nature.com/articles/nature07382)1 (by Wurtz) と[例2 (by Desimone)](https://www.sciencedirect.com/science/article/pii/S0896627315010405?via%3Dihub)
@@ -25,13 +25,13 @@ Show Notes:
 [Alex Attinger](https://scholar.google.de/citations?user=y7__I9gAAAAJ&hl=en)
 [Lisa Giocomo](https://giocomolab.weebly.com/)
 [Uchida lab](https://projects.iq.harvard.edu/uchidalab/home)
-[Kim et al., Cell 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)31530-0)
-[Sensory Prediction Errorの際のReceptive field を見る](https://www.cell.com/neuron/fulltext/S0896-6273(16)30699-7)（ArisじゃなくてPowelでした）
+[Kim et al., Cell 2020](<https://www.cell.com/cell/fulltext/S0092-8674(20)31530-0>)
+[Sensory Prediction Errorの際のReceptive field を見る](<https://www.cell.com/neuron/fulltext/S0896-6273(16)30699-7>)（ArisじゃなくてPowelでした）
 [Oddball 課題](https://en.wikipedia.org/wiki/Oddball_paradigm)
 [Marinaのタスクでもオフレスポンスを見ていた](https://elifesciences.org/articles/50340) (Cortical top-downはL1aとb両方でした by 古)
 [Randy Bruno](https://www.dpag.ox.ac.uk/team/randy-bruno)
 の[仕事](https://elifesciences.org/articles/44158)
-あと[BurkhalterのL1 inputsのsegregation論文](https://www.cell.com/neuron/pdf/S0896-6273(19)30793-7.pdf)もありますね。(古)
+あと[BurkhalterのL1 inputsのsegregation論文](<https://www.cell.com/neuron/pdf/S0896-6273(19)30793-7.pdf>)もありますね。(古)
 [Alison Barth](https://www.cmu.edu/bio/people/faculty/barth.html)
 の[仕事](https://academic.oup.com/cercor/article/28/4/1312/3064955)
 [Carl Petersen](https://people.epfl.ch/carl.petersen?lang=en)

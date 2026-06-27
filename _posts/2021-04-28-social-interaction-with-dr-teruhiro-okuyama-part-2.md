@@ -33,7 +33,7 @@ EI balance and social ~…[Neocortical excitation/inhibition balance in informat
 田尾さん…奥山ラボ助教、田尾賢太郎さんのこと
 キャサリン…ハーバードの[Catherine Dulac](https://www.dulaclab.com/)のこと。子育て行動の神経基盤などを研究。
 デイビッド…Caltechの[David Anderson](https://davidandersonlab.caltech.edu/)のこと。社会性行動、特に性行動、攻撃行動等の神経基盤を研究。
-複数個体の記録…[この論文](https://www.cell.com/cell/fulltext/S0092-8674(19)30550-1)とか[この論文](https://www.cell.com/cell/fulltext/S0092-8674(19)30551-3)とか
+複数個体の記録…[この論文](<https://www.cell.com/cell/fulltext/S0092-8674(19)30550-1>)とか[この論文](<https://www.cell.com/cell/fulltext/S0092-8674(19)30551-3>)とか
 かりごう…David Andersonラボの苅郷友美さんのこと
 Inside Out…Buzsakiの本。Podcastでのインタビューは[こちら](https://brainsciencepodcast.com/bsp/2020/172-buzsaki)  脳を、外界の情報を処理してoutputを出す器官ではなく、既存の自発的な神経活動パターンを外界の情報や自分の行動に当てはめている器官という見方をしよう…みたいな。
 クリストフ・コッホ…Allen Instituteの[Christof Koch](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/christof-koch/)のこと。『意識』を生み出す神経基盤、意識に対応する神経活動、意識の定量方法の研究など

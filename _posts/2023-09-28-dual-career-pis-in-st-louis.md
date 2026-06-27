@@ -29,13 +29,13 @@ Show Notes:
 [苅郷さん](https://neuroscience.jhu.edu/research/faculty/161)（NR出演回は上述の過去出演回３）
 [加藤さん](https://park.itc.u-tokyo.ac.jp/hekato_lab/)
 の[NR出演回](/2022/05/09/35-introduction-to-structural-biology-for-neuroscientists/)
-[ChRmine論文](https://www.cell.com/cell/fulltext/S0092-8674(22)00031-9)
+[ChRmine論文](<https://www.cell.com/cell/fulltext/S0092-8674(22)00031-9>)
 [R1大学](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States)
 [全米大学協会](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%A4%A7%E5%AD%A6%E5%8D%94%E4%BC%9A)
 言い忘れてましたが、主に[MSTP](https://en.wikipedia.org/wiki/Medical_Scientist_Training_Program)プログラムがあるところに応募しました
 オススメ日本の就活YouTubeビデオ：[コレ](https://www.youtube.com/channel/UCNyyfaueYSnekYswF3d7qnw)や[アレ](https://www.youtube.com/channel/UCTyKZzmKi95wxmCg9rU-j6Q) (注)あくまでも息抜きに見てください。
 [オススメ英語の話し方YouTubeビデオ](https://www.youtube.com/watch?v=wguX6Clv5h8)：この方のチャンネルは、アメリカでのキャリアディベロップメントに役立つスキルが沢山学べます。(清)
-[2nd authorになってるやつ](https://www.cell.com/cell/fulltext/S0092-8674(21)01494-X)
+[2nd authorになってるやつ](<https://www.cell.com/cell/fulltext/S0092-8674(21)01494-X>)
 [HarvardでAffirmative actionが違法に](https://www.harvardmagazine.com/2023/06/harvard-supreme-court-ruling-2023)
 [StanfordのDEI関連ポスドクコミュニティ](https://surpas.stanford.edu/postdoc-committees/justice-equity-diversity-and-inclusion-jedi/)
 [NeuroMatch Academy](https://academy.neuromatch.io/)
@@ -64,7 +64,7 @@ Stanford, 中学校でやるやつの募集：[Stanford Brain Day](https://sites
 [Photoacoustic imaging](https://engineering.wustl.edu/news/2022/A-one-two-punch-for-photoacoustic-imaging.html), 脳への応用は例えば[これ](https://www.nature.com/articles/s41586-022-05397-3)
 [Shapiro lab](https://shapirolab.caltech.edu/)
 [マウスの更年期障害モデル](https://www.jax.org/news-and-insights/2005/january/a-hormonally-relevant-model-for-human-menopause)
-[井上さんがやっている摘出系](https://www.cell.com/cell/fulltext/S0092-8674(19)31175-4)
+[井上さんがやっている摘出系](<https://www.cell.com/cell/fulltext/S0092-8674(19)31175-4>)
 宮道先生が最近出された[年齢を重ねるにつれてARC kissのActivity dynamicsが変化する、の仕事](https://elifesciences.org/articles/82533)　Ageに伴いEstrous cycleがAcyclicになっていく(Fig2)。この1つのFigだけでも仕事量がすごい。(清)
 FDA approved 産後うつ治療薬[Zuranolone](https://investors.biogen.com/news-releases/news-release-details/biogen-and-sage-therapeutics-announce-fda-accepts-filing-new) (SAGE-217/BIIB125)
 [WashUのInternal Funding](https://research.wustl.edu/funding/seed-funding/) これでも一部なのです！(清)
@@ -73,7 +73,7 @@ FDA approved 産後うつ治療薬[Zuranolone](https://investors.biogen.com/news
 [Wash U のNeuroscience Retreat](https://neuroscienceresearch.wustl.edu/education-events/neuro-retreat/)
 [Unitedの上級クレカ](https://creditcards.chase.com/travel-credit-cards/united/club-infinite)
 追記（昌）、Green card holderなら、[Priority pass](https://www.prioritypass.com/)と[Global entry](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry)ペアがベストではと思います。
-[モンサント](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%88_(%E4%BC%81%E6%A5%AD))
+[モンサント](<https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%88_(%E4%BC%81%E6%A5%AD)>)
 [シグマアルドリッチ](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B0%E3%83%9E_%E3%82%A2%E3%83%AB%E3%83%89%E3%83%AA%E3%83%83%E3%83%81)
 [セントルイスの水運と発展の歴史](https://www.britannica.com/place/Saint-Louis-Missouri)
 [WashU 1853年創立](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%A4%A7%E5%AD%A6)

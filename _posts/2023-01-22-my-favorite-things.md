@@ -54,7 +54,7 @@ Goretex vs Futurelightの[比較実験動画](https://www.youtube.com/watch?v=Yq
 [Weee!](https://www.sayweee.com/en/onboarding)
 [Weeeを紹介して頂いた井上さん回](/2021/06/11/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-2/)
 [風呂のふた](https://www.amazon.com/gp/product/B000BUPSEC/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
-[オフィーリア](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AA%E3%82%A2_(%E7%B5%B5%E7%94%BB))
+[オフィーリア](<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AA%E3%82%A2_(%E7%B5%B5%E7%94%BB)>)
 [ドリキン](https://www.youtube.com/@koh)の[お尻洗えるシャワー](https://youtu.be/NVtLwatdl88?t=96)
 [折り畳みの浴槽](https://www.amazon.com/Portable-Homefilos-Japanese-Inflatable-Flexible/dp/B07RL197R5/ref=sr_1_40?keywords=folding%2Bbathtub&qid=1674367668&sr=8-40&th=1)
 [Tuft and Needle のマットレス](https://www.amazon.com/dp/B0BG9HP16P/?tag=thewire06-20&linkCode=xm2&ascsubtag=AwEAAAAAAAAAASl_&th=1) 1000ドルじゃなくて750ドルでした笑
