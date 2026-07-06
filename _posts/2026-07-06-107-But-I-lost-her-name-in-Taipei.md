@@ -69,7 +69,7 @@ David Sussilloの半生が読める([本](https://www.davidsussillo.com/)、[Gro
 [ペースギャラリー](https://www.pacegallery.com/)
 [ブサキラボPhDアコレード（騎士の資格を授与する儀式）の様子](https://buzsakilab.com/wp/2024/06/11/congratulations-dr-huszar/#iLightbox[image_carousel_1]/0): ローブは自身がPhDを取ったときのもの、剣を使った儀式は、ゲーム・オブ・スローンズが好きだった学生の希望で5年前ほど前に始まったらしい（藤
 [ヨビノリのAIの歴史についての動画](https://www.youtube.com/watch?v=BF1hifCxbqU)
-[7月の勉強会](https://docs.google.com/forms/d/e/1FAIpQLSeSXalUco8kUDOhB6nXqzc8bQ-T8uDa3L4NAgiIMsVI_LIqdQ/viewform): NYC周辺の方はぜひ\~(藤
+[7月の勉強会](https://docs.google.com/forms/d/e/1FAIpQLSeSXalUco8kUDOhB6nXqzc8bQ-T8uDa3L4NAgiIMsVI_LIqdQ/viewform): NYC周辺の方はぜひ~(藤
 
 Editorial Notes:
 とか言ってたらランダム抽出でSPReAD落ちてました。機会のfairnessに貢献してるということで怒りを納めることにします(萩) 
