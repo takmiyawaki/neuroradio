@@ -5,6 +5,7 @@ episode_number: "107"
 date: 2026-07-06
 permalink: /2026/07/06/107-But-I-lost-her-name-in-Taipei/
 spotify: "https://open.spotify.com/embed/episode/6qmPdyDuOdyG3ZHQI4yslA?utm_source=generator&si=e8635d350fe34cc7"
+apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/107-but-i-lost-her-name-in-taipei/id1556937028?i=1000775641956"
 performers: ["萩", "藤"]
 topics: ["雑談回", "LLM", "データ解析", "学会"]
 summary: "どくとるハギハラ台湾記。データ解析・管理へのLLM活用、台湾出張、メリトクラシーとは? (2026/06/26 収録)"
